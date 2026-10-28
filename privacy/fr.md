@@ -1,6 +1,6 @@
 # Politique de confidentialité de Cingle Remote
 
-Dernière mise à jour : 23 octobre 2026
+Dernière mise à jour : 28 octobre 2026
 
 Cette Application traite très peu de Données personnelles et en conserve la quasi-totalité sur les propres appareils de l’Utilisateur. Elle n’affiche aucune publicité, n’utilise aucun service d’analyse ni de suivi et n’envoie aucune Donnée à des serveurs exploités par le Propriétaire.
 
@@ -9,7 +9,6 @@ Cette Application traite très peu de Données personnelles et en conserve la qu
 ### Données personnelles traitées aux fins suivantes
 
 * **Commande des téléviseurs :** les noms, modèles et adresses réseau des téléviseurs présents sur le réseau Wi-Fi de l’Utilisateur, ainsi que les clés nécessaires au jumelage avec ceux-ci. Conservés sur l’iPhone et l’Apple Watch de l’Utilisateur.
-* **Se connecter avec Apple (facultatif) :** le nom et l’adresse e-mail de l’Utilisateur. Conservés sur l’iPhone de l’Utilisateur.
 * **Achats :** gérés par Apple. Cette Application reçoit d’Apple des informations indiquant quels Produits l’Utilisateur a achetés et quand cette Application a été téléchargée pour la première fois.
 * **Assistance :** les e-mails que les Utilisateurs choisissent d’envoyer au Propriétaire.
 
@@ -34,16 +33,15 @@ Adresse e-mail de contact du Propriétaire : [zcengel@yahoo.com](mailto:zcengel
 Parmi les types de Données personnelles que traite cette Application figurent :
 
 * **Informations sur les téléviseurs :** le nom, le modèle, la marque et l’adresse IP de chaque téléviseur détecté sur le réseau local de l’Utilisateur ou ajouté par l’Utilisateur, son adresse MAC lorsque le téléviseur la communique, ainsi que les clés de jumelage, jetons et certificats échangés avec le téléviseur.
-* **Informations de compte :** uniquement si l’Utilisateur se connecte avec Apple, le nom et l’adresse e-mail qu’Apple communique (il peut s’agir d’une adresse de relais privée fournie par la fonction Masquer mon adresse e-mail d’Apple), ainsi que l’identifiant qu’Apple attribue à l’Utilisateur pour cette Application.
 * **Informations d’achat :** les Produits que l’Utilisateur a achetés, le fait qu’un abonnement soit actif ou non et sa date de fin, ainsi que la date du premier téléchargement de cette Application, ces informations étant toutes fournies par Apple.
 * **Réglages :** les choix de l’Utilisateur dans cette Application, tels que le retour haptique, la langue et les boutons d’apps affichés sur la télécommande.
 * **Informations d’assistance :** le contenu de tout e-mail que l’Utilisateur envoie au Propriétaire, l’adresse e-mail de l’Utilisateur et les informations techniques qui y sont ajoutées, comme décrit ci-dessous.
 
 Les appuis sur les touches et le texte saisi avec le clavier de cette Application sont envoyés uniquement au téléviseur de l’Utilisateur et ne sont pas stockés.
 
-Les Données personnelles sont fournies par l’Utilisateur, par exemple lorsqu’il se connecte avec Apple ou écrit au Propriétaire, ou sont créées lors de l’utilisation de cette Application, par exemple lorsqu’elle détecte un téléviseur ou se jumelle avec celui-ci.
+Les Données personnelles sont fournies par l’Utilisateur, par exemple lorsqu’il écrit au Propriétaire, ou sont créées lors de l’utilisation de cette Application, par exemple lorsqu’elle détecte un téléviseur ou se jumelle avec celui-ci.
 
-La connexion avec Apple est facultative et toutes les fonctionnalités de cette Application sont disponibles sans connexion. Sans accès au réseau local, qu’iOS demande à l’Utilisateur d’autoriser, cette Application ne peut ni détecter ni commander de téléviseurs.
+Sans accès au réseau local, qu’iOS demande à l’Utilisateur d’autoriser, cette Application ne peut ni détecter ni commander de téléviseurs.
 
 Les Utilisateurs qui ont des doutes quant aux Données personnelles requises sont invités à contacter le Propriétaire.
 
@@ -56,12 +54,6 @@ Les Utilisateurs sont responsables de toutes les Données personnelles de tiers 
 Pour détecter les téléviseurs, cette Application effectue une recherche sur le réseau local de l’Utilisateur, une fois que l’Utilisateur l’y a autorisée. Elle communique ensuite directement avec le téléviseur via le réseau local. Les appuis sur les touches et le texte saisi sont transmis directement au téléviseur.
 
 Les informations relatives aux téléviseurs de l’Utilisateur sont conservées sur l’iPhone de l’Utilisateur, les clés de jumelage étant stockées dans le trousseau de l’iPhone. Elles sont également envoyées à l’Apple Watch de l’Utilisateur, afin que celle-ci puisse commander les mêmes téléviseurs. Elles ne sont envoyées ni au Propriétaire ni à qui que ce soit d’autre.
-
-### Se connecter avec Apple
-
-La connexion avec Apple a pour seul effet d’afficher le compte Apple de l’Utilisateur en haut des Réglages de cette Application. Le nom et l’adresse e-mail qu’Apple communique sont conservés dans le trousseau de l’iPhone et ne sont jamais envoyés au Propriétaire. À chaque ouverture de cette Application, celle-ci demande à Apple si l’Utilisateur est toujours connecté.
-
-Les Utilisateurs peuvent se déconnecter à tout moment dans les Réglages de cette Application, ce qui supprime leur nom et leur adresse e-mail de l’iPhone. Ils peuvent également cesser d’utiliser Se connecter avec Apple pour cette Application dans les réglages de leur compte Apple.
 
 ### Achats
 
@@ -101,7 +93,7 @@ Le Propriétaire peut traiter des Données personnelles relatives aux Utilisateu
 * le traitement est lié à une mission d’intérêt public ou relevant de l’exercice de l’autorité publique dont est investi le Propriétaire ;
 * le traitement est nécessaire aux fins des intérêts légitimes poursuivis par le Propriétaire ou par un tiers.
 
-En particulier, la commande des téléviseurs et la fourniture des achats sont nécessaires à l’exécution du contrat conclu avec l’Utilisateur, la connexion avec Apple repose sur le consentement de l’Utilisateur, et la réponse aux e-mails d’assistance est nécessaire à l’exécution de ce contrat ou aux fins de l’intérêt légitime qu’a le Propriétaire à aider ses Utilisateurs.
+En particulier, la commande des téléviseurs et la fourniture des achats sont nécessaires à l’exécution du contrat conclu avec l’Utilisateur, et la réponse aux e-mails d’assistance est nécessaire à l’exécution de ce contrat ou aux fins de l’intérêt légitime qu’a le Propriétaire à aider ses Utilisateurs.
 
 Dans tous les cas, le Propriétaire aidera volontiers à clarifier la base juridique spécifique qui s’applique au traitement, et en particulier à préciser si la fourniture de Données personnelles constitue une exigence légale ou contractuelle, ou une exigence nécessaire à la conclusion d’un contrat.
 
@@ -119,7 +111,7 @@ Les Données personnelles sont traitées et conservées aussi longtemps que l’
 
 Par conséquent :
 
-* Les Données conservées sur les appareils de l’Utilisateur y restent jusqu’à ce que l’Utilisateur les supprime : en supprimant un téléviseur dans Appareils, en se déconnectant ou en supprimant cette Application.
+* Les Données conservées sur les appareils de l’Utilisateur y restent jusqu’à ce que l’Utilisateur les supprime : en supprimant un téléviseur dans Appareils ou en supprimant cette Application.
 * Les e-mails d’assistance sont conservés aussi longtemps que nécessaire pour y répondre et pour assurer tout suivi éventuel, sauf si la loi impose au Propriétaire de les conserver plus longtemps.
 
 Le Propriétaire peut être tenu de conserver des Données personnelles pendant une période plus longue chaque fois que cela est requis pour l’exécution d’une obligation légale ou sur ordre d’une autorité.
@@ -128,7 +120,7 @@ Le Propriétaire peut être tenu de conserver des Données personnelles pendant 
 
 ## Finalités du traitement
 
-Les Données concernant l’Utilisateur sont traitées afin de permettre au Propriétaire de fournir son Service, de respecter ses obligations légales, de répondre aux demandes des autorités chargées de faire appliquer la loi, de protéger ses droits et intérêts (ou ceux de ses Utilisateurs ou de tiers), de détecter toute activité malveillante ou frauduleuse, ainsi qu’aux fins suivantes : la commande des téléviseurs de l’Utilisateur, l’affichage du compte Apple de l’Utilisateur, la fourniture de Premium+ et de l’app Apple Watch, et la réponse aux demandes d’assistance.
+Les Données concernant l’Utilisateur sont traitées afin de permettre au Propriétaire de fournir son Service, de respecter ses obligations légales, de répondre aux demandes des autorités chargées de faire appliquer la loi, de protéger ses droits et intérêts (ou ceux de ses Utilisateurs ou de tiers), de détecter toute activité malveillante ou frauduleuse, ainsi qu’aux fins suivantes : la commande des téléviseurs de l’Utilisateur, la fourniture de Premium+ et de l’app Apple Watch, et la réponse aux demandes d’assistance.
 
 Pour obtenir des informations précises sur les Données personnelles utilisées pour chaque finalité, l’Utilisateur peut se reporter à la section « Comment cette Application traite les Données ».
 
@@ -136,7 +128,7 @@ Pour obtenir des informations précises sur les Données personnelles utilisées
 
 Les Utilisateurs peuvent exercer certains droits concernant leurs Données traitées par le Propriétaire.
 
-Comme la quasi-totalité des Données est conservée uniquement sur les propres appareils de l’Utilisateur, les Utilisateurs peuvent exercer eux-mêmes bon nombre de ces droits : supprimer un téléviseur dans Appareils, se déconnecter ou supprimer cette Application efface les Données correspondantes.
+Comme la quasi-totalité des Données est conservée uniquement sur les propres appareils de l’Utilisateur, les Utilisateurs peuvent exercer eux-mêmes bon nombre de ces droits : supprimer un téléviseur dans Appareils ou supprimer cette Application efface les Données correspondantes.
 
 En particulier, les Utilisateurs ont le droit de faire ce qui suit :
 

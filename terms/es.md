@@ -1,6 +1,6 @@
 # Términos y condiciones de Cingle Remote
 
-Última actualización: 23 de octubre de 2026
+Última actualización: 28 de octubre de 2026
 
 Estos Términos regulan
 
@@ -36,23 +36,6 @@ Al utilizar esta Aplicación, los Usuarios confirman que cumplen los siguientes 
 * No existen restricciones para los Usuarios en cuanto a su condición de Consumidores o de Usuarios Profesionales;
 * Los Usuarios no se encuentran en un país sujeto a un embargo del Gobierno de los Estados Unidos ni designado por el Gobierno de los Estados Unidos como país que “apoya el terrorismo”;
 * Los Usuarios no figuran en ninguna lista del Gobierno de los Estados Unidos de partes prohibidas o restringidas.
-
-### Registro de la cuenta
-
-Los Usuarios pueden iniciar sesión en esta Aplicación con su Cuenta de Apple (Iniciar sesión con Apple). El inicio de sesión es opcional y todas las funciones de esta Aplicación están disponibles sin él.
-
-El nombre y la dirección de correo electrónico que Apple comparte cuando los Usuarios inician sesión se conservan únicamente en el dispositivo del Usuario.
-
-Los Usuarios son responsables de mantener la seguridad de su Cuenta de Apple y de su dispositivo, así como de todas las actividades que se realicen en esta Aplicación con su cuenta.
-
-Los Usuarios están obligados a informar al Titular de forma inmediata e inequívoca, a través de los datos de contacto indicados en este documento, si consideran que su información personal, incluidas, entre otras, las cuentas de Usuario, las credenciales de acceso o los Datos Personales, ha sido vulnerada, divulgada indebidamente o robada.
-
-### Cancelación de la cuenta
-
-Los Usuarios pueden cancelar su cuenta y dejar de utilizar el Servicio en cualquier momento de la siguiente manera:
-
-* Cerrando sesión en Ajustes de esta Aplicación, lo que elimina su nombre y su dirección de correo electrónico del dispositivo.
-* Dejando de utilizar Iniciar sesión con Apple para esta Aplicación en los ajustes de su Cuenta de Apple.
 
 ### Contenido de esta Aplicación
 

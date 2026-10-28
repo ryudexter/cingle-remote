@@ -1,6 +1,6 @@
 # Algemene voorwaarden van Cingle Remote
 
-Laatst bijgewerkt: 23 oktober 2026
+Laatst bijgewerkt: 28 oktober 2026
 
 Deze Voorwaarden regelen
 
@@ -36,23 +36,6 @@ Door deze Applicatie te gebruiken, bevestigen Gebruikers dat zij aan de volgende
 * Er gelden voor Gebruikers geen beperkingen wat betreft de vraag of zij Consumenten dan wel Zakelijke Gebruikers zijn;
 * Gebruikers bevinden zich niet in een land waartegen een embargo van de Amerikaanse overheid geldt, of dat door de Amerikaanse overheid is aangemerkt als een land dat “terrorisme steunt”;
 * Gebruikers staan niet vermeld op een lijst van de Amerikaanse overheid van verboden partijen of partijen waarvoor beperkingen gelden.
-
-### Registratie van een account
-
-Gebruikers kunnen met hun Apple Account inloggen bij deze Applicatie (Log in met Apple). Inloggen is optioneel, en alle functies van deze Applicatie zijn ook zonder inloggen beschikbaar.
-
-De naam en het e-mailadres die Apple deelt wanneer Gebruikers inloggen, worden uitsluitend op het apparaat van de Gebruiker bewaard.
-
-Gebruikers zijn verantwoordelijk voor de beveiliging van hun Apple Account en hun apparaat, en voor alle activiteiten die in deze Applicatie onder hun account plaatsvinden.
-
-Gebruikers zijn verplicht de Eigenaar onmiddellijk en ondubbelzinnig via de in dit document vermelde contactgegevens op de hoogte te stellen indien zij van mening zijn dat hun persoonlijke informatie, met inbegrip van maar niet beperkt tot accounts van Gebruikers, toegangsgegevens of Persoonsgegevens, is geschonden, onrechtmatig openbaar gemaakt of gestolen.
-
-### Beëindiging van het account
-
-Gebruikers kunnen hun account op elk moment beëindigen en het gebruik van de Dienst staken door het volgende te doen:
-
-* Door uit te loggen met “Log uit” in de Instellingen van deze Applicatie, waardoor hun naam en e-mailadres van het apparaat worden verwijderd.
-* Door in de instellingen van hun Apple Account het gebruik van Log in met Apple voor deze Applicatie te beëindigen.
 
 ### Inhoud in deze Applicatie
 

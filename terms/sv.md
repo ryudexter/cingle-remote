@@ -1,6 +1,6 @@
 # Användarvillkor för Cingle Remote
 
-Senast uppdaterad: 23 oktober 2026
+Senast uppdaterad: 28 oktober 2026
 
 Dessa Villkor reglerar
 
@@ -36,23 +36,6 @@ Genom att använda denna Applikation bekräftar Användarna att de uppfyller fö
 * Det finns inga begränsningar för Användare när det gäller huruvida de är Konsumenter eller Företagsanvändare;
 * Användarna befinner sig inte i ett land som omfattas av ett embargo från USA:s regering eller som av USA:s regering har betecknats som ett land som ”stöder terrorism”;
 * Användarna finns inte upptagna på någon av USA:s regerings förteckningar över förbjudna eller begränsade parter.
-
-### Kontoregistrering
-
-Användare kan logga in i denna Applikation med sitt Apple-konto (Logga in med Apple). Inloggning är frivillig, och alla funktioner i denna Applikation är tillgängliga utan den.
-
-Det namn och den e-postadress som Apple delar när Användare loggar in sparas endast på Användarens enhet.
-
-Användarna ansvarar för att hålla sitt Apple-konto och sin enhet säkra samt för all aktivitet som sker i denna Applikation under deras konto.
-
-Användarna är skyldiga att omedelbart och otvetydigt informera Ägaren via de kontaktuppgifter som anges i detta dokument om de anser att deras personliga information, inklusive men inte begränsat till Användarnas konton, inloggningsuppgifter eller Personuppgifter, har kränkts, obehörigen röjts eller stulits.
-
-### Avslutande av konto
-
-Användarna kan när som helst avsluta sitt konto och sluta använda Tjänsten genom att göra följande:
-
-* Genom att logga ut i Inställningar i denna Applikation, vilket tar bort deras namn och e-postadress från enheten.
-* Genom att sluta använda Logga in med Apple för denna Applikation i inställningarna för sitt Apple-konto.
 
 ### Innehåll i denna Applikation
 

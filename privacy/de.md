@@ -1,6 +1,6 @@
 # Datenschutzerklärung von Cingle Remote
 
-Zuletzt aktualisiert: 23. Oktober 2026
+Zuletzt aktualisiert: 28. Oktober 2026
 
 Diese Anwendung verarbeitet nur sehr wenige personenbezogene Daten und speichert fast alle davon auf den eigenen Geräten des Nutzers. Sie zeigt keine Werbung an, verwendet keine Analyse- oder Tracking-Dienste und sendet keine Daten an Server, die vom Anbieter betrieben werden.
 
@@ -9,7 +9,6 @@ Diese Anwendung verarbeitet nur sehr wenige personenbezogene Daten und speichert
 ### Personenbezogene Daten, die für die folgenden Zwecke verarbeitet werden
 
 * **Steuerung von Fernsehern:** die Namen, Modelle und Netzwerkadressen der Fernseher im WLAN des Nutzers sowie die zum Koppeln mit ihnen erforderlichen Schlüssel. Gespeichert auf dem iPhone und der Apple Watch des Nutzers.
-* **Mit Apple anmelden (optional):** der Name und die E-Mail-Adresse des Nutzers. Gespeichert auf dem iPhone des Nutzers.
 * **Käufe:** die Abwicklung erfolgt durch Apple. Diese Anwendung erhält von Apple die Information, welche Produkte der Nutzer gekauft hat und wann diese Anwendung erstmals heruntergeladen wurde.
 * **Support:** die E-Mails, die Nutzer von sich aus an den Anbieter senden.
 
@@ -34,16 +33,15 @@ Kontakt-E-Mail-Adresse des Anbieters: [zcengel@yahoo.com](mailto:zcengel@yahoo.c
 Zu den Arten personenbezogener Daten, die diese Anwendung verarbeitet, gehören:
 
 * **Informationen zu Fernsehern:** der Name, das Modell, die Marke und die IP-Adresse jedes Fernsehers, der im lokalen Netzwerk des Nutzers gefunden oder vom Nutzer hinzugefügt wurde, seine MAC-Adresse, sofern der Fernseher sie übermittelt, sowie die mit dem Fernseher ausgetauschten Kopplungsschlüssel, Tokens und Zertifikate.
-* **Kontoinformationen:** nur wenn sich der Nutzer mit Apple anmeldet, der Name und die E-Mail-Adresse, die Apple übermittelt (dabei kann es sich um eine private Weiterleitungsadresse der Apple-Funktion „E-Mail-Adresse verbergen“ handeln), sowie die Kennung, die Apple dem Nutzer für diese Anwendung zuweist.
 * **Kaufinformationen:** welche Produkte der Nutzer gekauft hat, ob ein Abonnement aktiv ist und wann es endet, sowie das Datum, an dem diese Anwendung erstmals heruntergeladen wurde, jeweils wie von Apple bereitgestellt.
 * **Einstellungen:** die vom Nutzer in dieser Anwendung getroffene Auswahl, etwa zu haptischem Feedback, zur Sprache und zu den auf der Fernbedienung angezeigten App-Tasten.
 * **Support-Informationen:** der Inhalt jeder E-Mail, die der Nutzer an den Anbieter sendet, die E-Mail-Adresse des Nutzers sowie die technischen Angaben, die der E-Mail wie nachstehend beschrieben hinzugefügt werden.
 
 Tastendrücke und mit der Tastatur dieser Anwendung eingegebener Text werden ausschließlich an den Fernseher des Nutzers gesendet und nicht gespeichert.
 
-Personenbezogene Daten werden vom Nutzer bereitgestellt, etwa bei der Anmeldung mit Apple oder wenn er dem Anbieter schreibt, oder entstehen bei der Nutzung dieser Anwendung, etwa wenn sie einen Fernseher findet oder sich mit ihm koppelt.
+Personenbezogene Daten werden vom Nutzer bereitgestellt, etwa wenn er dem Anbieter schreibt, oder entstehen bei der Nutzung dieser Anwendung, etwa wenn sie einen Fernseher findet oder sich mit ihm koppelt.
 
-Die Anmeldung mit Apple ist optional, und alle Funktionen dieser Anwendung sind auch ohne sie verfügbar. Ohne Zugriff auf das lokale Netzwerk, um dessen Erlaubnis iOS den Nutzer bittet, kann diese Anwendung keine Fernseher finden oder steuern.
+Ohne Zugriff auf das lokale Netzwerk, um dessen Erlaubnis iOS den Nutzer bittet, kann diese Anwendung keine Fernseher finden oder steuern.
 
 Nutzer, die sich nicht sicher sind, welche personenbezogenen Daten erforderlich sind, können sich gerne an den Anbieter wenden.
 
@@ -56,12 +54,6 @@ Die Nutzer sind für alle personenbezogenen Daten Dritter verantwortlich, die ü
 Um Fernseher zu finden, durchsucht diese Anwendung das lokale Netzwerk des Nutzers, nachdem der Nutzer dies erlaubt hat. Anschließend kommuniziert sie über das lokale Netzwerk direkt mit dem Fernseher. Tastendrücke und eingegebener Text gehen direkt an den Fernseher.
 
 Die Angaben zu den Fernsehern des Nutzers werden auf dem iPhone des Nutzers gespeichert, die Kopplungsschlüssel im Schlüsselbund des iPhone. Sie werden außerdem an die Apple Watch des Nutzers gesendet, damit diese dieselben Fernseher steuern kann. Sie werden weder an den Anbieter noch an Dritte gesendet.
-
-### Mit Apple anmelden
-
-Die Anmeldung mit Apple bewirkt lediglich, dass der Apple Account des Nutzers oben in den Einstellungen dieser Anwendung angezeigt wird. Der Name und die E-Mail-Adresse, die Apple übermittelt, werden im Schlüsselbund des iPhone gespeichert und niemals an den Anbieter gesendet. Bei jedem Öffnen fragt diese Anwendung bei Apple ab, ob der Nutzer noch angemeldet ist.
-
-Die Nutzer können sich jederzeit in den Einstellungen dieser Anwendung abmelden, wodurch ihr Name und ihre E-Mail-Adresse vom iPhone entfernt werden. Sie können die Verwendung von „Mit Apple anmelden“ für diese Anwendung auch in den Einstellungen ihres Apple Accounts beenden.
 
 ### Käufe
 
@@ -101,7 +93,7 @@ Der Anbieter darf personenbezogene Daten von Nutzern verarbeiten, wenn einer der
 * die Verarbeitung steht im Zusammenhang mit einer Aufgabe, die im öffentlichen Interesse oder in Ausübung öffentlicher Gewalt erfolgt, die dem Anbieter übertragen wurde;
 * die Verarbeitung ist zur Wahrung der berechtigten Interessen des Anbieters oder eines Dritten erforderlich.
 
-Insbesondere sind die Steuerung von Fernsehern und die Bereitstellung gekaufter Produkte für die Erfüllung des Vertrags mit dem Nutzer erforderlich, die Anmeldung mit Apple beruht auf der Einwilligung des Nutzers, und die Beantwortung von Support-E-Mails ist für die Erfüllung dieses Vertrags oder zur Wahrung des berechtigten Interesses des Anbieters, seinen Nutzern zu helfen, erforderlich.
+Insbesondere sind die Steuerung von Fernsehern und die Bereitstellung gekaufter Produkte für die Erfüllung des Vertrags mit dem Nutzer erforderlich, und die Beantwortung von Support-E-Mails ist für die Erfüllung dieses Vertrags oder zur Wahrung des berechtigten Interesses des Anbieters, seinen Nutzern zu helfen, erforderlich.
 
 In jedem Fall hilft der Anbieter gerne dabei, die konkrete Rechtsgrundlage zu klären, die für die Verarbeitung gilt, insbesondere ob die Bereitstellung personenbezogener Daten gesetzlich oder vertraglich vorgeschrieben oder für einen Vertragsabschluss erforderlich ist.
 
@@ -119,7 +111,7 @@ Personenbezogene Daten werden so lange verarbeitet und gespeichert, wie es der Z
 
 Daher gilt:
 
-* Daten, die auf den Geräten des Nutzers gespeichert sind, verbleiben dort, bis der Nutzer sie entfernt: durch Entfernen eines Fernsehers unter „Geräte“, durch Abmelden oder durch Löschen dieser Anwendung.
+* Daten, die auf den Geräten des Nutzers gespeichert sind, verbleiben dort, bis der Nutzer sie entfernt: durch Entfernen eines Fernsehers unter „Geräte“ oder durch Löschen dieser Anwendung.
 * Support-E-Mails werden so lange aufbewahrt, wie es für ihre Beantwortung und die Bearbeitung etwaiger Folgeanfragen erforderlich ist, sofern das Gesetz den Anbieter nicht zu einer längeren Aufbewahrung verpflichtet.
 
 Der Anbieter kann verpflichtet sein, personenbezogene Daten für einen längeren Zeitraum aufzubewahren, wenn dies zur Erfüllung einer rechtlichen Verpflichtung oder auf Anordnung einer Behörde erforderlich ist.
@@ -128,7 +120,7 @@ Nach Ablauf der Speicherdauer werden personenbezogene Daten gelöscht. Daher kö
 
 ## Zwecke der Verarbeitung
 
-Die den Nutzer betreffenden Daten werden verarbeitet, damit der Anbieter seinen Dienst erbringen, seinen rechtlichen Verpflichtungen nachkommen, auf Ersuchen zur Rechtsdurchsetzung reagieren, seine Rechte und Interessen (oder die seiner Nutzer oder Dritter) schützen und böswillige oder betrügerische Aktivitäten erkennen kann, sowie für folgende Zwecke: Steuerung der Fernseher des Nutzers, Anzeige des Apple Accounts des Nutzers, Bereitstellung von Premium+ und der Apple Watch-App sowie Beantwortung von Support-Anfragen.
+Die den Nutzer betreffenden Daten werden verarbeitet, damit der Anbieter seinen Dienst erbringen, seinen rechtlichen Verpflichtungen nachkommen, auf Ersuchen zur Rechtsdurchsetzung reagieren, seine Rechte und Interessen (oder die seiner Nutzer oder Dritter) schützen und böswillige oder betrügerische Aktivitäten erkennen kann, sowie für folgende Zwecke: Steuerung der Fernseher des Nutzers, Bereitstellung von Premium+ und der Apple Watch-App sowie Beantwortung von Support-Anfragen.
 
 Genauere Informationen zu den für die einzelnen Zwecke verwendeten personenbezogenen Daten findet der Nutzer im Abschnitt „Wie diese Anwendung mit den Daten umgeht“.
 
@@ -136,7 +128,7 @@ Genauere Informationen zu den für die einzelnen Zwecke verwendeten personenbezo
 
 Die Nutzer können bestimmte Rechte in Bezug auf ihre vom Anbieter verarbeiteten Daten ausüben.
 
-Da fast alle Daten ausschließlich auf den eigenen Geräten des Nutzers gespeichert sind, können die Nutzer viele dieser Rechte selbst ausüben: Durch das Entfernen eines Fernsehers unter „Geräte“, durch Abmelden oder durch Löschen dieser Anwendung werden die entsprechenden Daten entfernt.
+Da fast alle Daten ausschließlich auf den eigenen Geräten des Nutzers gespeichert sind, können die Nutzer viele dieser Rechte selbst ausüben: Durch das Entfernen eines Fernsehers unter „Geräte“ oder durch Löschen dieser Anwendung werden die entsprechenden Daten entfernt.
 
 Insbesondere haben die Nutzer das Recht, Folgendes zu tun:
 

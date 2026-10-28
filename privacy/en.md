@@ -1,6 +1,6 @@
 # Privacy Policy of Cingle Remote
 
-Last updated: 23 October 2026
+Last updated: 28 October 2026
 
 This Application handles very little Personal Data, and keeps almost all of it on the User’s own devices. It shows no advertising, uses no analytics or tracking services, and sends no Data to servers run by the Owner.
 
@@ -9,7 +9,6 @@ This Application handles very little Personal Data, and keeps almost all of it o
 ### Personal Data processed for the following purposes
 
 * **Controlling TVs:** the names, models and network addresses of the TVs on the User’s Wi-Fi network, and the keys needed to pair with them. Kept on the User’s iPhone and Apple Watch.
-* **Sign in with Apple (optional):** the User’s name and email address. Kept on the User’s iPhone.
 * **Purchases:** handled by Apple. This Application receives from Apple which Products the User has bought and when this Application was first downloaded.
 * **Support:** the emails that Users choose to send to the Owner.
 
@@ -34,16 +33,15 @@ Owner contact email: [zcengel@yahoo.com](mailto:zcengel@yahoo.com)
 Among the types of Personal Data that this Application processes, there are:
 
 * **TV information:** the name, model, brand and IP address of each TV found on the User’s local network or added by the User, its MAC address when the TV reports it, and the pairing keys, tokens and certificates exchanged with the TV.
-* **Account information:** only if the User signs in with Apple, the name and email address that Apple shares (which may be a private relay address from Apple’s Hide My Email), and the identifier that Apple assigns to the User for this Application.
 * **Purchase information:** which Products the User has bought, whether a subscription is active and when it ends, and the date this Application was first downloaded, all as provided by Apple.
 * **Settings:** the User’s choices in this Application, such as haptic feedback, language and the app buttons shown on the remote.
 * **Support information:** the content of any email the User sends to the Owner, the User’s email address, and the technical details added to it as described below.
 
 Key presses and text typed with this Application’s keyboard are sent only to the User’s TV, and are not stored.
 
-Personal Data is provided by the User, for example when signing in with Apple or writing to the Owner, or is created when this Application is used, for example when it finds or pairs with a TV.
+Personal Data is provided by the User, for example when writing to the Owner, or is created when this Application is used, for example when it finds or pairs with a TV.
 
-Signing in with Apple is optional, and all features of this Application are available without it. Without access to the local network, which iOS asks the User to allow, this Application cannot find or control TVs.
+Without access to the local network, which iOS asks the User to allow, this Application cannot find or control TVs.
 
 Users who are uncertain about which Personal Data is required are welcome to contact the Owner.
 
@@ -56,12 +54,6 @@ Users are responsible for any third-party Personal Data obtained, published or s
 To find TVs, this Application searches the User’s local network, after the User has allowed it to do so. It then communicates directly with the TV over the local network. Key presses and typed text go straight to the TV.
 
 The details of the User’s TVs are kept on the User’s iPhone, with the pairing keys in the iPhone’s Keychain. They are also sent to the User’s Apple Watch, so that it can control the same TVs. They are not sent to the Owner or to anyone else.
-
-### Sign in with Apple
-
-Signing in with Apple only shows the User’s Apple Account at the top of the Settings of this Application. The name and email address that Apple shares are kept in the iPhone’s Keychain and are never sent to the Owner. Each time this Application opens, it asks Apple whether the User is still signed in.
-
-Users can sign out at any time in the Settings of this Application, which removes their name and email address from the iPhone. They can also stop using Sign in with Apple for this Application in their Apple Account settings.
 
 ### Purchases
 
@@ -101,7 +93,7 @@ The Owner may process Personal Data relating to Users if one of the following ap
 * processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in the Owner;
 * processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party.
 
-In particular, controlling TVs and providing purchases are necessary for the performance of the agreement with the User, signing in with Apple is based on the User’s consent, and answering support emails is necessary for the performance of that agreement or for the Owner’s legitimate interest in helping its Users.
+In particular, controlling TVs and providing purchases are necessary for the performance of the agreement with the User, and answering support emails is necessary for the performance of that agreement or for the Owner’s legitimate interest in helping its Users.
 
 In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
 
@@ -119,7 +111,7 @@ Personal Data shall be processed and stored for as long as required by the purpo
 
 Therefore:
 
-* Data kept on the User’s devices stays there until the User removes it: by removing a TV in Devices, by signing out, or by deleting this Application.
+* Data kept on the User’s devices stays there until the User removes it: by removing a TV in Devices or by deleting this Application.
 * Support emails are kept for as long as needed to answer them and to handle any follow-up, unless the law requires the Owner to keep them longer.
 
 The Owner may be obliged to retain Personal Data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority.
@@ -128,7 +120,7 @@ Once the retention period expires, Personal Data shall be deleted. Therefore, th
 
 ## The purposes of processing
 
-The Data concerning the User is processed to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: controlling the User’s TVs, showing the User’s Apple Account, providing Premium+ and the Apple Watch app, and answering support requests.
+The Data concerning the User is processed to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: controlling the User’s TVs, providing Premium+ and the Apple Watch app, and answering support requests.
 
 For specific information about the Personal Data used for each purpose, the User may refer to the section “How this Application handles the Data”.
 
@@ -136,7 +128,7 @@ For specific information about the Personal Data used for each purpose, the User
 
 Users may exercise certain rights regarding their Data processed by the Owner.
 
-Because almost all Data is kept only on the User’s own devices, Users can exercise many of these rights themselves: removing a TV in Devices, signing out, or deleting this Application removes the corresponding Data.
+Because almost all Data is kept only on the User’s own devices, Users can exercise many of these rights themselves: removing a TV in Devices or deleting this Application removes the corresponding Data.
 
 In particular, Users have the right to do the following:
 

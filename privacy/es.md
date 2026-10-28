@@ -1,6 +1,6 @@
 # Política de privacidad de Cingle Remote
 
-Última actualización: 23 de octubre de 2026
+Última actualización: 28 de octubre de 2026
 
 Esta Aplicación trata muy pocos Datos Personales y conserva casi todos ellos en los propios dispositivos del Usuario. No muestra publicidad, no utiliza servicios de analítica ni de seguimiento y no envía Datos a servidores gestionados por el Titular.
 
@@ -9,7 +9,6 @@ Esta Aplicación trata muy pocos Datos Personales y conserva casi todos ellos en
 ### Datos Personales tratados para las siguientes finalidades
 
 * **Control de televisores:** los nombres, modelos y direcciones de red de los televisores que se encuentran en la red Wi-Fi del Usuario, y las claves necesarias para emparejarse con ellos. Se conservan en el iPhone y el Apple Watch del Usuario.
-* **Iniciar sesión con Apple (opcional):** el nombre y la dirección de correo electrónico del Usuario. Se conservan en el iPhone del Usuario.
 * **Compras:** gestionadas por Apple. Esta Aplicación recibe de Apple información sobre qué Productos ha comprado el Usuario y cuándo se descargó esta Aplicación por primera vez.
 * **Soporte:** los correos electrónicos que los Usuarios deciden enviar al Titular.
 
@@ -34,16 +33,15 @@ Correo electrónico de contacto del Titular: [zcengel@yahoo.com](mailto:zcengel@
 Entre los tipos de Datos Personales que trata esta Aplicación se encuentran:
 
 * **Información de los televisores:** el nombre, el modelo, la marca y la dirección IP de cada televisor encontrado en la red local del Usuario o añadido por el Usuario, su dirección MAC cuando el televisor la comunica, y las claves de emparejamiento, los tokens y los certificados intercambiados con el televisor.
-* **Información de la cuenta:** solo si el Usuario inicia sesión con Apple, el nombre y la dirección de correo electrónico que comparte Apple (que puede ser una dirección de retransmisión privada de la función Ocultar mi correo electrónico de Apple), y el identificador que Apple asigna al Usuario para esta Aplicación.
 * **Información sobre las compras:** qué Productos ha comprado el Usuario, si hay una suscripción activa y cuándo finaliza, y la fecha en que se descargó esta Aplicación por primera vez, todo ello según lo facilita Apple.
 * **Ajustes:** las opciones elegidas por el Usuario en esta Aplicación, como la respuesta háptica, el idioma y los botones de aplicaciones que se muestran en el control remoto.
 * **Información de soporte:** el contenido de cualquier correo electrónico que el Usuario envíe al Titular, la dirección de correo electrónico del Usuario y los detalles técnicos que se añaden a dicho correo, tal como se describe más adelante.
 
 Las pulsaciones de teclas y el texto escrito con el teclado de esta Aplicación se envían únicamente al televisor del Usuario y no se almacenan.
 
-Los Datos Personales los facilita el Usuario, por ejemplo, al iniciar sesión con Apple o al escribir al Titular, o se generan al utilizar esta Aplicación, por ejemplo, cuando esta encuentra un televisor o se empareja con él.
+Los Datos Personales los facilita el Usuario, por ejemplo, al escribir al Titular, o se generan al utilizar esta Aplicación, por ejemplo, cuando esta encuentra un televisor o se empareja con él.
 
-El inicio de sesión con Apple es opcional y todas las funciones de esta Aplicación están disponibles sin él. Sin acceso a la red local, que iOS solicita al Usuario que autorice, esta Aplicación no puede encontrar ni controlar televisores.
+Sin acceso a la red local, que iOS solicita al Usuario que autorice, esta Aplicación no puede encontrar ni controlar televisores.
 
 Los Usuarios que tengan dudas sobre qué Datos Personales son obligatorios pueden ponerse en contacto con el Titular.
 
@@ -56,12 +54,6 @@ Los Usuarios son responsables de cualquier Dato Personal de terceros obtenido, p
 Para encontrar televisores, esta Aplicación busca en la red local del Usuario, una vez que el Usuario lo ha autorizado. A continuación, se comunica directamente con el televisor a través de la red local. Las pulsaciones de teclas y el texto escrito se envían directamente al televisor.
 
 La información sobre los televisores del Usuario se conserva en el iPhone del Usuario, con las claves de emparejamiento en el Llavero del iPhone. También se envía al Apple Watch del Usuario, para que este pueda controlar los mismos televisores. No se envía al Titular ni a ninguna otra persona.
-
-### Iniciar sesión con Apple
-
-El inicio de sesión con Apple únicamente hace que se muestre la Cuenta de Apple del Usuario en la parte superior de Ajustes de esta Aplicación. El nombre y la dirección de correo electrónico que comparte Apple se conservan en el Llavero del iPhone y nunca se envían al Titular. Cada vez que se abre esta Aplicación, esta consulta a Apple si el Usuario sigue con la sesión iniciada.
-
-Los Usuarios pueden cerrar sesión en cualquier momento en Ajustes de esta Aplicación, lo que elimina su nombre y su dirección de correo electrónico del iPhone. También pueden dejar de utilizar Iniciar sesión con Apple para esta Aplicación en los ajustes de su Cuenta de Apple.
 
 ### Compras
 
@@ -101,7 +93,7 @@ El Titular podrá tratar Datos Personales relativos a los Usuarios si se cumple 
 * el tratamiento está relacionado con una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al Titular;
 * el tratamiento es necesario para la satisfacción de intereses legítimos perseguidos por el Titular o por un tercero.
 
-En particular, el control de televisores y la prestación de las compras son necesarios para la ejecución del contrato con el Usuario, el inicio de sesión con Apple se basa en el consentimiento del Usuario, y la respuesta a los correos electrónicos de soporte es necesaria para la ejecución de dicho contrato o para el interés legítimo del Titular en ayudar a sus Usuarios.
+En particular, el control de televisores y la prestación de las compras son necesarios para la ejecución del contrato con el Usuario, y la respuesta a los correos electrónicos de soporte es necesaria para la ejecución de dicho contrato o para el interés legítimo del Titular en ayudar a sus Usuarios.
 
 En cualquier caso, el Titular ayudará gustosamente a aclarar la base jurídica específica que se aplica al tratamiento y, en particular, si el suministro de Datos Personales es un requisito legal o contractual, o un requisito necesario para celebrar un contrato.
 
@@ -119,7 +111,7 @@ Los Datos Personales se tratarán y conservarán durante el tiempo que exija la 
 
 Por lo tanto:
 
-* Los Datos conservados en los dispositivos del Usuario permanecen en ellos hasta que el Usuario los borra: quitando un televisor en Dispositivos, cerrando sesión o eliminando esta Aplicación.
+* Los Datos conservados en los dispositivos del Usuario permanecen en ellos hasta que el Usuario los borra: quitando un televisor en Dispositivos o eliminando esta Aplicación.
 * Los correos electrónicos de soporte se conservan durante el tiempo necesario para responderlos y para gestionar cualquier seguimiento posterior, salvo que la ley obligue al Titular a conservarlos durante más tiempo.
 
 El Titular podrá estar obligado a conservar los Datos Personales durante un período más prolongado cuando así lo exija el cumplimiento de una obligación legal o por orden de una autoridad.
@@ -128,7 +120,7 @@ Una vez expirado el período de conservación, los Datos Personales se suprimir�
 
 ## Finalidades del tratamiento
 
-Los Datos relativos al Usuario se tratan para permitir al Titular prestar su Servicio, cumplir sus obligaciones legales, responder a requerimientos de las autoridades competentes, proteger sus derechos e intereses (o los de sus Usuarios o de terceros) y detectar cualquier actividad maliciosa o fraudulenta, así como para lo siguiente: controlar los televisores del Usuario, mostrar la Cuenta de Apple del Usuario, proporcionar Premium+ y la aplicación para Apple Watch, y responder a las solicitudes de soporte.
+Los Datos relativos al Usuario se tratan para permitir al Titular prestar su Servicio, cumplir sus obligaciones legales, responder a requerimientos de las autoridades competentes, proteger sus derechos e intereses (o los de sus Usuarios o de terceros) y detectar cualquier actividad maliciosa o fraudulenta, así como para lo siguiente: controlar los televisores del Usuario, proporcionar Premium+ y la aplicación para Apple Watch, y responder a las solicitudes de soporte.
 
 Para obtener información específica sobre los Datos Personales utilizados para cada finalidad, el Usuario puede consultar la sección “Cómo trata esta Aplicación los Datos”.
 
@@ -136,7 +128,7 @@ Para obtener información específica sobre los Datos Personales utilizados para
 
 Los Usuarios pueden ejercer determinados derechos en relación con sus Datos tratados por el Titular.
 
-Dado que casi todos los Datos se conservan únicamente en los propios dispositivos del Usuario, los Usuarios pueden ejercer muchos de estos derechos por sí mismos: quitar un televisor en Dispositivos, cerrar sesión o eliminar esta Aplicación borra los Datos correspondientes.
+Dado que casi todos los Datos se conservan únicamente en los propios dispositivos del Usuario, los Usuarios pueden ejercer muchos de estos derechos por sí mismos: quitar un televisor en Dispositivos o eliminar esta Aplicación borra los Datos correspondientes.
 
 En particular, los Usuarios tienen derecho a:
 

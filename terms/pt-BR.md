@@ -1,6 +1,6 @@
 # Termos e Condições do Cingle Remote
 
-Última atualização: 23 de outubro de 2026
+Última atualização: 28 de outubro de 2026
 
 Estes Termos regem
 
@@ -36,23 +36,6 @@ Ao usar este Aplicativo, os Usuários confirmam que atendem aos seguintes requis
 * Não há restrições para os Usuários quanto a serem Consumidores ou Usuários Profissionais;
 * Os Usuários não estão localizados em um país sujeito a embargo do Governo dos EUA ou que tenha sido designado pelo Governo dos EUA como país “apoiador do terrorismo”;
 * Os Usuários não constam de nenhuma lista do Governo dos EUA de partes proibidas ou restritas.
-
-### Cadastro de conta
-
-Os Usuários podem iniciar sessão neste Aplicativo com sua Conta Apple (Iniciar sessão com a Apple). Iniciar sessão é opcional, e todos os recursos deste Aplicativo estão disponíveis sem isso.
-
-O nome e o endereço de e-mail que a Apple compartilha quando os Usuários iniciam sessão são mantidos apenas no dispositivo do Usuário.
-
-Os Usuários são responsáveis por manter sua Conta Apple e seu dispositivo seguros, bem como por todas as atividades realizadas neste Aplicativo por meio de sua conta.
-
-Os Usuários devem informar o Proprietário imediatamente e de forma inequívoca, por meio dos dados de contato indicados neste documento, caso acreditem que suas informações pessoais, incluindo, entre outras, contas de Usuário, credenciais de acesso ou Dados Pessoais, tenham sido violadas, divulgadas indevidamente ou roubadas.
-
-### Encerramento da conta
-
-Os Usuários podem encerrar sua conta e deixar de usar o Serviço a qualquer momento, da seguinte forma:
-
-* Saindo da conta nos Ajustes deste Aplicativo, o que remove seu nome e endereço de e-mail do dispositivo.
-* Deixando de usar Iniciar sessão com a Apple para este Aplicativo nos ajustes de sua Conta Apple.
 
 ### Conteúdo deste Aplicativo
 

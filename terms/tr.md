@@ -1,6 +1,6 @@
 # Cingle Remote Şartlar ve Koşulları
 
-Son güncelleme: 23 Ekim 2026
+Son güncelleme: 28 Ekim 2026
 
 Bu Şartlar,
 
@@ -36,23 +36,6 @@ Kullanıcılar, bu Uygulama'yı kullanarak aşağıdaki gereklilikleri karşıla
 * Kullanıcıların Tüketici veya Ticari Kullanıcı olmalarına ilişkin herhangi bir kısıtlama bulunmamaktadır;
 * Kullanıcılar, ABD Hükümeti ambargosuna tabi olan veya ABD Hükümeti tarafından “teröre destek veren” ülke olarak belirlenmiş bir ülkede bulunmamaktadır;
 * Kullanıcılar, ABD Hükümeti'nin yasaklı veya kısıtlı taraflara ilişkin listelerinin hiçbirinde yer almamaktadır.
-
-### Hesap kaydı
-
-Kullanıcılar bu Uygulama'ya Apple Hesapları ile (Apple ile Giriş Yap) giriş yapabilir. Giriş yapmak isteğe bağlıdır ve bu Uygulama'nın tüm özellikleri giriş yapılmadan da kullanılabilir.
-
-Kullanıcılar giriş yaptığında Apple'ın paylaştığı ad ve e-posta adresi yalnızca Kullanıcı'nın cihazında saklanır.
-
-Kullanıcılar, Apple Hesaplarının ve cihazlarının güvenliğini sağlamaktan ve bu Uygulama'da kendi hesapları altında gerçekleşen tüm faaliyetlerden sorumludur.
-
-Kullanıcılar, Kullanıcı hesapları, erişim bilgileri veya kişisel veriler dahil ancak bunlarla sınırlı olmamak üzere kişisel bilgilerinin ihlal edildiğini, usulsüz şekilde ifşa edildiğini veya çalındığını düşünmeleri hâlinde, bu belgede belirtilen iletişim bilgileri aracılığıyla İşletmeci'yi derhal ve açık bir şekilde bilgilendirmekle yükümlüdür.
-
-### Hesabın sona erdirilmesi
-
-Kullanıcılar, aşağıdaki yollarla hesaplarını istedikleri zaman sona erdirebilir ve Hizmet'i kullanmayı bırakabilir:
-
-* Bu Uygulama'nın Ayarlar bölümünde çıkış yaparak; bu işlem, adlarını ve e-posta adreslerini cihazdan kaldırır.
-* Apple Hesabı ayarlarından bu Uygulama için Apple ile Giriş Yap kullanımını durdurarak.
 
 ### Bu Uygulama'daki içerik
 

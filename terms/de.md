@@ -1,6 +1,6 @@
 # Nutzungsbedingungen von Cingle Remote
 
-Zuletzt aktualisiert: 23. Oktober 2026
+Zuletzt aktualisiert: 28. Oktober 2026
 
 Diese Nutzungsbedingungen regeln
 
@@ -36,23 +36,6 @@ Durch die Nutzung dieser Anwendung bestätigen die Nutzer, dass sie die folgende
 * Es bestehen keine Einschränkungen für Nutzer im Hinblick darauf, ob sie Verbraucher oder gewerbliche Nutzer sind;
 * Die Nutzer befinden sich nicht in einem Land, das einem Embargo der US-Regierung unterliegt oder das von der US-Regierung als „den Terrorismus unterstützendes“ Land eingestuft wurde;
 * Die Nutzer sind auf keiner Liste der US-Regierung mit verbotenen oder eingeschränkten Parteien aufgeführt.
-
-### Kontoregistrierung
-
-Nutzer können sich bei dieser Anwendung mit ihrem Apple Account anmelden („Mit Apple anmelden“). Die Anmeldung ist optional, und alle Funktionen dieser Anwendung sind auch ohne sie verfügbar.
-
-Der Name und die E-Mail-Adresse, die Apple bei der Anmeldung der Nutzer übermittelt, werden ausschließlich auf dem Gerät des Nutzers gespeichert.
-
-Die Nutzer sind dafür verantwortlich, ihren Apple Account und ihr Gerät zu schützen, und sind für alle Aktivitäten verantwortlich, die in dieser Anwendung unter ihrem Konto erfolgen.
-
-Die Nutzer sind verpflichtet, den Anbieter unverzüglich und unmissverständlich über die in diesem Dokument angegebenen Kontaktdaten zu informieren, wenn sie der Ansicht sind, dass ihre persönlichen Informationen, einschließlich, aber nicht beschränkt auf Nutzerkonten, Zugangsdaten oder personenbezogene Daten, verletzt, unrechtmäßig offengelegt oder gestohlen wurden.
-
-### Kündigung des Kontos
-
-Die Nutzer können ihr Konto jederzeit kündigen und die Nutzung des Dienstes beenden, indem sie wie folgt vorgehen:
-
-* Durch Abmelden in den Einstellungen dieser Anwendung, wodurch ihr Name und ihre E-Mail-Adresse vom Gerät entfernt werden.
-* Durch Beenden der Verwendung von „Mit Apple anmelden“ für diese Anwendung in den Einstellungen ihres Apple Accounts.
 
 ### Inhalte dieser Anwendung
 

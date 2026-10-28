@@ -1,6 +1,6 @@
 # Polityka prywatności Cingle Remote
 
-Ostatnia aktualizacja: 23 października 2026 r.
+Ostatnia aktualizacja: 28 października 2026 r.
 
 Niniejsza Aplikacja przetwarza bardzo niewiele Danych Osobowych i przechowuje prawie wszystkie z nich na własnych urządzeniach Użytkownika. Nie wyświetla reklam, nie korzysta z usług analitycznych ani śledzących i nie przesyła żadnych Danych na serwery obsługiwane przez Właściciela.
 
@@ -9,7 +9,6 @@ Niniejsza Aplikacja przetwarza bardzo niewiele Danych Osobowych i przechowuje pr
 ### Dane Osobowe przetwarzane w następujących celach
 
 * **Sterowanie telewizorami:** nazwy, modele i adresy sieciowe telewizorów w sieci Wi-Fi Użytkownika oraz klucze potrzebne do sparowania z nimi. Przechowywane na iPhonie i Apple Watch Użytkownika.
-* **Zaloguj się, używając konta Apple (opcjonalnie):** imię i nazwisko oraz adres e-mail Użytkownika. Przechowywane na iPhonie Użytkownika.
 * **Zakupy:** obsługiwane przez Apple. Niniejsza Aplikacja otrzymuje od Apple informacje o tym, które Produkty Użytkownik zakupił i kiedy niniejsza Aplikacja została pobrana po raz pierwszy.
 * **Wsparcie:** wiadomości e-mail, które Użytkownicy zdecydują się wysłać do Właściciela.
 
@@ -34,16 +33,15 @@ Adres e-mail do kontaktu z Właścicielem: [zcengel@yahoo.com](mailto:zcengel@ya
 Do rodzajów Danych Osobowych przetwarzanych przez niniejszą Aplikację należą:
 
 * **Informacje o telewizorach:** nazwa, model, marka i adres IP każdego telewizora wykrytego w sieci lokalnej Użytkownika lub dodanego przez Użytkownika, jego adres MAC, jeżeli telewizor go przekazuje, a także klucze parowania, tokeny i certyfikaty wymieniane z telewizorem.
-* **Informacje o koncie:** wyłącznie jeżeli Użytkownik zaloguje się za pomocą konta Apple – imię i nazwisko oraz adres e-mail udostępniane przez Apple (którym może być prywatny adres przekierowujący z funkcji Apple „Ukryj mój adres email”), a także identyfikator, który Apple przypisuje Użytkownikowi na potrzeby niniejszej Aplikacji.
 * **Informacje o zakupach:** informacje o tym, które Produkty Użytkownik zakupił, czy subskrypcja jest aktywna i kiedy się kończy, oraz data pierwszego pobrania niniejszej Aplikacji – wszystkie w postaci przekazanej przez Apple.
 * **Ustawienia:** wybory dokonane przez Użytkownika w niniejszej Aplikacji, takie jak haptyka, język oraz przyciski aplikacji wyświetlane na pilocie.
 * **Informacje dotyczące wsparcia:** treść każdej wiadomości e-mail wysłanej przez Użytkownika do Właściciela, adres e-mail Użytkownika oraz dodane do niej informacje techniczne opisane poniżej.
 
 Naciśnięcia klawiszy i tekst wpisywany za pomocą klawiatury niniejszej Aplikacji są przesyłane wyłącznie do telewizora Użytkownika i nie są przechowywane.
 
-Dane Osobowe są podawane przez Użytkownika, na przykład podczas logowania się za pomocą konta Apple lub pisania do Właściciela, albo powstają podczas korzystania z niniejszej Aplikacji, na przykład gdy wykrywa ona telewizor lub paruje się z nim.
+Dane Osobowe są podawane przez Użytkownika, na przykład podczas pisania do Właściciela, albo powstają podczas korzystania z niniejszej Aplikacji, na przykład gdy wykrywa ona telewizor lub paruje się z nim.
 
-Logowanie się za pomocą konta Apple jest opcjonalne, a wszystkie funkcje niniejszej Aplikacji są dostępne bez niego. Bez dostępu do sieci lokalnej, o którego przyznanie iOS prosi Użytkownika, niniejsza Aplikacja nie może wykrywać telewizorów ani nimi sterować.
+Bez dostępu do sieci lokalnej, o którego przyznanie iOS prosi Użytkownika, niniejsza Aplikacja nie może wykrywać telewizorów ani nimi sterować.
 
 Użytkowników, którzy nie są pewni, które Dane Osobowe są wymagane, zachęca się do kontaktu z Właścicielem.
 
@@ -56,12 +54,6 @@ Użytkownicy ponoszą odpowiedzialność za wszelkie Dane Osobowe osób trzecich
 Aby wykryć telewizory, niniejsza Aplikacja przeszukuje sieć lokalną Użytkownika po tym, jak Użytkownik na to zezwoli. Następnie komunikuje się bezpośrednio z telewizorem za pośrednictwem sieci lokalnej. Naciśnięcia klawiszy i wpisany tekst trafiają bezpośrednio do telewizora.
 
 Informacje o telewizorach Użytkownika są przechowywane na iPhonie Użytkownika, a klucze parowania – w pęku kluczy iPhone’a. Są one również przesyłane do Apple Watch Użytkownika, aby mógł on sterować tymi samymi telewizorami. Nie są przesyłane do Właściciela ani do nikogo innego.
-
-### Zaloguj się, używając konta Apple
-
-Zalogowanie się za pomocą konta Apple powoduje jedynie wyświetlenie konta Apple Użytkownika u góry Ustawień niniejszej Aplikacji. Imię i nazwisko oraz adres e-mail udostępniane przez Apple są przechowywane w pęku kluczy iPhone’a i nigdy nie są przesyłane do Właściciela. Przy każdym otwarciu niniejsza Aplikacja pyta Apple, czy Użytkownik jest nadal zalogowany.
-
-Użytkownicy mogą w każdej chwili wylogować się w Ustawieniach niniejszej Aplikacji, co powoduje usunięcie ich imienia i nazwiska oraz adresu e-mail z iPhone’a. Mogą również zaprzestać korzystania z funkcji „Zaloguj się, używając konta Apple” w odniesieniu do niniejszej Aplikacji w ustawieniach swojego konta Apple.
 
 ### Zakupy
 
@@ -101,7 +93,7 @@ Właściciel może przetwarzać Dane Osobowe dotyczące Użytkowników, jeżeli 
 * przetwarzanie jest związane z wykonywaniem zadania realizowanego w interesie publicznym lub w ramach sprawowania władzy publicznej powierzonej Właścicielowi;
 * przetwarzanie jest niezbędne do celów wynikających z prawnie uzasadnionych interesów realizowanych przez Właściciela lub przez stronę trzecią.
 
-W szczególności sterowanie telewizorami i realizacja zakupów są niezbędne do wykonania umowy z Użytkownikiem, logowanie się za pomocą konta Apple opiera się na zgodzie Użytkownika, a udzielanie odpowiedzi na wiadomości e-mail do wsparcia jest niezbędne do wykonania tej umowy lub do realizacji prawnie uzasadnionego interesu Właściciela polegającego na udzielaniu pomocy swoim Użytkownikom.
+W szczególności sterowanie telewizorami i realizacja zakupów są niezbędne do wykonania umowy z Użytkownikiem, a udzielanie odpowiedzi na wiadomości e-mail do wsparcia jest niezbędne do wykonania tej umowy lub do realizacji prawnie uzasadnionego interesu Właściciela polegającego na udzielaniu pomocy swoim Użytkownikom.
 
 W każdym przypadku Właściciel chętnie pomoże wyjaśnić, jaka konkretna podstawa prawna ma zastosowanie do przetwarzania, a w szczególności, czy podanie Danych Osobowych jest wymogiem ustawowym lub umownym, czy też wymogiem niezbędnym do zawarcia umowy.
 
@@ -119,7 +111,7 @@ Dane Osobowe są przetwarzane i przechowywane tak długo, jak wymaga tego cel, w
 
 W związku z tym:
 
-* Dane przechowywane na urządzeniach Użytkownika pozostają tam, dopóki Użytkownik ich nie usunie: poprzez usunięcie telewizora w sekcji „Urządzenia”, wylogowanie się lub usunięcie niniejszej Aplikacji.
+* Dane przechowywane na urządzeniach Użytkownika pozostają tam, dopóki Użytkownik ich nie usunie: poprzez usunięcie telewizora w sekcji „Urządzenia” lub usunięcie niniejszej Aplikacji.
 * Wiadomości e-mail do wsparcia są przechowywane tak długo, jak jest to konieczne do udzielenia na nie odpowiedzi i obsługi wszelkich dalszych kwestii z nimi związanych, chyba że przepisy prawa wymagają od Właściciela przechowywania ich przez dłuższy czas.
 
 Właściciel może być zobowiązany do przechowywania Danych Osobowych przez dłuższy okres, ilekroć jest to wymagane w celu wypełnienia obowiązku prawnego lub na polecenie organu władzy.
@@ -128,7 +120,7 @@ Po upływie okresu przechowywania Dane Osobowe zostaną usunięte. W związku z 
 
 ## Cele przetwarzania
 
-Dane dotyczące Użytkownika są przetwarzane w celu umożliwienia Właścicielowi świadczenia Usługi, wypełniania ciążących na nim obowiązków prawnych, odpowiadania na żądania organów egzekwowania prawa, ochrony jego praw i interesów (lub praw i interesów jego Użytkowników bądź osób trzecich) oraz wykrywania wszelkich złośliwych lub oszukańczych działań, a także w następujących celach: sterowanie telewizorami Użytkownika, wyświetlanie konta Apple Użytkownika, zapewnianie Premium+ i aplikacji na Apple Watch oraz udzielanie odpowiedzi na zgłoszenia do wsparcia.
+Dane dotyczące Użytkownika są przetwarzane w celu umożliwienia Właścicielowi świadczenia Usługi, wypełniania ciążących na nim obowiązków prawnych, odpowiadania na żądania organów egzekwowania prawa, ochrony jego praw i interesów (lub praw i interesów jego Użytkowników bądź osób trzecich) oraz wykrywania wszelkich złośliwych lub oszukańczych działań, a także w następujących celach: sterowanie telewizorami Użytkownika, zapewnianie Premium+ i aplikacji na Apple Watch oraz udzielanie odpowiedzi na zgłoszenia do wsparcia.
 
 Szczegółowe informacje na temat Danych Osobowych wykorzystywanych w poszczególnych celach Użytkownik może znaleźć w sekcji „W jaki sposób niniejsza Aplikacja przetwarza Dane”.
 
@@ -136,7 +128,7 @@ Szczegółowe informacje na temat Danych Osobowych wykorzystywanych w poszczegó
 
 Użytkownicy mogą wykonywać określone prawa w odniesieniu do swoich Danych przetwarzanych przez Właściciela.
 
-Ponieważ prawie wszystkie Dane są przechowywane wyłącznie na własnych urządzeniach Użytkownika, Użytkownicy mogą samodzielnie wykonywać wiele z tych praw: usunięcie telewizora w sekcji „Urządzenia”, wylogowanie się lub usunięcie niniejszej Aplikacji powoduje usunięcie odpowiednich Danych.
+Ponieważ prawie wszystkie Dane są przechowywane wyłącznie na własnych urządzeniach Użytkownika, Użytkownicy mogą samodzielnie wykonywać wiele z tych praw: usunięcie telewizora w sekcji „Urządzenia” lub usunięcie niniejszej Aplikacji powoduje usunięcie odpowiednich Danych.
 
 W szczególności Użytkownicy mają prawo:
 

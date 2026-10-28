@@ -1,6 +1,6 @@
 # Termini e condizioni di Cingle Remote
 
-Ultimo aggiornamento: 23 ottobre 2026
+Ultimo aggiornamento: 28 ottobre 2026
 
 I presenti Termini disciplinano
 
@@ -36,23 +36,6 @@ Utilizzando questa Applicazione, gli Utenti confermano di soddisfare i seguenti 
 * Non vi sono restrizioni per gli Utenti in relazione al fatto di essere Consumatori o Utenti Professionali;
 * Gli Utenti non si trovano in un Paese soggetto a embargo da parte del Governo degli Stati Uniti o designato dal Governo degli Stati Uniti come Paese “che sostiene il terrorismo”;
 * Gli Utenti non figurano in alcun elenco del Governo degli Stati Uniti di soggetti interdetti o sottoposti a restrizioni.
-
-### Registrazione dell’account
-
-Gli Utenti possono accedere a questa Applicazione con il proprio Account Apple (Accedi con Apple). L’accesso è facoltativo e tutte le funzionalità di questa Applicazione sono disponibili anche senza di esso.
-
-Il nome e l’indirizzo email che Apple condivide quando gli Utenti effettuano l’accesso sono conservati esclusivamente sul dispositivo dell’Utente.
-
-Gli Utenti sono responsabili della sicurezza del proprio Account Apple e del proprio dispositivo, nonché di tutte le attività svolte in questa Applicazione tramite il proprio account.
-
-Gli Utenti sono tenuti a informare immediatamente e in modo inequivocabile il Titolare, tramite i recapiti indicati nel presente documento, qualora ritengano che le proprie informazioni personali, inclusi, a titolo esemplificativo e non esaustivo, gli account Utente, le credenziali di accesso o i dati personali, siano state violate, indebitamente divulgate o sottratte.
-
-### Chiusura dell’account
-
-Gli Utenti possono chiudere il proprio account e interrompere l’utilizzo del Servizio in qualsiasi momento nei seguenti modi:
-
-* Uscendo dall’account tramite “Esci” nelle Impostazioni di questa Applicazione, operazione che rimuove dal dispositivo il loro nome e il loro indirizzo email.
-* Interrompendo l’uso di Accedi con Apple per questa Applicazione nelle impostazioni del proprio Account Apple.
 
 ### Contenuti presenti in questa Applicazione
 

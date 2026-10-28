@@ -1,6 +1,6 @@
 # Regulamin Cingle Remote
 
-Ostatnia aktualizacja: 23 października 2026 r.
+Ostatnia aktualizacja: 28 października 2026 r.
 
 Niniejszy Regulamin reguluje
 
@@ -36,23 +36,6 @@ Korzystając z niniejszej Aplikacji, Użytkownicy potwierdzają, że spełniają
 * Nie ma ograniczeń dotyczących Użytkowników w zakresie tego, czy są Konsumentami, czy Użytkownikami Biznesowymi;
 * Użytkownicy nie znajdują się w kraju objętym embargiem rządu Stanów Zjednoczonych ani w kraju uznanym przez rząd Stanów Zjednoczonych za kraj „wspierający terroryzm”;
 * Użytkownicy nie figurują na żadnej prowadzonej przez rząd Stanów Zjednoczonych liście podmiotów objętych zakazami lub ograniczeniami.
-
-### Rejestracja konta
-
-Użytkownicy mogą logować się do niniejszej Aplikacji za pomocą swojego konta Apple (funkcja „Zaloguj się, używając konta Apple”). Logowanie jest opcjonalne, a wszystkie funkcje niniejszej Aplikacji są dostępne bez niego.
-
-Imię i nazwisko oraz adres e-mail udostępniane przez Apple podczas logowania się Użytkowników są przechowywane wyłącznie na urządzeniu Użytkownika.
-
-Użytkownicy odpowiadają za zabezpieczenie swojego konta Apple i swojego urządzenia oraz za wszelkie działania podejmowane w niniejszej Aplikacji w ramach ich konta.
-
-Użytkownicy są zobowiązani niezwłocznie i jednoznacznie poinformować Właściciela, za pośrednictwem danych kontaktowych wskazanych w niniejszym dokumencie, jeżeli uważają, że ich informacje osobiste, w tym między innymi konta Użytkownika, dane dostępowe lub dane osobowe, zostały naruszone, bezprawnie ujawnione lub skradzione.
-
-### Zamknięcie konta
-
-Użytkownicy mogą w każdej chwili zamknąć swoje konto i zaprzestać korzystania z Usługi w następujący sposób:
-
-* Korzystając z opcji „Wyloguj się” w Ustawieniach niniejszej Aplikacji, co powoduje usunięcie ich imienia i nazwiska oraz adresu e-mail z urządzenia.
-* Zaprzestając korzystania z funkcji „Zaloguj się, używając konta Apple” w odniesieniu do niniejszej Aplikacji w ustawieniach swojego konta Apple.
 
 ### Treści w niniejszej Aplikacji
 

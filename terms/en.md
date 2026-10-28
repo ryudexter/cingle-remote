@@ -1,6 +1,6 @@
 # Terms and Conditions of Cingle Remote
 
-Last updated: 23 October 2026
+Last updated: 28 October 2026
 
 These Terms govern
 
@@ -36,23 +36,6 @@ By using this Application, Users confirm that they meet the following requiremen
 * There are no restrictions for Users in terms of being Consumers or Business Users;
 * Users aren’t located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist-supporting” country;
 * Users aren’t listed on any U.S. Government list of prohibited or restricted parties.
-
-### Account registration
-
-Users may sign in to this Application with their Apple Account (Sign in with Apple). Signing in is optional, and all features of this Application are available without it.
-
-The name and email address that Apple shares when Users sign in are kept on the User’s device only.
-
-Users are responsible for keeping their Apple Account and their device secure, and for all activities that occur in this Application under their account.
-
-Users are required to immediately and unambiguously inform the Owner via the contact details indicated in this document, if they think their personal information, including but not limited to User accounts, access credentials or personal data, have been violated, unduly disclosed or stolen.
-
-### Account termination
-
-Users can terminate their account and stop using the Service at any time by doing the following:
-
-* By signing out in the Settings of this Application, which removes their name and email address from the device.
-* By stopping the use of Sign in with Apple for this Application in their Apple Account settings.
 
 ### Content on this Application
 

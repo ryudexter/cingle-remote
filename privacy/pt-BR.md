@@ -1,6 +1,6 @@
 # Política de Privacidade do Cingle Remote
 
-Última atualização: 23 de outubro de 2026
+Última atualização: 28 de outubro de 2026
 
 Este Aplicativo trata muito poucos Dados Pessoais e mantém quase todos eles nos próprios dispositivos do Usuário. Ele não exibe publicidade, não usa serviços de análise nem de rastreamento e não envia Dados a servidores administrados pelo Proprietário.
 
@@ -9,7 +9,6 @@ Este Aplicativo trata muito poucos Dados Pessoais e mantém quase todos eles nos
 ### Dados Pessoais tratados para as seguintes finalidades
 
 * **Controle de TVs:** os nomes, os modelos e os endereços de rede das TVs na rede Wi-Fi do Usuário, e as chaves necessárias para o pareamento com elas. Mantidos no iPhone e no Apple Watch do Usuário.
-* **Iniciar sessão com a Apple (opcional):** o nome e o endereço de e-mail do Usuário. Mantidos no iPhone do Usuário.
 * **Compras:** gerenciadas pela Apple. Este Aplicativo recebe da Apple a informação de quais Produtos o Usuário comprou e de quando este Aplicativo foi baixado pela primeira vez.
 * **Suporte:** os e-mails que os Usuários decidem enviar ao Proprietário.
 
@@ -34,16 +33,15 @@ E-mail de contato do Proprietário: [zcengel@yahoo.com](mailto:zcengel@yahoo.com
 Entre os tipos de Dados Pessoais que este Aplicativo trata, estão:
 
 * **Informações das TVs:** o nome, o modelo, a marca e o endereço IP de cada TV encontrada na rede local do Usuário ou adicionada pelo Usuário, seu endereço MAC, quando a TV o informa, e as chaves de pareamento, os tokens e os certificados trocados com a TV.
-* **Informações da conta:** somente se o Usuário iniciar sessão com a Apple, o nome e o endereço de e-mail que a Apple compartilha (que pode ser um endereço de retransmissão privado do Ocultar Meu E-mail, da Apple) e o identificador que a Apple atribui ao Usuário para este Aplicativo.
 * **Informações de compra:** quais Produtos o Usuário comprou, se uma assinatura está ativa e quando ela termina, e a data em que este Aplicativo foi baixado pela primeira vez, tudo conforme fornecido pela Apple.
 * **Ajustes:** as escolhas do Usuário neste Aplicativo, como o retorno tátil, o idioma e os botões de aplicativos exibidos no controle remoto.
 * **Informações de suporte:** o conteúdo de qualquer e-mail que o Usuário envie ao Proprietário, o endereço de e-mail do Usuário e os detalhes técnicos acrescentados ao e-mail, conforme descrito abaixo.
 
 As teclas pressionadas e o texto digitado com o teclado deste Aplicativo são enviados apenas à TV do Usuário e não são armazenados.
 
-Os Dados Pessoais são fornecidos pelo Usuário, por exemplo, ao iniciar sessão com a Apple ou ao escrever para o Proprietário, ou são criados quando este Aplicativo é usado, por exemplo, quando ele encontra uma TV ou é pareado com ela.
+Os Dados Pessoais são fornecidos pelo Usuário, por exemplo, ao escrever para o Proprietário, ou são criados quando este Aplicativo é usado, por exemplo, quando ele encontra uma TV ou é pareado com ela.
 
-Iniciar sessão com a Apple é opcional, e todos os recursos deste Aplicativo estão disponíveis sem isso. Sem acesso à rede local, cuja permissão o iOS solicita ao Usuário, este Aplicativo não consegue encontrar nem controlar TVs.
+Sem acesso à rede local, cuja permissão o iOS solicita ao Usuário, este Aplicativo não consegue encontrar nem controlar TVs.
 
 Os Usuários que não tiverem certeza sobre quais Dados Pessoais são obrigatórios estão convidados a entrar em contato com o Proprietário.
 
@@ -56,12 +54,6 @@ Os Usuários são responsáveis por quaisquer Dados Pessoais de terceiros obtido
 Para encontrar TVs, este Aplicativo faz uma busca na rede local do Usuário, depois que o Usuário lhe dá permissão para isso. Em seguida, ele se comunica diretamente com a TV pela rede local. As teclas pressionadas e o texto digitado vão diretamente para a TV.
 
 Os detalhes das TVs do Usuário são mantidos no iPhone do Usuário, com as chaves de pareamento nas Chaves do iPhone. Eles também são enviados ao Apple Watch do Usuário, para que este possa controlar as mesmas TVs. Eles não são enviados ao Proprietário nem a nenhuma outra pessoa.
-
-### Iniciar sessão com a Apple
-
-Iniciar sessão com a Apple serve apenas para exibir a Conta Apple do Usuário no topo dos Ajustes deste Aplicativo. O nome e o endereço de e-mail que a Apple compartilha são mantidos nas Chaves do iPhone e nunca são enviados ao Proprietário. Toda vez que este Aplicativo é aberto, ele consulta a Apple para verificar se o Usuário continua com a sessão iniciada.
-
-Os Usuários podem sair da conta a qualquer momento nos Ajustes deste Aplicativo, o que remove seu nome e endereço de e-mail do iPhone. Eles também podem deixar de usar Iniciar sessão com a Apple para este Aplicativo nos ajustes de sua Conta Apple.
 
 ### Compras
 
@@ -101,7 +93,7 @@ O Proprietário poderá tratar Dados Pessoais relativos aos Usuários se uma das
 * o tratamento está relacionado a uma tarefa realizada no interesse público ou no exercício da autoridade pública de que o Proprietário está investido;
 * o tratamento é necessário para atender aos interesses legítimos buscados pelo Proprietário ou por um terceiro.
 
-Em particular, o controle de TVs e o fornecimento das compras são necessários para a execução do contrato com o Usuário, o uso de Iniciar sessão com a Apple baseia-se no consentimento do Usuário, e a resposta aos e-mails de suporte é necessária para a execução desse contrato ou para o interesse legítimo do Proprietário em ajudar seus Usuários.
+Em particular, o controle de TVs e o fornecimento das compras são necessários para a execução do contrato com o Usuário, e a resposta aos e-mails de suporte é necessária para a execução desse contrato ou para o interesse legítimo do Proprietário em ajudar seus Usuários.
 
 Em qualquer caso, o Proprietário terá prazer em ajudar a esclarecer a base legal específica que se aplica ao tratamento e, em particular, se o fornecimento de Dados Pessoais é um requisito legal ou contratual, ou um requisito necessário para celebrar um contrato.
 
@@ -119,7 +111,7 @@ Os Dados Pessoais serão tratados e armazenados pelo tempo exigido pela finalida
 
 Portanto:
 
-* Os Dados mantidos nos dispositivos do Usuário permanecem neles até que o Usuário os remova: removendo uma TV em Dispositivos, saindo da conta ou apagando este Aplicativo.
+* Os Dados mantidos nos dispositivos do Usuário permanecem neles até que o Usuário os remova: removendo uma TV em Dispositivos ou apagando este Aplicativo.
 * Os e-mails de suporte são mantidos pelo tempo necessário para respondê-los e para tratar de eventuais comunicações posteriores, a menos que a lei exija que o Proprietário os mantenha por mais tempo.
 
 O Proprietário poderá ser obrigado a reter Dados Pessoais por um período mais longo sempre que necessário para o cumprimento de uma obrigação legal ou por ordem de uma autoridade.
@@ -128,7 +120,7 @@ Uma vez expirado o período de retenção, os Dados Pessoais serão eliminados. 
 
 ## Finalidades do tratamento
 
-Os Dados relativos ao Usuário são tratados para permitir que o Proprietário preste seu Serviço, cumpra suas obrigações legais, responda a solicitações das autoridades responsáveis pela aplicação da lei, proteja seus direitos e interesses (ou os de seus Usuários ou de terceiros) e detecte qualquer atividade maliciosa ou fraudulenta, bem como para os seguintes fins: controlar as TVs do Usuário, exibir a Conta Apple do Usuário, fornecer o Premium+ e o aplicativo para Apple Watch e responder às solicitações de suporte.
+Os Dados relativos ao Usuário são tratados para permitir que o Proprietário preste seu Serviço, cumpra suas obrigações legais, responda a solicitações das autoridades responsáveis pela aplicação da lei, proteja seus direitos e interesses (ou os de seus Usuários ou de terceiros) e detecte qualquer atividade maliciosa ou fraudulenta, bem como para os seguintes fins: controlar as TVs do Usuário, fornecer o Premium+ e o aplicativo para Apple Watch e responder às solicitações de suporte.
 
 Para obter informações específicas sobre os Dados Pessoais usados para cada finalidade, o Usuário pode consultar a seção “Como este Aplicativo trata os Dados”.
 
@@ -136,7 +128,7 @@ Para obter informações específicas sobre os Dados Pessoais usados para cada f
 
 Os Usuários podem exercer determinados direitos em relação aos seus Dados tratados pelo Proprietário.
 
-Como quase todos os Dados são mantidos apenas nos próprios dispositivos do Usuário, os Usuários podem exercer muitos desses direitos por conta própria: remover uma TV em Dispositivos, sair da conta ou apagar este Aplicativo remove os Dados correspondentes.
+Como quase todos os Dados são mantidos apenas nos próprios dispositivos do Usuário, os Usuários podem exercer muitos desses direitos por conta própria: remover uma TV em Dispositivos ou apagar este Aplicativo remove os Dados correspondentes.
 
 Em particular, os Usuários têm o direito de fazer o seguinte:
 

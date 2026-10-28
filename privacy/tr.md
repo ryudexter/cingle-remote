@@ -1,6 +1,6 @@
 # Cingle Remote Gizlilik Politikası
 
-Son güncelleme: 23 Ekim 2026
+Son güncelleme: 28 Ekim 2026
 
 Bu Uygulama çok az Kişisel Veri işler ve bunların neredeyse tamamını Kullanıcı'nın kendi cihazlarında tutar. Reklam göstermez, hiçbir analiz veya izleme hizmeti kullanmaz ve İşletmeci tarafından işletilen sunuculara hiçbir Veri göndermez.
 
@@ -9,7 +9,6 @@ Bu Uygulama çok az Kişisel Veri işler ve bunların neredeyse tamamını Kulla
 ### Aşağıdaki amaçlarla işlenen Kişisel Veriler
 
 * **Televizyonların kontrolü:** Kullanıcı'nın Wi-Fi ağındaki televizyonların adları, modelleri ve ağ adresleri ile bu televizyonlarla eşleştirme yapmak için gereken anahtarlar. Kullanıcı'nın iPhone'unda ve Apple Watch'unda saklanır.
-* **Apple ile Giriş Yap (isteğe bağlı):** Kullanıcı'nın adı ve e-posta adresi. Kullanıcı'nın iPhone'unda saklanır.
 * **Satın alımlar:** Apple tarafından yürütülür. Bu Uygulama, Kullanıcı'nın hangi Ürünleri satın aldığı ve bu Uygulama'nın ilk kez ne zaman indirildiği bilgisini Apple'dan alır.
 * **Destek:** Kullanıcıların İşletmeci'ye göndermeyi tercih ettiği e-postalar.
 
@@ -34,16 +33,15 @@ Fatih Ziya Cengel, Türkmen Mah. İnönü Bul. No:32, Kuşadası/Aydın, Turkey
 Bu Uygulama'nın işlediği Kişisel Veri türleri arasında şunlar yer alır:
 
 * **Televizyon bilgileri:** Kullanıcı'nın yerel ağında bulunan veya Kullanıcı tarafından eklenen her televizyonun adı, modeli, markası ve IP adresi; televizyon bildirdiği takdirde MAC adresi ve televizyonla karşılıklı olarak paylaşılan eşleştirme anahtarları, belirteçleri ve sertifikaları.
-* **Hesap bilgileri:** yalnızca Kullanıcı Apple ile giriş yaparsa, Apple'ın paylaştığı ad ve e-posta adresi (bu adres, Apple'ın E-postamı Gizle özelliğinden alınan özel bir yönlendirme adresi olabilir) ve Apple'ın bu Uygulama için Kullanıcı'ya atadığı tanımlayıcı.
 * **Satın alma bilgileri:** Kullanıcı'nın hangi Ürünleri satın aldığı, bir aboneliğin etkin olup olmadığı ve ne zaman sona ereceği ve bu Uygulama'nın ilk kez indirildiği tarih; bunların tümü Apple tarafından sağlandığı şekliyle.
 * **Ayarlar:** Kullanıcı'nın bu Uygulama'daki dokunsal geri bildirim, dil ve kumandada gösterilen uygulama düğmeleri gibi tercihleri.
 * **Destek bilgileri:** Kullanıcı'nın İşletmeci'ye gönderdiği her türlü e-postanın içeriği, Kullanıcı'nın e-posta adresi ve aşağıda açıklandığı şekilde e-postaya eklenen teknik ayrıntılar.
 
 Basılan tuşlar ve bu Uygulama'nın klavyesiyle yazılan metinler yalnızca Kullanıcı'nın televizyonuna gönderilir ve saklanmaz.
 
-Kişisel Veriler, Kullanıcı tarafından sağlanır, örneğin Apple ile giriş yapılırken veya İşletmeci'ye yazılırken; ya da bu Uygulama kullanılırken oluşturulur, örneğin bu Uygulama bir televizyonu bulduğunda veya bir televizyonla eşleştirildiğinde.
+Kişisel Veriler, Kullanıcı tarafından sağlanır, örneğin İşletmeci'ye yazılırken; ya da bu Uygulama kullanılırken oluşturulur, örneğin bu Uygulama bir televizyonu bulduğunda veya bir televizyonla eşleştirildiğinde.
 
-Apple ile giriş yapmak isteğe bağlıdır ve bu Uygulama'nın tüm özellikleri giriş yapılmadan da kullanılabilir. Bu Uygulama, iOS tarafından Kullanıcı'dan izin vermesi istenen yerel ağ erişimi olmadan televizyonları bulamaz veya kontrol edemez.
+Bu Uygulama, iOS tarafından Kullanıcı'dan izin vermesi istenen yerel ağ erişimi olmadan televizyonları bulamaz veya kontrol edemez.
 
 Hangi Kişisel Verilerin zorunlu olduğundan emin olmayan Kullanıcılar, çekinmeden İşletmeci ile iletişime geçebilir.
 
@@ -56,12 +54,6 @@ Kullanıcılar, bu Uygulama aracılığıyla edinilen, yayımlanan veya paylaş�
 Bu Uygulama, televizyonları bulmak için, Kullanıcı buna izin verdikten sonra Kullanıcı'nın yerel ağında arama yapar. Ardından yerel ağ üzerinden doğrudan televizyonla iletişim kurar. Basılan tuşlar ve yazılan metinler doğrudan televizyona gider.
 
 Kullanıcı'nın televizyonlarına ilişkin ayrıntılar Kullanıcı'nın iPhone'unda, eşleştirme anahtarları ise iPhone'un Anahtar Zinciri'nde saklanır. Bu ayrıntılar, aynı televizyonları kontrol edebilmesi için Kullanıcı'nın Apple Watch'una da gönderilir. İşletmeci'ye veya başka hiç kimseye gönderilmez.
-
-### Apple ile Giriş Yap
-
-Apple ile giriş yapmak, yalnızca Kullanıcı'nın Apple Hesabının bu Uygulama'nın Ayarlar bölümünün en üstünde gösterilmesini sağlar. Apple'ın paylaştığı ad ve e-posta adresi iPhone'un Anahtar Zinciri'nde saklanır ve hiçbir zaman İşletmeci'ye gönderilmez. Bu Uygulama her açıldığında, Kullanıcı'nın hâlâ giriş yapmış olup olmadığını Apple'a sorar.
-
-Kullanıcılar, bu Uygulama'nın Ayarlar bölümünden istedikleri zaman çıkış yapabilir; bu işlem, adlarını ve e-posta adreslerini iPhone'dan kaldırır. Kullanıcılar ayrıca Apple Hesabı ayarlarından bu Uygulama için Apple ile Giriş Yap kullanımını durdurabilir.
 
 ### Satın alımlar
 
@@ -101,7 +93,7 @@ Destek e-postaları yalnızca İşletmeci ve İşletmeci'nin bunları yanıtlama
 * işleme, kamu yararına veya İşletmeci'ye verilmiş resmî yetkinin kullanılması kapsamında yürütülen bir görevle ilgilidir;
 * işleme, İşletmeci veya bir üçüncü taraf tarafından güdülen meşru menfaatler için gereklidir.
 
-Özellikle televizyonların kontrol edilmesi ve satın alımların sağlanması Kullanıcı ile yapılan sözleşmenin ifası için gereklidir; Apple ile giriş yapılması Kullanıcı'nın rızasına dayanır; destek e-postalarının yanıtlanması ise söz konusu sözleşmenin ifası veya İşletmeci'nin Kullanıcılarına yardımcı olmaya yönelik meşru menfaati için gereklidir.
+Özellikle televizyonların kontrol edilmesi ve satın alımların sağlanması Kullanıcı ile yapılan sözleşmenin ifası için gereklidir; destek e-postalarının yanıtlanması ise söz konusu sözleşmenin ifası veya İşletmeci'nin Kullanıcılarına yardımcı olmaya yönelik meşru menfaati için gereklidir.
 
 Her hâlükârda İşletmeci, işlemeye uygulanan özel hukuki sebebin ve özellikle Kişisel Verilerin sağlanmasının kanuni veya sözleşmesel bir gereklilik ya da bir sözleşmenin kurulması için gerekli bir şart olup olmadığının açıklığa kavuşturulmasına memnuniyetle yardımcı olur.
 
@@ -119,7 +111,7 @@ Kişisel Veriler, toplanma amaçlarının gerektirdiği süre boyunca işlenir v
 
 Bu nedenle:
 
-* Kullanıcı'nın cihazlarında tutulan Veriler, Kullanıcı bunları kaldırana kadar orada kalır: Cihazlar bölümünde bir televizyonu kaldırarak, çıkış yaparak veya bu Uygulama'yı silerek.
+* Kullanıcı'nın cihazlarında tutulan Veriler, Kullanıcı bunları kaldırana kadar orada kalır: Cihazlar bölümünde bir televizyonu kaldırarak veya bu Uygulama'yı silerek.
 * Destek e-postaları, kanun İşletmeci'nin bunları daha uzun süre saklamasını gerektirmedikçe, bunları yanıtlamak ve her türlü takip işlemini yürütmek için gerekli olduğu süre boyunca saklanır.
 
 Bir hukuki yükümlülüğün yerine getirilmesi için veya bir makamın emri üzerine gerekli olduğu durumlarda İşletmeci, Kişisel Verileri daha uzun bir süre saklamak zorunda kalabilir.
@@ -128,7 +120,7 @@ Saklama süresi sona erdiğinde Kişisel Veriler silinir. Bu nedenle erişim hak
 
 ## İşleme amaçları
 
-Kullanıcı'ya ilişkin Veriler, İşletmeci'nin Hizmet'ini sunabilmesi, hukuki yükümlülüklerine uyabilmesi, yaptırım taleplerine yanıt verebilmesi, kendi hak ve menfaatlerini (veya Kullanıcılarının ya da üçüncü tarafların hak ve menfaatlerini) koruyabilmesi, her türlü kötü amaçlı veya dolandırıcılık niteliğindeki faaliyeti tespit edebilmesi ve ayrıca şu amaçlar için işlenir: Kullanıcı'nın televizyonlarının kontrol edilmesi, Kullanıcı'nın Apple Hesabının gösterilmesi, Premium+ ve Apple Watch uygulamasının sağlanması ve destek taleplerinin yanıtlanması.
+Kullanıcı'ya ilişkin Veriler, İşletmeci'nin Hizmet'ini sunabilmesi, hukuki yükümlülüklerine uyabilmesi, yaptırım taleplerine yanıt verebilmesi, kendi hak ve menfaatlerini (veya Kullanıcılarının ya da üçüncü tarafların hak ve menfaatlerini) koruyabilmesi, her türlü kötü amaçlı veya dolandırıcılık niteliğindeki faaliyeti tespit edebilmesi ve ayrıca şu amaçlar için işlenir: Kullanıcı'nın televizyonlarının kontrol edilmesi, Premium+ ve Apple Watch uygulamasının sağlanması ve destek taleplerinin yanıtlanması.
 
 Kullanıcı, her bir amaç için kullanılan Kişisel Verilere ilişkin ayrıntılı bilgi için “Bu Uygulama'nın Verileri işleme şekli” bölümüne başvurabilir.
 
@@ -136,7 +128,7 @@ Kullanıcı, her bir amaç için kullanılan Kişisel Verilere ilişkin ayrınt�
 
 Kullanıcılar, İşletmeci tarafından işlenen Verilerine ilişkin belirli hakları kullanabilir.
 
-Verilerin neredeyse tamamı yalnızca Kullanıcı'nın kendi cihazlarında tutulduğundan, Kullanıcılar bu hakların çoğunu kendileri kullanabilir: Cihazlar bölümünde bir televizyonu kaldırmak, çıkış yapmak veya bu Uygulama'yı silmek ilgili Verileri kaldırır.
+Verilerin neredeyse tamamı yalnızca Kullanıcı'nın kendi cihazlarında tutulduğundan, Kullanıcılar bu hakların çoğunu kendileri kullanabilir: Cihazlar bölümünde bir televizyonu kaldırmak veya bu Uygulama'yı silmek ilgili Verileri kaldırır.
 
 Kullanıcılar özellikle aşağıdakileri yapma hakkına sahiptir:
 

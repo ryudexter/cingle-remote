@@ -1,6 +1,6 @@
 # Integritetspolicy för Cingle Remote
 
-Senast uppdaterad: 23 oktober 2026
+Senast uppdaterad: 28 oktober 2026
 
 Denna Applikation hanterar mycket få Personuppgifter och lagrar nästan samtliga av dem på Användarens egna enheter. Den visar ingen reklam, använder inga analys- eller spårningstjänster och skickar inga Uppgifter till servrar som drivs av Ägaren.
 
@@ -9,7 +9,6 @@ Denna Applikation hanterar mycket få Personuppgifter och lagrar nästan samtlig
 ### Personuppgifter som behandlas för följande ändamål
 
 * **Styrning av tv-apparater:** namn, modeller och nätverksadresser för tv-apparaterna i Användarens Wi-Fi-nätverk samt de nycklar som behövs för att parkoppla med dem. Sparas på Användarens iPhone och Apple Watch.
-* **Logga in med Apple (frivilligt):** Användarens namn och e-postadress. Sparas på Användarens iPhone.
 * **Köp:** hanteras av Apple. Denna Applikation får information från Apple om vilka Produkter Användaren har köpt och när denna Applikation laddades ned första gången.
 * **Support:** de e-postmeddelanden som Användare väljer att skicka till Ägaren.
 
@@ -34,16 +33,15 @@ E-postadress för kontakt med Ägaren: [zcengel@yahoo.com](mailto:zcengel@yahoo.
 Bland de typer av Personuppgifter som denna Applikation behandlar finns:
 
 * **Information om tv-apparater:** namn, modell, märke och IP-adress för varje tv-apparat som hittas i Användarens lokala nätverk eller som läggs till av Användaren, dess MAC-adress när tv-apparaten rapporterar den, samt de parkopplingsnycklar, token och certifikat som utväxlas med tv-apparaten.
-* **Kontoinformation:** endast om Användaren loggar in med Apple, det namn och den e-postadress som Apple delar (som kan vara en privat vidarebefordringsadress från Apples Göm min e-post), samt den identifierare som Apple tilldelar Användaren för denna Applikation.
 * **Köpinformation:** vilka Produkter Användaren har köpt, om en prenumeration är aktiv och när den upphör, samt det datum då denna Applikation laddades ned första gången, allt såsom det tillhandahålls av Apple.
 * **Inställningar:** Användarens val i denna Applikation, såsom haptik, språk och de appknappar som visas på fjärrkontrollen.
 * **Supportinformation:** innehållet i varje e-postmeddelande som Användaren skickar till Ägaren, Användarens e-postadress och de tekniska detaljer som läggs till i meddelandet enligt beskrivningen nedan.
 
 Knapptryckningar och text som skrivs med denna Applikations tangentbord skickas endast till Användarens tv-apparat och lagras inte.
 
-Personuppgifter lämnas av Användaren, till exempel vid inloggning med Apple eller när Användaren skriver till Ägaren, eller skapas när denna Applikation används, till exempel när den hittar eller parkopplar med en tv-apparat.
+Personuppgifter lämnas av Användaren, till exempel när Användaren skriver till Ägaren, eller skapas när denna Applikation används, till exempel när den hittar eller parkopplar med en tv-apparat.
 
-Inloggning med Apple är frivillig, och alla funktioner i denna Applikation är tillgängliga utan den. Utan åtkomst till det lokala nätverket, vilket iOS ber Användaren att tillåta, kan denna Applikation inte hitta eller styra tv-apparater.
+Utan åtkomst till det lokala nätverket, vilket iOS ber Användaren att tillåta, kan denna Applikation inte hitta eller styra tv-apparater.
 
 Användare som är osäkra på vilka Personuppgifter som krävs är välkomna att kontakta Ägaren.
 
@@ -56,12 +54,6 @@ Användarna ansvarar för alla Personuppgifter om tredje part som erhålls, publ
 För att hitta tv-apparater söker denna Applikation igenom Användarens lokala nätverk, efter att Användaren har tillåtit den att göra det. Därefter kommunicerar den direkt med tv-apparaten via det lokala nätverket. Knapptryckningar och inskriven text går direkt till tv-apparaten.
 
 Informationen om Användarens tv-apparater sparas på Användarens iPhone, med parkopplingsnycklarna i nyckelringen på iPhone. Den skickas också till Användarens Apple Watch, så att den kan styra samma tv-apparater. Den skickas inte till Ägaren eller till någon annan.
-
-### Logga in med Apple
-
-Inloggning med Apple gör endast att Användarens Apple-konto visas högst upp i Inställningar i denna Applikation. Det namn och den e-postadress som Apple delar sparas i nyckelringen på iPhone och skickas aldrig till Ägaren. Varje gång denna Applikation öppnas frågar den Apple om Användaren fortfarande är inloggad.
-
-Användarna kan när som helst logga ut i Inställningar i denna Applikation, vilket tar bort deras namn och e-postadress från iPhone. De kan också sluta använda Logga in med Apple för denna Applikation i inställningarna för sitt Apple-konto.
 
 ### Köp
 
@@ -101,7 +93,7 @@ E-postmeddelanden till support läses endast av Ägaren och av personer som Äga
 * behandlingen har samband med en uppgift som utförs i allmänhetens intresse eller som ett led i Ägarens myndighetsutövning;
 * behandlingen är nödvändig för ändamål som rör Ägarens eller en tredje parts berättigade intressen.
 
-I synnerhet är styrning av tv-apparater och tillhandahållande av köp nödvändiga för att fullgöra avtalet med Användaren, inloggning med Apple grundar sig på Användarens samtycke, och besvarande av e-postmeddelanden till support är nödvändigt för att fullgöra detta avtal eller för Ägarens berättigade intresse av att hjälpa sina Användare.
+I synnerhet är styrning av tv-apparater och tillhandahållande av köp nödvändiga för att fullgöra avtalet med Användaren, och besvarande av e-postmeddelanden till support är nödvändigt för att fullgöra detta avtal eller för Ägarens berättigade intresse av att hjälpa sina Användare.
 
 Ägaren hjälper under alla omständigheter gärna till att klargöra vilken specifik rättslig grund som gäller för behandlingen, och i synnerhet om tillhandahållandet av Personuppgifter är ett lagstadgat eller avtalsenligt krav eller ett krav som är nödvändigt för att ingå ett avtal.
 
@@ -119,7 +111,7 @@ Personuppgifter ska behandlas och lagras så länge som krävs för det ändamå
 
 Därför gäller följande:
 
-* Uppgifter som sparas på Användarens enheter finns kvar där tills Användaren tar bort dem: genom att ta bort en tv-apparat i Enheter, genom att logga ut eller genom att radera denna Applikation.
+* Uppgifter som sparas på Användarens enheter finns kvar där tills Användaren tar bort dem: genom att ta bort en tv-apparat i Enheter eller genom att radera denna Applikation.
 * E-postmeddelanden till support sparas så länge som behövs för att besvara dem och hantera eventuell uppföljning, såvida inte lagen kräver att Ägaren sparar dem längre.
 
 Ägaren kan vara skyldig att lagra Personuppgifter under en längre period när detta krävs för att fullgöra en rättslig förpliktelse eller efter beslut av en myndighet.
@@ -128,7 +120,7 @@ När lagringsperioden har löpt ut ska Personuppgifterna raderas. Därför kan r
 
 ## Ändamålen med behandlingen
 
-Uppgifter som rör Användaren behandlas för att Ägaren ska kunna tillhandahålla sin Tjänst, fullgöra sina rättsliga förpliktelser, besvara begäranden från brottsbekämpande myndigheter, skydda sina rättigheter och intressen (eller sina Användares eller tredje parters), upptäcka skadlig eller bedräglig verksamhet samt för följande ändamål: styrning av Användarens tv-apparater, visning av Användarens Apple-konto, tillhandahållande av Premium+ och Apple Watch-appen samt besvarande av supportförfrågningar.
+Uppgifter som rör Användaren behandlas för att Ägaren ska kunna tillhandahålla sin Tjänst, fullgöra sina rättsliga förpliktelser, besvara begäranden från brottsbekämpande myndigheter, skydda sina rättigheter och intressen (eller sina Användares eller tredje parters), upptäcka skadlig eller bedräglig verksamhet samt för följande ändamål: styrning av Användarens tv-apparater, tillhandahållande av Premium+ och Apple Watch-appen samt besvarande av supportförfrågningar.
 
 För specifik information om de Personuppgifter som används för varje ändamål kan Användaren läsa avsnittet ”Hur denna Applikation hanterar Uppgifterna”.
 
@@ -136,7 +128,7 @@ För specifik information om de Personuppgifter som används för varje ändamå
 
 Användarna kan utöva vissa rättigheter avseende sina Uppgifter som behandlas av Ägaren.
 
-Eftersom nästan alla Uppgifter endast sparas på Användarens egna enheter kan Användarna själva utöva många av dessa rättigheter: att ta bort en tv-apparat i Enheter, logga ut eller radera denna Applikation tar bort motsvarande Uppgifter.
+Eftersom nästan alla Uppgifter endast sparas på Användarens egna enheter kan Användarna själva utöva många av dessa rättigheter: att ta bort en tv-apparat i Enheter eller radera denna Applikation tar bort motsvarande Uppgifter.
 
 Användarna har i synnerhet rätt att göra följande:
 

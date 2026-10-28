@@ -1,6 +1,6 @@
 # Conditions générales de Cingle Remote
 
-Dernière mise à jour : 23 octobre 2026
+Dernière mise à jour : 28 octobre 2026
 
 Les présentes Conditions régissent
 
@@ -36,23 +36,6 @@ En utilisant cette Application, les Utilisateurs confirment remplir les conditio
 * Aucune restriction ne s’applique aux Utilisateurs selon qu’ils sont des Consommateurs ou des Utilisateurs professionnels ;
 * Les Utilisateurs ne se trouvent pas dans un pays soumis à un embargo du gouvernement des États-Unis ou désigné par le gouvernement des États-Unis comme un pays « soutenant le terrorisme » ;
 * Les Utilisateurs ne figurent sur aucune liste du gouvernement des États-Unis recensant des parties interdites ou soumises à des restrictions.
-
-### Création d’un compte
-
-Les Utilisateurs peuvent se connecter à cette Application avec leur compte Apple (Se connecter avec Apple). La connexion est facultative et toutes les fonctionnalités de cette Application sont disponibles sans connexion.
-
-Le nom et l’adresse e-mail qu’Apple communique lorsque les Utilisateurs se connectent sont conservés uniquement sur l’appareil de l’Utilisateur.
-
-Les Utilisateurs sont responsables de la sécurité de leur compte Apple et de leur appareil, ainsi que de toutes les activités réalisées dans cette Application au moyen de leur compte.
-
-Les Utilisateurs sont tenus d’informer immédiatement et sans ambiguïté le Propriétaire, au moyen des coordonnées indiquées dans le présent document, s’ils estiment que leurs informations personnelles, y compris, sans s’y limiter, leurs comptes d’Utilisateur, leurs identifiants d’accès ou leurs données personnelles, ont fait l’objet d’une atteinte, ont été indûment divulguées ou ont été volées.
-
-### Résiliation du compte
-
-Les Utilisateurs peuvent résilier leur compte et cesser d’utiliser le Service à tout moment de la manière suivante :
-
-* En utilisant « Se déconnecter » dans les Réglages de cette Application, ce qui supprime leur nom et leur adresse e-mail de l’appareil.
-* En cessant d’utiliser Se connecter avec Apple pour cette Application dans les réglages de leur compte Apple.
 
 ### Contenu de cette Application
 

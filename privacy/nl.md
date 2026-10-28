@@ -1,6 +1,6 @@
 # Privacybeleid van Cingle Remote
 
-Laatst bijgewerkt: 23 oktober 2026
+Laatst bijgewerkt: 28 oktober 2026
 
 Deze Applicatie verwerkt zeer weinig Persoonsgegevens en bewaart vrijwel al deze gegevens op de eigen apparaten van de Gebruiker. Zij toont geen advertenties, maakt geen gebruik van analyse- of trackingdiensten en verstuurt geen Gegevens naar servers die door de Eigenaar worden beheerd.
 
@@ -9,7 +9,6 @@ Deze Applicatie verwerkt zeer weinig Persoonsgegevens en bewaart vrijwel al deze
 ### Persoonsgegevens die voor de volgende doeleinden worden verwerkt
 
 * **Bediening van tv’s:** de namen, modellen en netwerkadressen van de tv’s in het Wi-Fi-netwerk van de Gebruiker, en de sleutels die nodig zijn om ermee te koppelen. Bewaard op de iPhone en de Apple Watch van de Gebruiker.
-* **Log in met Apple (optioneel):** de naam en het e-mailadres van de Gebruiker. Bewaard op de iPhone van de Gebruiker.
 * **Aankopen:** afgehandeld door Apple. Deze Applicatie ontvangt van Apple informatie over welke Producten de Gebruiker heeft gekocht en wanneer deze Applicatie voor het eerst is gedownload.
 * **Support:** de e-mails die Gebruikers ervoor kiezen naar de Eigenaar te sturen.
 
@@ -34,16 +33,15 @@ Contact-e-mailadres van de Eigenaar: [zcengel@yahoo.com](mailto:zcengel@yahoo.co
 Tot de soorten Persoonsgegevens die deze Applicatie verwerkt, behoren:
 
 * **Tv-gegevens:** de naam, het model, het merk en het IP-adres van elke tv die in het lokale netwerk van de Gebruiker is gevonden of door de Gebruiker is toegevoegd, het MAC-adres van de tv wanneer de tv dit doorgeeft, en de koppelingssleutels, tokens en certificaten die met de tv worden uitgewisseld.
-* **Accountgegevens:** alleen als de Gebruiker inlogt met Apple, de naam en het e-mailadres die Apple deelt (dit kan een privé-doorstuuradres zijn dat afkomstig is van Verberg mijn e-mailadres van Apple), en de identificatiecode die Apple voor deze Applicatie aan de Gebruiker toekent.
 * **Aankoopgegevens:** welke Producten de Gebruiker heeft gekocht, of een abonnement actief is en wanneer het afloopt, en de datum waarop deze Applicatie voor het eerst is gedownload, alles zoals verstrekt door Apple.
 * **Instellingen:** de keuzes van de Gebruiker in deze Applicatie, zoals haptische feedback, taal en de app-knoppen die op de afstandsbediening worden weergegeven.
 * **Supportgegevens:** de inhoud van elke e-mail die de Gebruiker naar de Eigenaar stuurt, het e-mailadres van de Gebruiker, en de technische gegevens die daaraan worden toegevoegd zoals hieronder beschreven.
 
 Toetsaanslagen en tekst die met het toetsenbord van deze Applicatie wordt getypt, worden uitsluitend naar de tv van de Gebruiker verzonden en worden niet opgeslagen.
 
-Persoonsgegevens worden door de Gebruiker verstrekt, bijvoorbeeld bij het inloggen met Apple of bij het schrijven aan de Eigenaar, of ontstaan bij het gebruik van deze Applicatie, bijvoorbeeld wanneer zij een tv vindt of daarmee koppelt.
+Persoonsgegevens worden door de Gebruiker verstrekt, bijvoorbeeld bij het schrijven aan de Eigenaar, of ontstaan bij het gebruik van deze Applicatie, bijvoorbeeld wanneer zij een tv vindt of daarmee koppelt.
 
-Inloggen met Apple is optioneel, en alle functies van deze Applicatie zijn ook zonder inloggen beschikbaar. Zonder toegang tot het lokale netwerk, waarvoor iOS de Gebruiker om toestemming vraagt, kan deze Applicatie geen tv’s vinden of bedienen.
+Zonder toegang tot het lokale netwerk, waarvoor iOS de Gebruiker om toestemming vraagt, kan deze Applicatie geen tv’s vinden of bedienen.
 
 Gebruikers die niet zeker weten welke Persoonsgegevens vereist zijn, kunnen gerust contact opnemen met de Eigenaar.
 
@@ -56,12 +54,6 @@ Gebruikers zijn verantwoordelijk voor alle Persoonsgegevens van derden die via d
 Om tv’s te vinden, doorzoekt deze Applicatie het lokale netwerk van de Gebruiker, nadat de Gebruiker haar daarvoor toestemming heeft gegeven. Vervolgens communiceert zij via het lokale netwerk rechtstreeks met de tv. Toetsaanslagen en getypte tekst gaan rechtstreeks naar de tv.
 
 De gegevens van de tv’s van de Gebruiker worden op de iPhone van de Gebruiker bewaard, met de koppelingssleutels in de sleutelhanger van de iPhone. Ze worden ook naar de Apple Watch van de Gebruiker verzonden, zodat die dezelfde tv’s kan bedienen. Ze worden niet naar de Eigenaar of naar iemand anders verzonden.
-
-### Log in met Apple
-
-Inloggen met Apple heeft uitsluitend tot gevolg dat het Apple Account van de Gebruiker bovenaan de Instellingen van deze Applicatie wordt weergegeven. De naam en het e-mailadres die Apple deelt, worden in de sleutelhanger van de iPhone bewaard en worden nooit naar de Eigenaar verzonden. Telkens wanneer deze Applicatie wordt geopend, vraagt zij bij Apple na of de Gebruiker nog steeds is ingelogd.
-
-Gebruikers kunnen op elk moment uitloggen in de Instellingen van deze Applicatie, waardoor hun naam en e-mailadres van de iPhone worden verwijderd. Zij kunnen ook in de instellingen van hun Apple Account het gebruik van Log in met Apple voor deze Applicatie beëindigen.
 
 ### Aankopen
 
@@ -101,7 +93,7 @@ De Eigenaar mag Persoonsgegevens met betrekking tot Gebruikers verwerken indien 
 * de verwerking houdt verband met een taak die wordt uitgevoerd in het algemeen belang of in het kader van de uitoefening van het openbaar gezag dat aan de Eigenaar is opgedragen;
 * de verwerking is noodzakelijk voor de behartiging van de gerechtvaardigde belangen van de Eigenaar of van een derde.
 
-In het bijzonder zijn het bedienen van tv’s en het leveren van aankopen noodzakelijk voor de uitvoering van de overeenkomst met de Gebruiker, is het inloggen met Apple gebaseerd op de toestemming van de Gebruiker, en is het beantwoorden van support-e-mails noodzakelijk voor de uitvoering van die overeenkomst of voor het gerechtvaardigde belang van de Eigenaar om zijn Gebruikers te helpen.
+In het bijzonder zijn het bedienen van tv’s en het leveren van aankopen noodzakelijk voor de uitvoering van de overeenkomst met de Gebruiker, en is het beantwoorden van support-e-mails noodzakelijk voor de uitvoering van die overeenkomst of voor het gerechtvaardigde belang van de Eigenaar om zijn Gebruikers te helpen.
 
 In elk geval helpt de Eigenaar graag om te verduidelijken welke specifieke rechtsgrond op de verwerking van toepassing is, en met name of het verstrekken van Persoonsgegevens een wettelijke of contractuele verplichting is, dan wel een noodzakelijke voorwaarde om een overeenkomst te sluiten.
 
@@ -119,7 +111,7 @@ Persoonsgegevens worden verwerkt en opgeslagen zolang dat nodig is voor het doel
 
 Daarom geldt:
 
-* Gegevens die op de apparaten van de Gebruiker worden bewaard, blijven daar totdat de Gebruiker ze verwijdert: door een tv te verwijderen in Apparaten, door uit te loggen of door deze Applicatie te verwijderen.
+* Gegevens die op de apparaten van de Gebruiker worden bewaard, blijven daar totdat de Gebruiker ze verwijdert: door een tv te verwijderen in Apparaten of door deze Applicatie te verwijderen.
 * Support-e-mails worden bewaard zolang dat nodig is om ze te beantwoorden en om eventuele follow-up af te handelen, tenzij de wet de Eigenaar verplicht ze langer te bewaren.
 
 De Eigenaar kan verplicht zijn Persoonsgegevens langer te bewaren wanneer dat vereist is voor de nakoming van een wettelijke verplichting of op bevel van een autoriteit.
@@ -128,7 +120,7 @@ Na afloop van de bewaartermijn worden Persoonsgegevens verwijderd. Daarom kunnen
 
 ## Doeleinden van de verwerking
 
-De Gegevens betreffende de Gebruiker worden verwerkt om de Eigenaar in staat te stellen zijn Dienst te leveren, te voldoen aan zijn wettelijke verplichtingen, te reageren op handhavingsverzoeken, zijn rechten en belangen (of die van zijn Gebruikers of derden) te beschermen en kwaadwillige of frauduleuze activiteiten op te sporen, evenals voor het volgende: het bedienen van de tv’s van de Gebruiker, het weergeven van het Apple Account van de Gebruiker, het leveren van Premium+ en de Apple Watch-app, en het beantwoorden van supportverzoeken.
+De Gegevens betreffende de Gebruiker worden verwerkt om de Eigenaar in staat te stellen zijn Dienst te leveren, te voldoen aan zijn wettelijke verplichtingen, te reageren op handhavingsverzoeken, zijn rechten en belangen (of die van zijn Gebruikers of derden) te beschermen en kwaadwillige of frauduleuze activiteiten op te sporen, evenals voor het volgende: het bedienen van de tv’s van de Gebruiker, het leveren van Premium+ en de Apple Watch-app, en het beantwoorden van supportverzoeken.
 
 Voor specifieke informatie over de Persoonsgegevens die voor elk doel worden gebruikt, kan de Gebruiker het gedeelte “Hoe deze Applicatie met de Gegevens omgaat” raadplegen.
 
@@ -136,7 +128,7 @@ Voor specifieke informatie over de Persoonsgegevens die voor elk doel worden geb
 
 Gebruikers kunnen bepaalde rechten uitoefenen met betrekking tot hun Gegevens die door de Eigenaar worden verwerkt.
 
-Omdat vrijwel alle Gegevens uitsluitend op de eigen apparaten van de Gebruiker worden bewaard, kunnen Gebruikers veel van deze rechten zelf uitoefenen: het verwijderen van een tv in Apparaten, het uitloggen of het verwijderen van deze Applicatie verwijdert de bijbehorende Gegevens.
+Omdat vrijwel alle Gegevens uitsluitend op de eigen apparaten van de Gebruiker worden bewaard, kunnen Gebruikers veel van deze rechten zelf uitoefenen: het verwijderen van een tv in Apparaten of het verwijderen van deze Applicatie verwijdert de bijbehorende Gegevens.
 
 Gebruikers hebben in het bijzonder het recht om het volgende te doen:
 
