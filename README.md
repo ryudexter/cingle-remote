@@ -1,6 +1,6 @@
 # Cingle Remote
 
-A Wi-Fi remote for your TV on iPhone, Apple Watch and Mac. It works with Roku, Samsung and LG TVs, and with Google TV and Android TV.
+A Wi-Fi remote for your TV on iPhone, Apple Watch and Mac. It works with Roku, Samsung, LG, Philips (Titan OS) and Panasonic (Viera) TVs, with Google TV and Android TV, and with Amazon Fire TV.
 
 This page is Cingle Remote's support page. The app's code isn't here.
 
@@ -17,8 +17,11 @@ Email **[zcengel@yahoo.com](mailto:zcengel@yahoo.com)**, or in the app tap Setti
 - **LG:** type the 8-digit PIN the TV shows.
 - **Google TV and Android TV:** type the 6-character code the TV shows.
 - **Roku:** no code is needed. If presses do nothing, turn on Settings › System › Advanced system settings › Control by mobile apps on the Roku.
+- **Fire TV:** type the 4-digit PIN the Fire TV shows. Cingle can't change the volume on a Fire TV; use its own remote for that. Older Fire TV sticks (Fire OS 7 and earlier) may not answer.
+- **Philips (Titan OS):** type the 4-digit PIN the TV shows. Philips TVs that run Google TV or Android TV connect as a Google TV instead, with a 6-character code.
+- **Panasonic Viera:** models from 2019 on show a 4-digit PIN to type; older ones connect without a code. If nothing happens, turn on Menu › Network › TV Remote App Settings › TV Remote on the TV.
 
-**How does the Apple Watch app work?** Pair the TV on your iPhone; the Watch uses the same pairing, with no code to type. Roku TVs take presses straight from the Watch. For Samsung, LG and Google TV, the Watch goes through your iPhone, which needs to be nearby. The Watch app is free for 2 weeks, then comes with Premium+.
+**How does the Apple Watch app work?** Pair the TV on your iPhone; the Watch uses the same pairing, with no code to type. Roku TVs take presses straight from the Watch. For every other TV, the Watch goes through your iPhone, which needs to be nearby. The Watch app is free for 2 weeks, then comes with Premium+.
 
 **How does the Mac app work?** It comes with Premium+. Premium+ bought on your iPhone works on your Mac with the same Apple Account. Use the arrow keys, Return, Space and Delete, or the Remote menu for everything else. On an LG TV, your mouse or trackpad moves the TV's pointer.
 
@@ -42,4 +45,4 @@ English is the original of both; where a translation differs, English prevails.
 
 ---
 
-Cingle Remote is made by Fatih Ziya Cengel. It isn't affiliated with or endorsed by Roku, Samsung, LG or Google; their names are used only to say which TVs Cingle works with.
+Cingle Remote is made by Fatih Ziya Cengel. It isn't affiliated with or endorsed by Roku, Samsung, LG, Google, Amazon, Philips or Panasonic; their names are used only to say which TVs Cingle works with.
