@@ -1,6 +1,6 @@
 # Cingle Remote
 
-A Wi-Fi remote for your TV on iPhone, Apple Watch and Mac. It works with Roku, Samsung, LG, Philips (Titan OS) and Panasonic (Viera) TVs, with Google TV and Android TV, and with Amazon Fire TV.
+A Wi-Fi remote for your TV on iPhone, Apple Watch and Mac. It supports Roku, Samsung, LG (webOS and NetCast), Philips (Titan OS, Saphi and older sets), Panasonic (Viera) and Sony (Bravia) TVs, Google TV and Android TV, Amazon Fire TV, and TVs on Vestel's own smart system, which are sold under many names.
 
 This page is Cingle Remote's support page. The app's code isn't here.
 
@@ -14,16 +14,19 @@ Email **[zcengel@yahoo.com](mailto:zcengel@yahoo.com)**, or in the app tap Setti
 
 **My TV asks for a code, or nothing happens when I connect.**
 - **Samsung:** accept the prompt on the TV with its own remote.
-- **LG:** type the 8-digit PIN the TV shows.
+- **LG webOS:** type the 8-digit PIN the TV shows.
+- **LG NetCast (2012 and 2013):** type the 6-digit key the TV shows.
 - **Google TV and Android TV:** type the 6-character code the TV shows.
 - **Roku:** no code is needed. If presses do nothing, turn on Settings › System › Advanced system settings › Control by mobile apps on the Roku.
 - **Fire TV:** type the 4-digit PIN the Fire TV shows. Cingle can't change the volume on a Fire TV; use its own remote for that. Older Fire TV sticks (Fire OS 7 and earlier) may not answer.
-- **Philips (Titan OS):** type the 4-digit PIN the TV shows. Philips TVs that run Google TV or Android TV connect as a Google TV instead, with a 6-character code.
+- **Philips (Titan OS, Saphi, and older sets from about 2011):** type the 4-digit PIN if the TV shows one; sets that don't ask for one connect without a code. Most older sets need to be added by IP address. Philips TVs that run Google TV or Android TV connect as a Google TV instead, with a 6-character code.
 - **Panasonic Viera:** models from 2019 on show a 4-digit PIN to type; older ones connect without a code. If nothing happens, turn on Menu › Network › TV Remote App Settings › TV Remote on the TV.
+- **Sony Bravia (not on Android, from about 2013):** type the 4-digit PIN the TV shows. The TV's IP Control authentication has to be Normal. Sony TVs that run Google TV or Android TV connect as a Google TV instead, with a 6-character code.
+- **TVs on Vestel's own smart system (Vestel, Regal, Toshiba, Hitachi, JVC, Sharp, Telefunken, Finlux, Medion, Bush, Alba, ProCaster, Celcus):** no code is needed, but Virtual Remote has to be on in the TV's settings, under System › Settings › More. Models that run Google TV or Android TV connect as a Google TV instead, with a 6-character code.
 
 **How does the Apple Watch app work?** Pair the TV on your iPhone; the Watch uses the same pairing, with no code to type. Roku TVs take presses straight from the Watch. For every other TV, the Watch goes through your iPhone, which needs to be nearby. The Watch app is free for 2 weeks, then comes with Premium+.
 
-**How does the Mac app work?** It comes with Premium+. Premium+ bought on your iPhone works on your Mac with the same Apple Account. Use the arrow keys, Return, Space and Delete, or the Remote menu for everything else. On an LG TV, your mouse or trackpad moves the TV's pointer.
+**How does the Mac app work?** It comes with Premium+. Premium+ bought on your iPhone works on your Mac with the same Apple Account. Use the arrow keys, Return, Space and Delete, or the Remote menu for everything else. On an LG webOS TV, your mouse or trackpad moves the TV's pointer.
 
 **What does Premium+ include?** Several saved TVs (without it, Cingle keeps one), the Apple Watch app after its 2 free weeks, the Mac app, and Gyro Pointer. It's a one-time purchase or a yearly subscription with a free trial. Family Sharing works with both.
 
@@ -45,4 +48,4 @@ English is the original of both; where a translation differs, English prevails.
 
 ---
 
-Cingle Remote is made by Fatih Ziya Cengel. It isn't affiliated with or endorsed by Roku, Samsung, LG, Google, Amazon, Philips or Panasonic; their names are used only to say which TVs Cingle works with.
+Cingle Remote is made by Fatih Ziya Cengel. It isn't affiliated with or endorsed by any of the brands named here; their names are used only to say which TVs Cingle supports.
