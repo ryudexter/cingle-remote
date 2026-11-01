@@ -1,8 +1,22 @@
 # Cingle Remote
 
-A Wi-Fi remote for your TV on iPhone, Apple Watch and Mac. It supports Roku, Samsung, LG (webOS and NetCast), Philips (Titan OS, Saphi and older sets), Panasonic (Viera) and Sony (Bravia) TVs, Google TV and Android TV, Amazon Fire TV, and TVs on Vestel's own smart system, which are sold under many names.
+A Wi-Fi remote for your TV on iPhone, Apple Watch and Mac. It needs iOS 18, watchOS 10 or macOS 15 or later.
 
 This page is Cingle Remote's support page. The app's code isn't here.
+
+## Supported TVs and players
+
+- Roku TVs and players
+- Samsung smart TVs from 2016 on, many from 2010 to 2013 and some from 2014 and 2015
+- LG webOS TVs, and LG NetCast TVs from 2012 and 2013
+- Google TV and Android TV, including Chromecast with Google TV, Google TV Streamer, NVIDIA Shield and Xiaomi TV Box
+- Amazon Fire TV sticks, Cube and TVs
+- Philips TVs with Titan OS or Saphi, and older ones from about 2011
+- Panasonic Viera TVs from about 2012 to 2024
+- Sony Bravia TVs from about 2013 on
+- TVs on Vestel's own smart system, sold as Vestel, Regal, Toshiba, Hitachi, JVC, Sharp, Telefunken, Finlux, Medion, Bush, Alba, ProCaster and Celcus
+
+That includes Sony, Philips, Panasonic, Sharp, Toshiba, Insignia, TCL, Hisense, Xiaomi, Skyworth, Haier, Nokia, Motorola, Thomson, Grundig, Beko, onn., RCA and Pioneer TVs that run Google TV, Android TV, Fire TV or Roku. Hisense's VIDAA TVs, and Beko and Grundig TVs on their own systems, aren't supported.
 
 ## Getting help
 
@@ -13,12 +27,12 @@ Email **[zcengel@yahoo.com](mailto:zcengel@yahoo.com)**, or in the app tap Setti
 **Cingle doesn't find my TV.** Your iPhone or Mac and the TV need to be on the same Wi-Fi network, and the TV needs to be on. When iOS asks whether Cingle can find devices on your local network, tap Allow. If you said no earlier, turn it on in the iPhone's Settings › Privacy & Security › Local Network. You can also add the TV by its IP address: Settings › Devices › Add a TV by IP address, which shows where each brand's menus list it.
 
 **My TV asks for a code, or nothing happens when I connect.**
-- **Samsung:** accept the prompt on the TV with its own remote.
+- **Samsung:** accept the prompt on the TV with its own remote. Samsung TVs that ask for a PIN instead, as many from 2014 and 2015 do, aren't supported.
 - **LG webOS:** type the 8-digit PIN the TV shows.
 - **LG NetCast (2012 and 2013):** type the 6-digit key the TV shows.
-- **Google TV and Android TV:** type the 6-character code the TV shows.
+- **Google TV and Android TV, including players such as Chromecast with Google TV and NVIDIA Shield:** type the 6-character code the TV shows.
 - **Roku:** no code is needed. If presses do nothing, turn on Settings › System › Advanced system settings › Control by mobile apps on the Roku.
-- **Fire TV:** type the 4-digit PIN the Fire TV shows. Cingle can't change the volume on a Fire TV; use its own remote for that. Older Fire TV sticks (Fire OS 7 and earlier) may not answer.
+- **Fire TV sticks, Cube and TVs:** type the 4-digit PIN the Fire TV shows. Cingle can't change the volume on a Fire TV; use its own remote for that. Older Fire TV sticks (Fire OS 7 and earlier) may not answer.
 - **Philips (Titan OS, Saphi, and older sets from about 2011):** type the 4-digit PIN if the TV shows one; sets that don't ask for one connect without a code. Most older sets need to be added by IP address. Philips TVs that run Google TV or Android TV connect as a Google TV instead, with a 6-character code.
 - **Panasonic Viera:** models from 2019 on show a 4-digit PIN to type; older ones connect without a code. If nothing happens, turn on Menu › Network › TV Remote App Settings › TV Remote on the TV.
 - **Sony Bravia (not on Android, from about 2013):** type the 4-digit PIN the TV shows. The TV's IP Control authentication has to be Normal. Sony TVs that run Google TV or Android TV connect as a Google TV instead, with a 6-character code.
