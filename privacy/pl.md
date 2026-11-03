@@ -1,6 +1,6 @@
 # Polityka prywatności Cingle Remote
 
-Ostatnia aktualizacja: 28 października 2026 r.
+Ostatnia aktualizacja: 3 listopada 2026 r.
 
 Niniejsza Aplikacja przetwarza bardzo niewiele Danych Osobowych i przechowuje prawie wszystkie z nich na własnych urządzeniach Użytkownika. Nie wyświetla reklam, nie korzysta z usług analitycznych ani śledzących i nie przesyła żadnych Danych na serwery obsługiwane przez Właściciela.
 
@@ -8,7 +8,7 @@ Niniejsza Aplikacja przetwarza bardzo niewiele Danych Osobowych i przechowuje pr
 
 ### Dane Osobowe przetwarzane w następujących celach
 
-* **Sterowanie telewizorami:** nazwy, modele i adresy sieciowe telewizorów w sieci Wi-Fi Użytkownika oraz klucze potrzebne do sparowania z nimi. Przechowywane na iPhonie i Apple Watch Użytkownika.
+* **Sterowanie telewizorami:** nazwy, modele i adresy sieciowe telewizorów w sieci Wi-Fi Użytkownika oraz klucze potrzebne do sparowania z nimi. Przechowywane na iPhonie lub iPadzie Użytkownika oraz na Apple Watch Użytkownika.
 * **Zakupy:** obsługiwane przez Apple. Niniejsza Aplikacja otrzymuje od Apple informacje o tym, które Produkty Użytkownik zakupił i kiedy niniejsza Aplikacja została pobrana po raz pierwszy.
 * **Wsparcie:** wiadomości e-mail, które Użytkownicy zdecydują się wysłać do Właściciela.
 
@@ -53,13 +53,13 @@ Użytkownicy ponoszą odpowiedzialność za wszelkie Dane Osobowe osób trzecich
 
 Aby wykryć telewizory, niniejsza Aplikacja przeszukuje sieć lokalną Użytkownika po tym, jak Użytkownik na to zezwoli. Następnie komunikuje się bezpośrednio z telewizorem za pośrednictwem sieci lokalnej. Naciśnięcia klawiszy i wpisany tekst trafiają bezpośrednio do telewizora.
 
-Informacje o telewizorach Użytkownika są przechowywane na iPhonie Użytkownika, a klucze parowania – w pęku kluczy iPhone’a. Są one również przesyłane do Apple Watch Użytkownika, aby mógł on sterować tymi samymi telewizorami. Nie są przesyłane do Właściciela ani do nikogo innego.
+Informacje o telewizorach Użytkownika są przechowywane na iPhonie lub iPadzie Użytkownika, a klucze parowania – w pęku kluczy tego urządzenia. W przypadku iPhone’a są one również przesyłane do Apple Watch Użytkownika, aby mógł on sterować tymi samymi telewizorami. Nie są przesyłane do Właściciela ani do nikogo innego.
 
 ### Zakupy
 
 Zakupy są dokonywane za pośrednictwem Apple App Store i przetwarzane przez Apple zgodnie z własną polityką prywatności Apple. Właściciel nigdy nie otrzymuje danych płatniczych Użytkownika.
 
-Niniejsza Aplikacja otrzymuje od Apple informacje o tym, które Produkty Użytkownik zakupił i kiedy niniejsza Aplikacja została pobrana po raz pierwszy, aby odblokować Premium+ i ustalić bezpłatny okres korzystania z aplikacji na Apple Watch. Zapisuje również na iPhonie datę swojego pierwszego otwarcia.
+Niniejsza Aplikacja otrzymuje od Apple informacje o tym, które Produkty Użytkownik zakupił i kiedy niniejsza Aplikacja została pobrana po raz pierwszy, aby odblokować Premium+ i ustalić bezpłatny okres korzystania z aplikacji na Apple Watch. Zapisuje również na iPhonie lub iPadzie datę swojego pierwszego otwarcia.
 
 ### Apple Watch
 
@@ -67,13 +67,13 @@ Aplikacja na Apple Watch komunikuje się z niniejszą Aplikacją na iPhonie za p
 
 ### Wiadomości e-mail do wsparcia
 
-Gdy Użytkownik stuknie pozycję „Wsparcie” w Ustawieniach niniejszej Aplikacji, w aplikacji pocztowej Użytkownika otworzy się nowa wiadomość e-mail. Zawiera ona już wersję niniejszej Aplikacji, wersję iOS, model iPhone’a oraz markę i model używanego telewizora. Użytkownik może zmienić lub usunąć te informacje przed wysłaniem, a nic nie zostanie wysłane, jeżeli Użytkownik nie wyśle wiadomości e-mail.
+Gdy Użytkownik stuknie pozycję „Wsparcie” w Ustawieniach niniejszej Aplikacji, w aplikacji pocztowej Użytkownika otworzy się nowa wiadomość e-mail. Zawiera ona już wersję niniejszej Aplikacji, wersję iOS lub iPadOS, model iPhone’a lub iPada oraz markę i model używanego telewizora. Użytkownik może zmienić lub usunąć te informacje przed wysłaniem, a nic nie zostanie wysłane, jeżeli Użytkownik nie wyśle wiadomości e-mail.
 
 Właściciel wykorzystuje wiadomości e-mail do wsparcia wyłącznie w celu udzielenia na nie odpowiedzi.
 
 ### Dane od Apple
 
-Jeżeli Użytkownik zdecydował się w ustawieniach swojego iPhone’a udostępniać dane analityczne twórcom aplikacji, Apple może przekazywać Właścicielowi raporty o awariach i anonimowe statystyki użytkowania niniejszej Aplikacji. Podlega to polityce prywatności Apple, a Użytkownicy mogą w każdej chwili wyłączyć tę opcję w ustawieniach swojego iPhone’a.
+Jeżeli Użytkownik zdecydował się w ustawieniach swojego iPhone’a lub iPada udostępniać dane analityczne twórcom aplikacji, Apple może przekazywać Właścicielowi raporty o awariach i anonimowe statystyki użytkowania niniejszej Aplikacji. Podlega to polityce prywatności Apple, a Użytkownicy mogą w każdej chwili wyłączyć tę opcję w tych ustawieniach.
 
 ## Sposób i miejsce przetwarzania Danych
 
@@ -191,7 +191,7 @@ Niniejsza polityka prywatności jest dostępna w języku angielskim oraz w innyc
 * **Użytkownik:** osoba, która korzysta z niniejszej Aplikacji i której dotyczą Dane Osobowe.
 * **Podmiot Przetwarzający:** osoba fizyczna lub prawna, która przetwarza Dane Osobowe w imieniu Właściciela, zgodnie z opisem w niniejszej polityce prywatności.
 * **Właściciel (lub Administrator Danych):** osoba fizyczna lub prawna wskazana na początku niniejszej polityki prywatności, która ustala cele i sposoby przetwarzania Danych Osobowych.
-* **Niniejsza Aplikacja (lub Cingle Remote):** aplikacja na iPhone i Apple Watch, za pośrednictwem której świadczona jest Usługa.
+* **Niniejsza Aplikacja (lub Cingle Remote):** aplikacja na iPhone, iPad i Apple Watch, za pośrednictwem której świadczona jest Usługa.
 * **Usługa:** usługa świadczona za pośrednictwem niniejszej Aplikacji zgodnie z opisem w Regulaminie i w niniejszej Aplikacji: sterowanie telewizorami za pośrednictwem sieci lokalnej Użytkownika.
 * **Produkt:** każda funkcja lub usługa dostępna do zakupu w niniejszej Aplikacji, taka jak Premium+.
 * **Unia Europejska (lub UE):** wszystkie obecne państwa członkowskie Unii Europejskiej i Europejskiego Obszaru Gospodarczego.

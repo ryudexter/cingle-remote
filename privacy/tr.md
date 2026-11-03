@@ -1,6 +1,6 @@
 # Cingle Remote Gizlilik Politikası
 
-Son güncelleme: 28 Ekim 2026
+Son güncelleme: 3 Kasım 2026
 
 Bu Uygulama çok az Kişisel Veri işler ve bunların neredeyse tamamını Kullanıcı'nın kendi cihazlarında tutar. Reklam göstermez, hiçbir analiz veya izleme hizmeti kullanmaz ve İşletmeci tarafından işletilen sunuculara hiçbir Veri göndermez.
 
@@ -8,7 +8,7 @@ Bu Uygulama çok az Kişisel Veri işler ve bunların neredeyse tamamını Kulla
 
 ### Aşağıdaki amaçlarla işlenen Kişisel Veriler
 
-* **Televizyonların kontrolü:** Kullanıcı'nın Wi-Fi ağındaki televizyonların adları, modelleri ve ağ adresleri ile bu televizyonlarla eşleştirme yapmak için gereken anahtarlar. Kullanıcı'nın iPhone'unda ve Apple Watch'unda saklanır.
+* **Televizyonların kontrolü:** Kullanıcı'nın Wi-Fi ağındaki televizyonların adları, modelleri ve ağ adresleri ile bu televizyonlarla eşleştirme yapmak için gereken anahtarlar. Kullanıcı'nın iPhone'unda veya iPad'inde, ayrıca Kullanıcı'nın Apple Watch'unda saklanır.
 * **Satın alımlar:** Apple tarafından yürütülür. Bu Uygulama, Kullanıcı'nın hangi Ürünleri satın aldığı ve bu Uygulama'nın ilk kez ne zaman indirildiği bilgisini Apple'dan alır.
 * **Destek:** Kullanıcıların İşletmeci'ye göndermeyi tercih ettiği e-postalar.
 
@@ -53,13 +53,13 @@ Kullanıcılar, bu Uygulama aracılığıyla edinilen, yayımlanan veya paylaş�
 
 Bu Uygulama, televizyonları bulmak için, Kullanıcı buna izin verdikten sonra Kullanıcı'nın yerel ağında arama yapar. Ardından yerel ağ üzerinden doğrudan televizyonla iletişim kurar. Basılan tuşlar ve yazılan metinler doğrudan televizyona gider.
 
-Kullanıcı'nın televizyonlarına ilişkin ayrıntılar Kullanıcı'nın iPhone'unda, eşleştirme anahtarları ise iPhone'un Anahtar Zinciri'nde saklanır. Bu ayrıntılar, aynı televizyonları kontrol edebilmesi için Kullanıcı'nın Apple Watch'una da gönderilir. İşletmeci'ye veya başka hiç kimseye gönderilmez.
+Kullanıcı'nın televizyonlarına ilişkin ayrıntılar Kullanıcı'nın iPhone'unda veya iPad'inde, eşleştirme anahtarları ise o cihazın Anahtar Zinciri'nde saklanır. iPhone'da bu ayrıntılar, aynı televizyonları kontrol edebilmesi için Kullanıcı'nın Apple Watch'una da gönderilir. İşletmeci'ye veya başka hiç kimseye gönderilmez.
 
 ### Satın alımlar
 
 Satın alımlar Apple App Store üzerinden yapılır ve Apple tarafından Apple'ın kendi gizlilik politikası kapsamında işlenir. İşletmeci, Kullanıcı'nın ödeme bilgilerini hiçbir zaman almaz.
 
-Bu Uygulama, Premium+ kilidini açmak ve Apple Watch uygulamasının ücretsiz kullanım süresini hesaplamak için Kullanıcı'nın hangi Ürünleri satın aldığı ve bu Uygulama'nın ilk kez ne zaman indirildiği bilgisini Apple'dan alır. Ayrıca ilk kez açıldığı tarihi iPhone'a kaydeder.
+Bu Uygulama, Premium+ kilidini açmak ve Apple Watch uygulamasının ücretsiz kullanım süresini hesaplamak için Kullanıcı'nın hangi Ürünleri satın aldığı ve bu Uygulama'nın ilk kez ne zaman indirildiği bilgisini Apple'dan alır. Ayrıca ilk kez açıldığı tarihi iPhone'a veya iPad'e kaydeder.
 
 ### Apple Watch
 
@@ -67,13 +67,13 @@ Apple Watch uygulaması, iPhone'daki bu Uygulama ile Apple'ın iki cihaz arasın
 
 ### Destek e-postaları
 
-Kullanıcı bu Uygulama'nın Ayarlar bölümünde Destek seçeneğine dokunduğunda, Kullanıcı'nın e-posta uygulamasında yeni bir e-posta açılır. Bu e-posta; bu Uygulama'nın sürümünü, iOS sürümünü, iPhone modelini ve kullanılan televizyonun markasını ve modelini hâlihazırda içerir. Kullanıcı bu ayrıntıları göndermeden önce değiştirebilir veya silebilir; Kullanıcı e-postayı göndermediği sürece hiçbir şey gönderilmez.
+Kullanıcı bu Uygulama'nın Ayarlar bölümünde Destek seçeneğine dokunduğunda, Kullanıcı'nın e-posta uygulamasında yeni bir e-posta açılır. Bu e-posta; bu Uygulama'nın sürümünü, iOS veya iPadOS sürümünü, iPhone veya iPad modelini ve kullanılan televizyonun markasını ve modelini hâlihazırda içerir. Kullanıcı bu ayrıntıları göndermeden önce değiştirebilir veya silebilir; Kullanıcı e-postayı göndermediği sürece hiçbir şey gönderilmez.
 
 İşletmeci, destek e-postalarını yalnızca bunları yanıtlamak için kullanır.
 
 ### Apple'dan gelen Veriler
 
-Kullanıcı iPhone'unun ayarlarında analiz verilerini uygulama geliştiricileriyle paylaşmayı seçmişse, Apple İşletmeci'ye bu Uygulama'ya ilişkin çökme raporları ve anonim kullanım istatistikleri sağlayabilir. Bu durum Apple'ın gizlilik politikasına tabidir ve Kullanıcılar bu paylaşımı istedikleri zaman iPhone'larının ayarlarından kapatabilir.
+Kullanıcı iPhone'unun veya iPad'inin ayarlarında analiz verilerini uygulama geliştiricileriyle paylaşmayı seçmişse, Apple İşletmeci'ye bu Uygulama'ya ilişkin çökme raporları ve anonim kullanım istatistikleri sağlayabilir. Bu durum Apple'ın gizlilik politikasına tabidir ve Kullanıcılar bu paylaşımı istedikleri zaman aynı ayarlardan kapatabilir.
 
 ## Verilerin işlenme yöntemi ve yeri
 
@@ -191,7 +191,7 @@ Bu gizlilik politikası İngilizce ve diğer dillerde mevcuttur. Çeviriler kola
 * **Kullanıcı:** bu Uygulama'yı kullanan ve Kişisel Verilerin ait olduğu kişi.
 * **Veri İşleyen:** bu gizlilik politikasında açıklandığı şekilde, Kişisel Verileri İşletmeci adına işleyen gerçek veya tüzel kişi.
 * **İşletmeci (veya Veri Sorumlusu):** bu gizlilik politikasının başında adı belirtilen ve Kişisel Verilerin işlenme amaçlarını ve vasıtalarını belirleyen gerçek veya tüzel kişi.
-* **Bu Uygulama (veya Cingle Remote):** Hizmet'in aracılığıyla sağlandığı iPhone ve Apple Watch uygulaması.
+* **Bu Uygulama (veya Cingle Remote):** Hizmet'in aracılığıyla sağlandığı iPhone, iPad ve Apple Watch uygulaması.
 * **Hizmet:** Şartlar ve Koşullar'da ve bu Uygulama'da açıklandığı şekliyle bu Uygulama tarafından sağlanan hizmet: televizyonların Kullanıcı'nın yerel ağı üzerinden kontrol edilmesi.
 * **Ürün:** bu Uygulama'da satın alınabilen, Premium+ gibi her türlü özellik veya hizmet.
 * **Avrupa Birliği (veya AB):** Avrupa Birliği'nin ve Avrupa Ekonomik Alanı'nın mevcut tüm üye devletleri.

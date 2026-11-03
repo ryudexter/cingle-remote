@@ -1,6 +1,6 @@
 # Cingle Remote 条款和条件
 
-最后更新日期：2026年10月28日
+最后更新日期：2026年11月3日
 
 本条款规范以下事项：
 
@@ -241,7 +241,7 @@ Apple Watch 应用包含在 Premium+ 中。每位用户在首次下载本应用�
 
 本应用中出现的电视机制造商和平台（例如 Samsung、LG、Roku、Google TV 和 Vizio）以及流媒体服务（例如 Netflix、YouTube 和 Disney+）的名称和标识均为其各自权利人的商标。使用这些名称和标识仅为识别本应用可控制的电视机及可打开的应用。所有者与上述任何公司均无关联，亦未获得其认可或赞助，且上述公司不对本应用负责。
 
-Apple、iPhone 和 Apple Watch 是 Apple Inc. 的商标。
+Apple、iPhone、iPad 和 Apple Watch 是 Apple Inc. 的商标。
 
 ### 本条款的变更
 
@@ -303,7 +303,7 @@ Apple、iPhone 和 Apple Watch 是 Apple Inc. 的商标。
 
 ## 定义
 
-* **本应用（或 Cingle Remote）**：指通过其提供本服务的 iPhone 和 Apple Watch 应用。
+* **本应用（或 Cingle Remote）**：指通过其提供本服务的 iPhone、iPad 和 Apple Watch 应用。
 * **所有者**：指本条款开头所列明的、提供本应用和本服务的自然人或法人。
 * **用户**：指使用本应用的任何人。
 * **消费者**：指出于其贸易、商业、手工业或职业以外的目的使用本应用的任何自然人用户。

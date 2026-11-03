@@ -1,6 +1,6 @@
 # Privacybeleid van Cingle Remote
 
-Laatst bijgewerkt: 28 oktober 2026
+Laatst bijgewerkt: 3 november 2026
 
 Deze Applicatie verwerkt zeer weinig Persoonsgegevens en bewaart vrijwel al deze gegevens op de eigen apparaten van de Gebruiker. Zij toont geen advertenties, maakt geen gebruik van analyse- of trackingdiensten en verstuurt geen Gegevens naar servers die door de Eigenaar worden beheerd.
 
@@ -8,7 +8,7 @@ Deze Applicatie verwerkt zeer weinig Persoonsgegevens en bewaart vrijwel al deze
 
 ### Persoonsgegevens die voor de volgende doeleinden worden verwerkt
 
-* **Bediening van tv’s:** de namen, modellen en netwerkadressen van de tv’s in het Wi-Fi-netwerk van de Gebruiker, en de sleutels die nodig zijn om ermee te koppelen. Bewaard op de iPhone en de Apple Watch van de Gebruiker.
+* **Bediening van tv’s:** de namen, modellen en netwerkadressen van de tv’s in het Wi-Fi-netwerk van de Gebruiker, en de sleutels die nodig zijn om ermee te koppelen. Bewaard op de iPhone of iPad van de Gebruiker, en op de Apple Watch van de Gebruiker.
 * **Aankopen:** afgehandeld door Apple. Deze Applicatie ontvangt van Apple informatie over welke Producten de Gebruiker heeft gekocht en wanneer deze Applicatie voor het eerst is gedownload.
 * **Support:** de e-mails die Gebruikers ervoor kiezen naar de Eigenaar te sturen.
 
@@ -53,13 +53,13 @@ Gebruikers zijn verantwoordelijk voor alle Persoonsgegevens van derden die via d
 
 Om tv’s te vinden, doorzoekt deze Applicatie het lokale netwerk van de Gebruiker, nadat de Gebruiker haar daarvoor toestemming heeft gegeven. Vervolgens communiceert zij via het lokale netwerk rechtstreeks met de tv. Toetsaanslagen en getypte tekst gaan rechtstreeks naar de tv.
 
-De gegevens van de tv’s van de Gebruiker worden op de iPhone van de Gebruiker bewaard, met de koppelingssleutels in de sleutelhanger van de iPhone. Ze worden ook naar de Apple Watch van de Gebruiker verzonden, zodat die dezelfde tv’s kan bedienen. Ze worden niet naar de Eigenaar of naar iemand anders verzonden.
+De gegevens van de tv’s van de Gebruiker worden op de iPhone of iPad van de Gebruiker bewaard, met de koppelingssleutels in de sleutelhanger van dat apparaat. Op een iPhone worden ze ook naar de Apple Watch van de Gebruiker verzonden, zodat die dezelfde tv’s kan bedienen. Ze worden niet naar de Eigenaar of naar iemand anders verzonden.
 
 ### Aankopen
 
 Aankopen worden gedaan via de Apple App Store en door Apple verwerkt overeenkomstig het eigen privacybeleid van Apple. De Eigenaar ontvangt nooit de betaalgegevens van de Gebruiker.
 
-Deze Applicatie ontvangt van Apple informatie over welke Producten de Gebruiker heeft gekocht en wanneer deze Applicatie voor het eerst is gedownload, om Premium+ te ontgrendelen en om de gratis periode van de Apple Watch-app te berekenen. Daarnaast legt zij op de iPhone de datum vast waarop zij voor het eerst is geopend.
+Deze Applicatie ontvangt van Apple informatie over welke Producten de Gebruiker heeft gekocht en wanneer deze Applicatie voor het eerst is gedownload, om Premium+ te ontgrendelen en om de gratis periode van de Apple Watch-app te berekenen. Daarnaast legt zij op de iPhone of iPad de datum vast waarop zij voor het eerst is geopend.
 
 ### Apple Watch
 
@@ -67,13 +67,13 @@ De Apple Watch-app communiceert met deze Applicatie op de iPhone via de verbindi
 
 ### Support-e-mails
 
-Wanneer de Gebruiker in de Instellingen van deze Applicatie op Support tikt, wordt in de e-mailapp van de Gebruiker een nieuwe e-mail geopend. Deze bevat al de versie van deze Applicatie, de iOS-versie, het iPhone-model en het merk en model van de tv die in gebruik is. De Gebruiker kan deze gegevens vóór het verzenden wijzigen of verwijderen, en er wordt niets verzonden tenzij de Gebruiker de e-mail verstuurt.
+Wanneer de Gebruiker in de Instellingen van deze Applicatie op Support tikt, wordt in de e-mailapp van de Gebruiker een nieuwe e-mail geopend. Deze bevat al de versie van deze Applicatie, de iOS- of iPadOS-versie, het iPhone- of iPad-model en het merk en model van de tv die in gebruik is. De Gebruiker kan deze gegevens vóór het verzenden wijzigen of verwijderen, en er wordt niets verzonden tenzij de Gebruiker de e-mail verstuurt.
 
 De Eigenaar gebruikt support-e-mails uitsluitend om ze te beantwoorden.
 
 ### Gegevens van Apple
 
-Als de Gebruiker in de instellingen van zijn of haar iPhone ervoor heeft gekozen analysegegevens met app-ontwikkelaars te delen, kan Apple de Eigenaar crashrapporten en anonieme gebruiksstatistieken over deze Applicatie verstrekken. Dit valt onder het privacybeleid van Apple, en Gebruikers kunnen dit op elk moment uitschakelen in de instellingen van hun iPhone.
+Als de Gebruiker in de instellingen van zijn of haar iPhone of iPad ervoor heeft gekozen analysegegevens met app-ontwikkelaars te delen, kan Apple de Eigenaar crashrapporten en anonieme gebruiksstatistieken over deze Applicatie verstrekken. Dit valt onder het privacybeleid van Apple, en Gebruikers kunnen dit op elk moment uitschakelen in die instellingen.
 
 ## Wijze en plaats van verwerking van de Gegevens
 
@@ -191,7 +191,7 @@ Dit privacybeleid is beschikbaar in het Engels en in andere talen. Vertalingen w
 * **Gebruiker:** de persoon die deze Applicatie gebruikt en op wie de Persoonsgegevens betrekking hebben.
 * **Verwerker:** een natuurlijke persoon of rechtspersoon die namens de Eigenaar Persoonsgegevens verwerkt, zoals beschreven in dit privacybeleid.
 * **Eigenaar (of Verwerkingsverantwoordelijke):** de natuurlijke persoon of rechtspersoon die aan het begin van dit privacybeleid wordt genoemd en die de doeleinden en middelen van de verwerking van Persoonsgegevens bepaalt.
-* **Deze Applicatie (of Cingle Remote):** de iPhone- en Apple Watch-app waarmee de Dienst wordt geleverd.
+* **Deze Applicatie (of Cingle Remote):** de iPhone-, iPad- en Apple Watch-app waarmee de Dienst wordt geleverd.
 * **Dienst:** de dienst die door deze Applicatie wordt geleverd zoals beschreven in de Algemene voorwaarden en in deze Applicatie: het bedienen van tv’s via het lokale netwerk van de Gebruiker.
 * **Product:** iedere functie of dienst die in deze Applicatie kan worden gekocht, zoals Premium+.
 * **Europese Unie (of EU):** alle huidige lidstaten van de Europese Unie en de Europese Economische Ruimte.

@@ -1,6 +1,6 @@
 # Algemene voorwaarden van Cingle Remote
 
-Laatst bijgewerkt: 28 oktober 2026
+Laatst bijgewerkt: 3 november 2026
 
 Deze Voorwaarden regelen
 
@@ -241,7 +241,7 @@ Met uitzondering van de hieronder beschreven handelsmerken van derden zijn en bl
 
 De namen en logo’s van tv-fabrikanten en -platforms (zoals Samsung, LG, Roku, Google TV en Vizio) en van streamingdiensten (zoals Netflix, YouTube en Disney+) die in deze Applicatie verschijnen, zijn handelsmerken van hun respectieve eigenaren. Zij worden uitsluitend gebruikt om de tv’s aan te duiden die deze Applicatie kan bedienen en de apps die zij kan openen. De Eigenaar is niet gelieerd aan, noch onderschreven of gesponsord door, een van deze ondernemingen, en deze ondernemingen zijn niet verantwoordelijk voor deze Applicatie.
 
-Apple, iPhone en Apple Watch zijn handelsmerken van Apple Inc.
+Apple, iPhone, iPad en Apple Watch zijn handelsmerken van Apple Inc.
 
 ### Wijzigingen van deze Voorwaarden
 
@@ -303,7 +303,7 @@ Het voorgaande is niet van toepassing op Gebruikers die als Europese Consumenten
 
 ## Definities
 
-* **Deze Applicatie (of Cingle Remote):** de iPhone- en Apple Watch-app waarmee de Dienst wordt geleverd.
+* **Deze Applicatie (of Cingle Remote):** de iPhone-, iPad- en Apple Watch-app waarmee de Dienst wordt geleverd.
 * **Eigenaar:** de natuurlijke persoon of rechtspersoon die aan het begin van deze Voorwaarden wordt genoemd en die deze Applicatie en de Dienst aanbiedt.
 * **Gebruiker:** iedere persoon die deze Applicatie gebruikt.
 * **Consument:** iedere Gebruiker die een natuurlijke persoon is en deze Applicatie gebruikt voor doeleinden die buiten zijn of haar handels-, bedrijfs-, ambachts- of beroepsactiviteit vallen.

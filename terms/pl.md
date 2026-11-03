@@ -1,6 +1,6 @@
 # Regulamin Cingle Remote
 
-Ostatnia aktualizacja: 28 października 2026 r.
+Ostatnia aktualizacja: 3 listopada 2026 r.
 
 Niniejszy Regulamin reguluje
 
@@ -241,7 +241,7 @@ Z wyjątkiem opisanych poniżej znaków towarowych osób trzecich wszelkie znaki
 
 Nazwy i logo producentów telewizorów i platform (takich jak Samsung, LG, Roku, Google TV i Vizio) oraz serwisów streamingowych (takich jak Netflix, YouTube i Disney+), które pojawiają się w niniejszej Aplikacji, są znakami towarowymi ich odpowiednich właścicieli. Są one wykorzystywane wyłącznie w celu identyfikacji telewizorów, którymi niniejsza Aplikacja może sterować, oraz aplikacji, które może otwierać. Właściciel nie jest powiązany z żadną z tych firm ani nie jest przez nie zatwierdzany ani sponsorowany, a firmy te nie ponoszą odpowiedzialności za niniejszą Aplikację.
 
-Apple, iPhone i Apple Watch są znakami towarowymi Apple Inc.
+Apple, iPhone, iPad i Apple Watch są znakami towarowymi Apple Inc.
 
 ### Zmiany niniejszego Regulaminu
 
@@ -303,7 +303,7 @@ Powyższe nie ma zastosowania do Użytkowników będących Konsumentami Europejs
 
 ## Definicje
 
-* **Niniejsza Aplikacja (lub Cingle Remote):** aplikacja na iPhone i Apple Watch, za pośrednictwem której świadczona jest Usługa.
+* **Niniejsza Aplikacja (lub Cingle Remote):** aplikacja na iPhone, iPad i Apple Watch, za pośrednictwem której świadczona jest Usługa.
 * **Właściciel:** osoba fizyczna lub prawna wskazana na początku niniejszego Regulaminu, która udostępnia niniejszą Aplikację i świadczy Usługę.
 * **Użytkownik:** każda osoba korzystająca z niniejszej Aplikacji.
 * **Konsument:** każdy Użytkownik będący osobą fizyczną, który korzysta z niniejszej Aplikacji w celach niezwiązanych ze swoją działalnością handlową, gospodarczą, rzemieślniczą lub zawodową.

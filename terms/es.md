@@ -1,6 +1,6 @@
 # Términos y condiciones de Cingle Remote
 
-Última actualización: 28 de octubre de 2026
+Última actualización: 3 de noviembre de 2026
 
 Estos Términos regulan
 
@@ -241,7 +241,7 @@ Salvo las marcas de terceros descritas a continuación, todas las marcas —nomi
 
 Los nombres y logotipos de fabricantes de televisores y plataformas (como Samsung, LG, Roku, Google TV y Vizio) y de servicios de streaming (como Netflix, YouTube y Disney+) que aparecen en esta Aplicación son marcas comerciales de sus respectivos propietarios. Se utilizan únicamente para identificar los televisores que esta Aplicación puede controlar y las aplicaciones que puede abrir. El Titular no está afiliado a ninguna de estas empresas ni cuenta con su respaldo o patrocinio, y dichas empresas no son responsables de esta Aplicación.
 
-Apple, iPhone y Apple Watch son marcas comerciales de Apple Inc.
+Apple, iPhone, iPad y Apple Watch son marcas comerciales de Apple Inc.
 
 ### Modificaciones de estos Términos
 
@@ -303,7 +303,7 @@ Lo anterior no se aplica a los Usuarios que tengan la condición de Consumidores
 
 ## Definiciones
 
-* **Esta Aplicación (o Cingle Remote):** la aplicación para iPhone y Apple Watch a través de la cual se presta el Servicio.
+* **Esta Aplicación (o Cingle Remote):** la aplicación para iPhone, iPad y Apple Watch a través de la cual se presta el Servicio.
 * **Titular:** la persona física o jurídica indicada al principio de estos Términos, que proporciona esta Aplicación y el Servicio.
 * **Usuario:** cualquier persona que utilice esta Aplicación.
 * **Consumidor:** cualquier Usuario que sea una persona física y utilice esta Aplicación con fines ajenos a su actividad comercial, empresarial, oficio o profesión.

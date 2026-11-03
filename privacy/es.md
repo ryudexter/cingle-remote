@@ -1,6 +1,6 @@
 # Política de privacidad de Cingle Remote
 
-Última actualización: 28 de octubre de 2026
+Última actualización: 3 de noviembre de 2026
 
 Esta Aplicación trata muy pocos Datos Personales y conserva casi todos ellos en los propios dispositivos del Usuario. No muestra publicidad, no utiliza servicios de analítica ni de seguimiento y no envía Datos a servidores gestionados por el Titular.
 
@@ -8,7 +8,7 @@ Esta Aplicación trata muy pocos Datos Personales y conserva casi todos ellos en
 
 ### Datos Personales tratados para las siguientes finalidades
 
-* **Control de televisores:** los nombres, modelos y direcciones de red de los televisores que se encuentran en la red Wi-Fi del Usuario, y las claves necesarias para emparejarse con ellos. Se conservan en el iPhone y el Apple Watch del Usuario.
+* **Control de televisores:** los nombres, modelos y direcciones de red de los televisores que se encuentran en la red Wi-Fi del Usuario, y las claves necesarias para emparejarse con ellos. Se conservan en el iPhone o iPad del Usuario, y en el Apple Watch del Usuario.
 * **Compras:** gestionadas por Apple. Esta Aplicación recibe de Apple información sobre qué Productos ha comprado el Usuario y cuándo se descargó esta Aplicación por primera vez.
 * **Soporte:** los correos electrónicos que los Usuarios deciden enviar al Titular.
 
@@ -53,13 +53,13 @@ Los Usuarios son responsables de cualquier Dato Personal de terceros obtenido, p
 
 Para encontrar televisores, esta Aplicación busca en la red local del Usuario, una vez que el Usuario lo ha autorizado. A continuación, se comunica directamente con el televisor a través de la red local. Las pulsaciones de teclas y el texto escrito se envían directamente al televisor.
 
-La información sobre los televisores del Usuario se conserva en el iPhone del Usuario, con las claves de emparejamiento en el Llavero del iPhone. También se envía al Apple Watch del Usuario, para que este pueda controlar los mismos televisores. No se envía al Titular ni a ninguna otra persona.
+La información sobre los televisores del Usuario se conserva en el iPhone o iPad del Usuario, con las claves de emparejamiento en el Llavero de ese dispositivo. En un iPhone, también se envía al Apple Watch del Usuario, para que este pueda controlar los mismos televisores. No se envía al Titular ni a ninguna otra persona.
 
 ### Compras
 
 Las compras se realizan a través del Apple App Store y las tramita Apple conforme a su propia política de privacidad. El Titular nunca recibe los datos de pago del Usuario.
 
-Esta Aplicación recibe de Apple información sobre qué Productos ha comprado el Usuario y cuándo se descargó esta Aplicación por primera vez, con el fin de desbloquear Premium+ y de calcular el período gratuito de la aplicación para Apple Watch. También registra en el iPhone la fecha en que se abrió por primera vez.
+Esta Aplicación recibe de Apple información sobre qué Productos ha comprado el Usuario y cuándo se descargó esta Aplicación por primera vez, con el fin de desbloquear Premium+ y de calcular el período gratuito de la aplicación para Apple Watch. También registra en el iPhone o iPad la fecha en que se abrió por primera vez.
 
 ### Apple Watch
 
@@ -67,13 +67,13 @@ La aplicación para Apple Watch se comunica con esta Aplicación en el iPhone a 
 
 ### Correos electrónicos de soporte
 
-Cuando el Usuario toca Soporte en Ajustes de esta Aplicación, se abre un nuevo correo electrónico en la aplicación de correo del Usuario. Este ya contiene la versión de esta Aplicación, la versión de iOS, el modelo de iPhone y la marca y el modelo del televisor en uso. El Usuario puede modificar o eliminar esta información antes de enviarlo, y no se envía nada a menos que el Usuario envíe el correo electrónico.
+Cuando el Usuario toca Soporte en Ajustes de esta Aplicación, se abre un nuevo correo electrónico en la aplicación de correo del Usuario. Este ya contiene la versión de esta Aplicación, la versión de iOS o iPadOS, el modelo de iPhone o iPad y la marca y el modelo del televisor en uso. El Usuario puede modificar o eliminar esta información antes de enviarlo, y no se envía nada a menos que el Usuario envíe el correo electrónico.
 
 El Titular utiliza los correos electrónicos de soporte únicamente para responderlos.
 
 ### Datos procedentes de Apple
 
-Si el Usuario ha elegido compartir datos de análisis con los desarrolladores de apps en los ajustes de su iPhone, Apple puede proporcionar al Titular informes de fallos y estadísticas de uso anónimas sobre esta Aplicación. Esto se rige por la política de privacidad de Apple, y los Usuarios pueden desactivarlo en cualquier momento en los ajustes de su iPhone.
+Si el Usuario ha elegido compartir datos de análisis con los desarrolladores de apps en los ajustes de su iPhone o iPad, Apple puede proporcionar al Titular informes de fallos y estadísticas de uso anónimas sobre esta Aplicación. Esto se rige por la política de privacidad de Apple, y los Usuarios pueden desactivarlo en cualquier momento en esos ajustes.
 
 ## Modalidad y lugar del tratamiento de los Datos
 
@@ -191,7 +191,7 @@ Esta política de privacidad está disponible en inglés y en otros idiomas. Las
 * **Usuario:** la persona que utiliza esta Aplicación y a la que se refieren los Datos Personales.
 * **Encargado del tratamiento:** la persona física o jurídica que trata Datos Personales por cuenta del Titular, tal como se describe en esta política de privacidad.
 * **Titular (o Responsable del tratamiento):** la persona física o jurídica indicada al principio de esta política de privacidad, que determina los fines y medios del tratamiento de Datos Personales.
-* **Esta Aplicación (o Cingle Remote):** la aplicación para iPhone y Apple Watch a través de la cual se presta el Servicio.
+* **Esta Aplicación (o Cingle Remote):** la aplicación para iPhone, iPad y Apple Watch a través de la cual se presta el Servicio.
 * **Servicio:** el servicio prestado por esta Aplicación tal como se describe en los Términos y condiciones y en esta Aplicación: el control de televisores a través de la red local del Usuario.
 * **Producto:** cualquier función o servicio disponible para su compra en esta Aplicación, como Premium+.
 * **Unión Europea (o UE):** todos los Estados miembros actuales de la Unión Europea y del Espacio Económico Europeo.

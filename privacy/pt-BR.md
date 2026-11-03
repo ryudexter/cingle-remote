@@ -1,6 +1,6 @@
 # Política de Privacidade do Cingle Remote
 
-Última atualização: 28 de outubro de 2026
+Última atualização: 3 de novembro de 2026
 
 Este Aplicativo trata muito poucos Dados Pessoais e mantém quase todos eles nos próprios dispositivos do Usuário. Ele não exibe publicidade, não usa serviços de análise nem de rastreamento e não envia Dados a servidores administrados pelo Proprietário.
 
@@ -8,7 +8,7 @@ Este Aplicativo trata muito poucos Dados Pessoais e mantém quase todos eles nos
 
 ### Dados Pessoais tratados para as seguintes finalidades
 
-* **Controle de TVs:** os nomes, os modelos e os endereços de rede das TVs na rede Wi-Fi do Usuário, e as chaves necessárias para o pareamento com elas. Mantidos no iPhone e no Apple Watch do Usuário.
+* **Controle de TVs:** os nomes, os modelos e os endereços de rede das TVs na rede Wi-Fi do Usuário, e as chaves necessárias para o pareamento com elas. Mantidos no iPhone ou iPad do Usuário, e no Apple Watch do Usuário.
 * **Compras:** gerenciadas pela Apple. Este Aplicativo recebe da Apple a informação de quais Produtos o Usuário comprou e de quando este Aplicativo foi baixado pela primeira vez.
 * **Suporte:** os e-mails que os Usuários decidem enviar ao Proprietário.
 
@@ -53,13 +53,13 @@ Os Usuários são responsáveis por quaisquer Dados Pessoais de terceiros obtido
 
 Para encontrar TVs, este Aplicativo faz uma busca na rede local do Usuário, depois que o Usuário lhe dá permissão para isso. Em seguida, ele se comunica diretamente com a TV pela rede local. As teclas pressionadas e o texto digitado vão diretamente para a TV.
 
-Os detalhes das TVs do Usuário são mantidos no iPhone do Usuário, com as chaves de pareamento nas Chaves do iPhone. Eles também são enviados ao Apple Watch do Usuário, para que este possa controlar as mesmas TVs. Eles não são enviados ao Proprietário nem a nenhuma outra pessoa.
+Os detalhes das TVs do Usuário são mantidos no iPhone ou iPad do Usuário, com as chaves de pareamento nas Chaves desse dispositivo. Em um iPhone, eles também são enviados ao Apple Watch do Usuário, para que este possa controlar as mesmas TVs. Eles não são enviados ao Proprietário nem a nenhuma outra pessoa.
 
 ### Compras
 
 As compras são feitas por meio da Apple App Store e processadas pela Apple de acordo com a política de privacidade da própria Apple. O Proprietário nunca recebe as informações de pagamento do Usuário.
 
-Este Aplicativo recebe da Apple a informação de quais Produtos o Usuário comprou e de quando este Aplicativo foi baixado pela primeira vez, para desbloquear o Premium+ e calcular o período gratuito do aplicativo para Apple Watch. Ele também registra no iPhone a data em que foi aberto pela primeira vez.
+Este Aplicativo recebe da Apple a informação de quais Produtos o Usuário comprou e de quando este Aplicativo foi baixado pela primeira vez, para desbloquear o Premium+ e calcular o período gratuito do aplicativo para Apple Watch. Ele também registra no iPhone ou iPad a data em que foi aberto pela primeira vez.
 
 ### Apple Watch
 
@@ -67,13 +67,13 @@ O aplicativo para Apple Watch se comunica com este Aplicativo no iPhone por meio
 
 ### E-mails de suporte
 
-Quando o Usuário toca em Suporte nos Ajustes deste Aplicativo, um novo e-mail é aberto no aplicativo de e-mail do Usuário. Esse e-mail já contém a versão deste Aplicativo, a versão do iOS, o modelo do iPhone e a marca e o modelo da TV em uso. O Usuário pode alterar ou apagar esses detalhes antes do envio, e nada é enviado a menos que o Usuário envie o e-mail.
+Quando o Usuário toca em Suporte nos Ajustes deste Aplicativo, um novo e-mail é aberto no aplicativo de e-mail do Usuário. Esse e-mail já contém a versão deste Aplicativo, a versão do iOS ou do iPadOS, o modelo do iPhone ou do iPad e a marca e o modelo da TV em uso. O Usuário pode alterar ou apagar esses detalhes antes do envio, e nada é enviado a menos que o Usuário envie o e-mail.
 
 O Proprietário usa os e-mails de suporte apenas para respondê-los.
 
 ### Dados da Apple
 
-Se o Usuário tiver optado por compartilhar análises com os desenvolvedores de aplicativos nos ajustes de seu iPhone, a Apple poderá fornecer ao Proprietário relatórios de falhas e estatísticas de uso anônimas sobre este Aplicativo. Isso é regido pela política de privacidade da Apple, e os Usuários podem desativar esse compartilhamento a qualquer momento nos ajustes de seu iPhone.
+Se o Usuário tiver optado por compartilhar análises com os desenvolvedores de aplicativos nos ajustes de seu iPhone ou iPad, a Apple poderá fornecer ao Proprietário relatórios de falhas e estatísticas de uso anônimas sobre este Aplicativo. Isso é regido pela política de privacidade da Apple, e os Usuários podem desativar esse compartilhamento a qualquer momento nesses ajustes.
 
 ## Modo e local de tratamento dos Dados
 
@@ -191,7 +191,7 @@ Esta política de privacidade está disponível em inglês e em outros idiomas. 
 * **Usuário:** a pessoa que usa este Aplicativo e a quem os Dados Pessoais se referem.
 * **Operador:** a pessoa física ou jurídica que trata Dados Pessoais em nome do Proprietário, conforme descrito nesta política de privacidade.
 * **Proprietário (ou Controlador):** a pessoa física ou jurídica identificada no início desta política de privacidade, que decide sobre as finalidades e os meios do tratamento de Dados Pessoais.
-* **Este Aplicativo (ou Cingle Remote):** o aplicativo para iPhone e Apple Watch por meio do qual o Serviço é fornecido.
+* **Este Aplicativo (ou Cingle Remote):** o aplicativo para iPhone, iPad e Apple Watch por meio do qual o Serviço é fornecido.
 * **Serviço:** o serviço prestado por este Aplicativo, conforme descrito nos Termos e Condições e neste Aplicativo: o controle de TVs pela rede local do Usuário.
 * **Produto:** qualquer recurso ou serviço disponível para compra neste Aplicativo, como o Premium+.
 * **União Europeia (ou UE):** todos os atuais Estados-Membros da União Europeia e do Espaço Econômico Europeu.

@@ -1,6 +1,6 @@
 # Datenschutzerklärung von Cingle Remote
 
-Zuletzt aktualisiert: 28. Oktober 2026
+Zuletzt aktualisiert: 3. November 2026
 
 Diese Anwendung verarbeitet nur sehr wenige personenbezogene Daten und speichert fast alle davon auf den eigenen Geräten des Nutzers. Sie zeigt keine Werbung an, verwendet keine Analyse- oder Tracking-Dienste und sendet keine Daten an Server, die vom Anbieter betrieben werden.
 
@@ -8,7 +8,7 @@ Diese Anwendung verarbeitet nur sehr wenige personenbezogene Daten und speichert
 
 ### Personenbezogene Daten, die für die folgenden Zwecke verarbeitet werden
 
-* **Steuerung von Fernsehern:** die Namen, Modelle und Netzwerkadressen der Fernseher im WLAN des Nutzers sowie die zum Koppeln mit ihnen erforderlichen Schlüssel. Gespeichert auf dem iPhone und der Apple Watch des Nutzers.
+* **Steuerung von Fernsehern:** die Namen, Modelle und Netzwerkadressen der Fernseher im WLAN des Nutzers sowie die zum Koppeln mit ihnen erforderlichen Schlüssel. Gespeichert auf dem iPhone oder iPad des Nutzers und auf der Apple Watch des Nutzers.
 * **Käufe:** die Abwicklung erfolgt durch Apple. Diese Anwendung erhält von Apple die Information, welche Produkte der Nutzer gekauft hat und wann diese Anwendung erstmals heruntergeladen wurde.
 * **Support:** die E-Mails, die Nutzer von sich aus an den Anbieter senden.
 
@@ -53,13 +53,13 @@ Die Nutzer sind für alle personenbezogenen Daten Dritter verantwortlich, die ü
 
 Um Fernseher zu finden, durchsucht diese Anwendung das lokale Netzwerk des Nutzers, nachdem der Nutzer dies erlaubt hat. Anschließend kommuniziert sie über das lokale Netzwerk direkt mit dem Fernseher. Tastendrücke und eingegebener Text gehen direkt an den Fernseher.
 
-Die Angaben zu den Fernsehern des Nutzers werden auf dem iPhone des Nutzers gespeichert, die Kopplungsschlüssel im Schlüsselbund des iPhone. Sie werden außerdem an die Apple Watch des Nutzers gesendet, damit diese dieselben Fernseher steuern kann. Sie werden weder an den Anbieter noch an Dritte gesendet.
+Die Angaben zu den Fernsehern des Nutzers werden auf dem iPhone oder iPad des Nutzers gespeichert, die Kopplungsschlüssel im Schlüsselbund dieses Geräts. Auf einem iPhone werden sie außerdem an die Apple Watch des Nutzers gesendet, damit diese dieselben Fernseher steuern kann. Sie werden weder an den Anbieter noch an Dritte gesendet.
 
 ### Käufe
 
 Käufe erfolgen über den Apple App Store und werden von Apple gemäß der eigenen Datenschutzrichtlinie von Apple abgewickelt. Der Anbieter erhält niemals die Zahlungsdaten des Nutzers.
 
-Diese Anwendung erhält von Apple die Information, welche Produkte der Nutzer gekauft hat und wann diese Anwendung erstmals heruntergeladen wurde, um Premium+ freizuschalten und den kostenlosen Zeitraum der Apple Watch-App zu ermitteln. Außerdem speichert sie auf dem iPhone das Datum, an dem sie zum ersten Mal geöffnet wurde.
+Diese Anwendung erhält von Apple die Information, welche Produkte der Nutzer gekauft hat und wann diese Anwendung erstmals heruntergeladen wurde, um Premium+ freizuschalten und den kostenlosen Zeitraum der Apple Watch-App zu ermitteln. Außerdem speichert sie auf dem iPhone oder iPad das Datum, an dem sie zum ersten Mal geöffnet wurde.
 
 ### Apple Watch
 
@@ -67,13 +67,13 @@ Die Apple Watch-App kommuniziert über die Verbindung von Apple zwischen den bei
 
 ### Support-E-Mails
 
-Wenn der Nutzer in den Einstellungen dieser Anwendung auf Support tippt, öffnet sich in der E-Mail-App des Nutzers eine neue E-Mail. Sie enthält bereits die Version dieser Anwendung, die iOS-Version, das iPhone-Modell sowie die Marke und das Modell des verwendeten Fernsehers. Der Nutzer kann diese Angaben vor dem Senden ändern oder löschen, und es wird nichts gesendet, solange der Nutzer die E-Mail nicht sendet.
+Wenn der Nutzer in den Einstellungen dieser Anwendung auf Support tippt, öffnet sich in der E-Mail-App des Nutzers eine neue E-Mail. Sie enthält bereits die Version dieser Anwendung, die iOS- oder iPadOS-Version, das iPhone- oder iPad-Modell sowie die Marke und das Modell des verwendeten Fernsehers. Der Nutzer kann diese Angaben vor dem Senden ändern oder löschen, und es wird nichts gesendet, solange der Nutzer die E-Mail nicht sendet.
 
 Der Anbieter verwendet Support-E-Mails ausschließlich, um sie zu beantworten.
 
 ### Daten von Apple
 
-Wenn sich der Nutzer in den Einstellungen seines iPhone dafür entschieden hat, Analysedaten mit App-Entwicklern zu teilen, kann Apple dem Anbieter Absturzberichte und anonyme Nutzungsstatistiken zu dieser Anwendung bereitstellen. Dies unterliegt der Datenschutzrichtlinie von Apple, und die Nutzer können es jederzeit in den Einstellungen ihres iPhone deaktivieren.
+Wenn sich der Nutzer in den Einstellungen seines iPhone oder iPad dafür entschieden hat, Analysedaten mit App-Entwicklern zu teilen, kann Apple dem Anbieter Absturzberichte und anonyme Nutzungsstatistiken zu dieser Anwendung bereitstellen. Dies unterliegt der Datenschutzrichtlinie von Apple, und die Nutzer können es jederzeit in diesen Einstellungen deaktivieren.
 
 ## Art und Ort der Verarbeitung der Daten
 
@@ -191,7 +191,7 @@ Diese Datenschutzerklärung ist auf Englisch und in weiteren Sprachen verfügbar
 * **Nutzer:** die Person, die diese Anwendung nutzt und auf die sich die personenbezogenen Daten beziehen.
 * **Auftragsverarbeiter:** eine natürliche oder juristische Person, die personenbezogene Daten im Auftrag des Anbieters verarbeitet, wie in dieser Datenschutzerklärung beschrieben.
 * **Anbieter (oder Verantwortlicher):** die natürliche oder juristische Person, die zu Beginn dieser Datenschutzerklärung genannt ist und über die Zwecke und Mittel der Verarbeitung personenbezogener Daten entscheidet.
-* **Diese Anwendung (oder Cingle Remote):** die App für iPhone und Apple Watch, über die der Dienst bereitgestellt wird.
+* **Diese Anwendung (oder Cingle Remote):** die App für iPhone, iPad und Apple Watch, über die der Dienst bereitgestellt wird.
 * **Dienst:** der von dieser Anwendung bereitgestellte Dienst, wie in den Nutzungsbedingungen und in dieser Anwendung beschrieben: die Steuerung von Fernsehern über das lokale Netzwerk des Nutzers.
 * **Produkt:** jede Funktion oder Dienstleistung, die in dieser Anwendung zum Kauf angeboten wird, wie etwa Premium+.
 * **Europäische Union (oder EU):** alle derzeitigen Mitgliedstaaten der Europäischen Union und des Europäischen Wirtschaftsraums.

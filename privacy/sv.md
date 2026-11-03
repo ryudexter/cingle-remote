@@ -1,6 +1,6 @@
 # Integritetspolicy för Cingle Remote
 
-Senast uppdaterad: 28 oktober 2026
+Senast uppdaterad: 3 november 2026
 
 Denna Applikation hanterar mycket få Personuppgifter och lagrar nästan samtliga av dem på Användarens egna enheter. Den visar ingen reklam, använder inga analys- eller spårningstjänster och skickar inga Uppgifter till servrar som drivs av Ägaren.
 
@@ -8,7 +8,7 @@ Denna Applikation hanterar mycket få Personuppgifter och lagrar nästan samtlig
 
 ### Personuppgifter som behandlas för följande ändamål
 
-* **Styrning av tv-apparater:** namn, modeller och nätverksadresser för tv-apparaterna i Användarens Wi-Fi-nätverk samt de nycklar som behövs för att parkoppla med dem. Sparas på Användarens iPhone och Apple Watch.
+* **Styrning av tv-apparater:** namn, modeller och nätverksadresser för tv-apparaterna i Användarens Wi-Fi-nätverk samt de nycklar som behövs för att parkoppla med dem. Sparas på Användarens iPhone eller iPad, och på Användarens Apple Watch.
 * **Köp:** hanteras av Apple. Denna Applikation får information från Apple om vilka Produkter Användaren har köpt och när denna Applikation laddades ned första gången.
 * **Support:** de e-postmeddelanden som Användare väljer att skicka till Ägaren.
 
@@ -53,13 +53,13 @@ Användarna ansvarar för alla Personuppgifter om tredje part som erhålls, publ
 
 För att hitta tv-apparater söker denna Applikation igenom Användarens lokala nätverk, efter att Användaren har tillåtit den att göra det. Därefter kommunicerar den direkt med tv-apparaten via det lokala nätverket. Knapptryckningar och inskriven text går direkt till tv-apparaten.
 
-Informationen om Användarens tv-apparater sparas på Användarens iPhone, med parkopplingsnycklarna i nyckelringen på iPhone. Den skickas också till Användarens Apple Watch, så att den kan styra samma tv-apparater. Den skickas inte till Ägaren eller till någon annan.
+Informationen om Användarens tv-apparater sparas på Användarens iPhone eller iPad, med parkopplingsnycklarna i nyckelringen på den enheten. På en iPhone skickas den också till Användarens Apple Watch, så att den kan styra samma tv-apparater. Den skickas inte till Ägaren eller till någon annan.
 
 ### Köp
 
 Köp görs via Apple App Store och behandlas av Apple enligt Apples egen integritetspolicy. Ägaren får aldrig del av Användarens betalningsuppgifter.
 
-Denna Applikation får information från Apple om vilka Produkter Användaren har köpt och när denna Applikation laddades ned första gången, för att låsa upp Premium+ och för att beräkna den kostnadsfria perioden för Apple Watch-appen. Den registrerar också på iPhone det datum då den öppnades första gången.
+Denna Applikation får information från Apple om vilka Produkter Användaren har köpt och när denna Applikation laddades ned första gången, för att låsa upp Premium+ och för att beräkna den kostnadsfria perioden för Apple Watch-appen. Den registrerar också på iPhone eller iPad det datum då den öppnades första gången.
 
 ### Apple Watch
 
@@ -67,13 +67,13 @@ Apple Watch-appen kommunicerar med denna Applikation på iPhone via Apples anslu
 
 ### E-postmeddelanden till support
 
-När Användaren trycker på Support i Inställningar i denna Applikation öppnas ett nytt e-postmeddelande i Användarens e-postapp. Det innehåller redan denna Applikations version, iOS-versionen, iPhone-modellen samt märket och modellen på den tv-apparat som används. Användaren kan ändra eller ta bort dessa detaljer innan meddelandet skickas, och ingenting skickas om inte Användaren skickar e-postmeddelandet.
+När Användaren trycker på Support i Inställningar i denna Applikation öppnas ett nytt e-postmeddelande i Användarens e-postapp. Det innehåller redan denna Applikations version, iOS- eller iPadOS-versionen, iPhone- eller iPad-modellen samt märket och modellen på den tv-apparat som används. Användaren kan ändra eller ta bort dessa detaljer innan meddelandet skickas, och ingenting skickas om inte Användaren skickar e-postmeddelandet.
 
 Ägaren använder e-postmeddelanden till support endast för att besvara dem.
 
 ### Uppgifter från Apple
 
-Om Användaren har valt att dela analysdata med apputvecklare i inställningarna på sin iPhone kan Apple förse Ägaren med kraschrapporter och anonym användningsstatistik om denna Applikation. Detta regleras av Apples integritetspolicy, och Användarna kan när som helst stänga av det i inställningarna på sin iPhone.
+Om Användaren har valt att dela analysdata med apputvecklare i inställningarna på sin iPhone eller iPad kan Apple förse Ägaren med kraschrapporter och anonym användningsstatistik om denna Applikation. Detta regleras av Apples integritetspolicy, och Användarna kan när som helst stänga av det i de inställningarna.
 
 ## Sätt och plats för behandling av Uppgifterna
 
@@ -191,7 +191,7 @@ Denna integritetspolicy finns på engelska och på andra språk. Översättninga
 * **Användare:** den person som använder denna Applikation och som Personuppgifterna avser.
 * **Personuppgiftsbiträde:** en fysisk eller juridisk person som behandlar Personuppgifter för Ägarens räkning, enligt beskrivningen i denna integritetspolicy.
 * **Ägaren (eller Personuppgiftsansvarig):** den fysiska eller juridiska person som anges i början av denna integritetspolicy och som bestämmer ändamålen och medlen för behandlingen av Personuppgifter.
-* **Denna Applikation (eller Cingle Remote):** den app för iPhone och Apple Watch genom vilken Tjänsten tillhandahålls.
+* **Denna Applikation (eller Cingle Remote):** den app för iPhone, iPad och Apple Watch genom vilken Tjänsten tillhandahålls.
 * **Tjänsten:** den tjänst som tillhandahålls av denna Applikation enligt beskrivningen i Användarvillkoren och i denna Applikation: styrning av tv-apparater via Användarens lokala nätverk.
 * **Produkt:** varje funktion eller tjänst som kan köpas i denna Applikation, såsom Premium+.
 * **Europeiska unionen (eller EU):** samtliga nuvarande medlemsstater i Europeiska unionen och Europeiska ekonomiska samarbetsområdet.

@@ -1,6 +1,6 @@
 # Privacy Policy of Cingle Remote
 
-Last updated: 28 October 2026
+Last updated: 3 November 2026
 
 This Application handles very little Personal Data, and keeps almost all of it on the User’s own devices. It shows no advertising, uses no analytics or tracking services, and sends no Data to servers run by the Owner.
 
@@ -8,7 +8,7 @@ This Application handles very little Personal Data, and keeps almost all of it o
 
 ### Personal Data processed for the following purposes
 
-* **Controlling TVs:** the names, models and network addresses of the TVs on the User’s Wi-Fi network, and the keys needed to pair with them. Kept on the User’s iPhone and Apple Watch.
+* **Controlling TVs:** the names, models and network addresses of the TVs on the User’s Wi-Fi network, and the keys needed to pair with them. Kept on the User’s iPhone or iPad, and on the User’s Apple Watch.
 * **Purchases:** handled by Apple. This Application receives from Apple which Products the User has bought and when this Application was first downloaded.
 * **Support:** the emails that Users choose to send to the Owner.
 
@@ -53,13 +53,13 @@ Users are responsible for any third-party Personal Data obtained, published or s
 
 To find TVs, this Application searches the User’s local network, after the User has allowed it to do so. It then communicates directly with the TV over the local network. Key presses and typed text go straight to the TV.
 
-The details of the User’s TVs are kept on the User’s iPhone, with the pairing keys in the iPhone’s Keychain. They are also sent to the User’s Apple Watch, so that it can control the same TVs. They are not sent to the Owner or to anyone else.
+The details of the User’s TVs are kept on the User’s iPhone or iPad, with the pairing keys in its Keychain. On an iPhone, they are also sent to the User’s Apple Watch, so that it can control the same TVs. They are not sent to the Owner or to anyone else.
 
 ### Purchases
 
 Purchases are made through the Apple App Store and processed by Apple under Apple’s own privacy policy. The Owner never receives the User’s payment details.
 
-This Application receives from Apple which Products the User has bought and when this Application was first downloaded, to unlock Premium+ and to work out the free period of the Apple Watch app. It also records on the iPhone the date it was first opened.
+This Application receives from Apple which Products the User has bought and when this Application was first downloaded, to unlock Premium+ and to work out the free period of the Apple Watch app. It also records on the iPhone or iPad the date it was first opened.
 
 ### Apple Watch
 
@@ -67,13 +67,13 @@ The Apple Watch app communicates with this Application on the iPhone through App
 
 ### Support emails
 
-When the User taps Support in the Settings of this Application, a new email opens in the User’s mail app. It already contains the version of this Application, the iOS version, the iPhone model, and the brand and model of the TV in use. The User can change or delete these details before sending, and nothing is sent unless the User sends the email.
+When the User taps Support in the Settings of this Application, a new email opens in the User’s mail app. It already contains the version of this Application, the iOS or iPadOS version, the iPhone or iPad model, and the brand and model of the TV in use. The User can change or delete these details before sending, and nothing is sent unless the User sends the email.
 
 The Owner uses support emails only to answer them.
 
 ### Data from Apple
 
-If the User has chosen to share analytics with app developers in their iPhone’s settings, Apple may provide the Owner with crash reports and anonymous usage statistics about this Application. This is governed by Apple’s privacy policy, and Users can turn it off at any time in their iPhone’s settings.
+If the User has chosen to share analytics with app developers in the settings of their iPhone or iPad, Apple may provide the Owner with crash reports and anonymous usage statistics about this Application. This is governed by Apple’s privacy policy, and Users can turn it off at any time in those settings.
 
 ## Mode and place of processing the Data
 
@@ -191,7 +191,7 @@ This privacy policy is available in English and in other languages. Translations
 * **User:** the person who uses this Application, and to whom the Personal Data refers.
 * **Data Processor:** a natural or legal person who processes Personal Data on behalf of the Owner, as described in this privacy policy.
 * **Owner (or Data Controller):** the natural or legal person named at the beginning of this privacy policy, who decides the purposes and means of the processing of Personal Data.
-* **This Application (or Cingle Remote):** the iPhone and Apple Watch app through which the Service is provided.
+* **This Application (or Cingle Remote):** the iPhone, iPad and Apple Watch app through which the Service is provided.
 * **Service:** the service provided by this Application as described in the Terms and Conditions and in this Application: controlling TVs over the User’s local network.
 * **Product:** any feature or service available for purchase in this Application, such as Premium+.
 * **European Union (or EU):** all current member states of the European Union and the European Economic Area.

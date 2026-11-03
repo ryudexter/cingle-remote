@@ -1,6 +1,6 @@
 # Cingle Remote Şartlar ve Koşulları
 
-Son güncelleme: 28 Ekim 2026
+Son güncelleme: 3 Kasım 2026
 
 Bu Şartlar,
 
@@ -241,7 +241,7 @@ Aşağıda açıklanan üçüncü taraf ticari markaları hariç olmak üzere, b
 
 Bu Uygulama'da görünen televizyon üreticilerinin ve platformlarının (Samsung, LG, Roku, Google TV ve Vizio gibi) ve dijital yayın hizmetlerinin (Netflix, YouTube ve Disney+ gibi) adları ve logoları, ilgili sahiplerinin ticari markalarıdır. Bunlar yalnızca bu Uygulama'nın kontrol edebildiği televizyonları ve açabildiği uygulamaları tanımlamak için kullanılır. İşletmeci bu şirketlerin hiçbiriyle bağlantılı değildir ve bu şirketler tarafından onaylanmamış veya desteklenmemiştir; bu şirketler de bu Uygulama'dan sorumlu değildir.
 
-Apple, iPhone ve Apple Watch, Apple Inc.'in ticari markalarıdır.
+Apple, iPhone, iPad ve Apple Watch, Apple Inc.'in ticari markalarıdır.
 
 ### Bu Şartlarda yapılacak değişiklikler
 
@@ -303,7 +303,7 @@ Yukarıdaki hüküm, Avrupalı Tüketici niteliğini taşıyan Kullanıcılar il
 
 ## Tanımlar
 
-* **Bu Uygulama (veya Cingle Remote):** Hizmet'in aracılığıyla sağlandığı iPhone ve Apple Watch uygulaması.
+* **Bu Uygulama (veya Cingle Remote):** Hizmet'in aracılığıyla sağlandığı iPhone, iPad ve Apple Watch uygulaması.
 * **İşletmeci:** bu Şartların başında adı belirtilen ve bu Uygulama'yı ve Hizmet'i sağlayan gerçek veya tüzel kişi.
 * **Kullanıcı:** bu Uygulama'yı kullanan her kişi.
 * **Tüketici:** gerçek kişi olan ve bu Uygulama'yı ticari, iş, zanaat veya mesleki faaliyetleri dışındaki amaçlarla kullanan her Kullanıcı.

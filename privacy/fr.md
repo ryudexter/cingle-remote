@@ -1,6 +1,6 @@
 # Politique de confidentialité de Cingle Remote
 
-Dernière mise à jour : 28 octobre 2026
+Dernière mise à jour : 3 novembre 2026
 
 Cette Application traite très peu de Données personnelles et en conserve la quasi-totalité sur les propres appareils de l’Utilisateur. Elle n’affiche aucune publicité, n’utilise aucun service d’analyse ni de suivi et n’envoie aucune Donnée à des serveurs exploités par le Propriétaire.
 
@@ -8,7 +8,7 @@ Cette Application traite très peu de Données personnelles et en conserve la qu
 
 ### Données personnelles traitées aux fins suivantes
 
-* **Commande des téléviseurs :** les noms, modèles et adresses réseau des téléviseurs présents sur le réseau Wi-Fi de l’Utilisateur, ainsi que les clés nécessaires au jumelage avec ceux-ci. Conservés sur l’iPhone et l’Apple Watch de l’Utilisateur.
+* **Commande des téléviseurs :** les noms, modèles et adresses réseau des téléviseurs présents sur le réseau Wi-Fi de l’Utilisateur, ainsi que les clés nécessaires au jumelage avec ceux-ci. Conservés sur l’iPhone ou l’iPad de l’Utilisateur, et sur l’Apple Watch de l’Utilisateur.
 * **Achats :** gérés par Apple. Cette Application reçoit d’Apple des informations indiquant quels Produits l’Utilisateur a achetés et quand cette Application a été téléchargée pour la première fois.
 * **Assistance :** les e-mails que les Utilisateurs choisissent d’envoyer au Propriétaire.
 
@@ -53,13 +53,13 @@ Les Utilisateurs sont responsables de toutes les Données personnelles de tiers 
 
 Pour détecter les téléviseurs, cette Application effectue une recherche sur le réseau local de l’Utilisateur, une fois que l’Utilisateur l’y a autorisée. Elle communique ensuite directement avec le téléviseur via le réseau local. Les appuis sur les touches et le texte saisi sont transmis directement au téléviseur.
 
-Les informations relatives aux téléviseurs de l’Utilisateur sont conservées sur l’iPhone de l’Utilisateur, les clés de jumelage étant stockées dans le trousseau de l’iPhone. Elles sont également envoyées à l’Apple Watch de l’Utilisateur, afin que celle-ci puisse commander les mêmes téléviseurs. Elles ne sont envoyées ni au Propriétaire ni à qui que ce soit d’autre.
+Les informations relatives aux téléviseurs de l’Utilisateur sont conservées sur l’iPhone ou l’iPad de l’Utilisateur, les clés de jumelage étant stockées dans le trousseau de cet appareil. Sur un iPhone, elles sont également envoyées à l’Apple Watch de l’Utilisateur, afin que celle-ci puisse commander les mêmes téléviseurs. Elles ne sont envoyées ni au Propriétaire ni à qui que ce soit d’autre.
 
 ### Achats
 
 Les achats sont effectués via l’Apple App Store et traités par Apple conformément à sa propre politique de confidentialité. Le Propriétaire ne reçoit jamais les informations de paiement de l’Utilisateur.
 
-Cette Application reçoit d’Apple des informations indiquant quels Produits l’Utilisateur a achetés et quand cette Application a été téléchargée pour la première fois, afin de débloquer Premium+ et de déterminer la période gratuite de l’app Apple Watch. Elle enregistre également sur l’iPhone la date à laquelle elle a été ouverte pour la première fois.
+Cette Application reçoit d’Apple des informations indiquant quels Produits l’Utilisateur a achetés et quand cette Application a été téléchargée pour la première fois, afin de débloquer Premium+ et de déterminer la période gratuite de l’app Apple Watch. Elle enregistre également sur l’iPhone ou l’iPad la date à laquelle elle a été ouverte pour la première fois.
 
 ### Apple Watch
 
@@ -67,13 +67,13 @@ L’app Apple Watch communique avec cette Application sur l’iPhone au moyen de
 
 ### E-mails d’assistance
 
-Lorsque l’Utilisateur touche Assistance dans les Réglages de cette Application, un nouvel e-mail s’ouvre dans l’app de messagerie de l’Utilisateur. Il contient déjà la version de cette Application, la version d’iOS, le modèle de l’iPhone ainsi que la marque et le modèle du téléviseur utilisé. L’Utilisateur peut modifier ou supprimer ces informations avant l’envoi, et rien n’est envoyé à moins que l’Utilisateur n’envoie l’e-mail.
+Lorsque l’Utilisateur touche Assistance dans les Réglages de cette Application, un nouvel e-mail s’ouvre dans l’app de messagerie de l’Utilisateur. Il contient déjà la version de cette Application, la version d’iOS ou d’iPadOS, le modèle de l’iPhone ou de l’iPad ainsi que la marque et le modèle du téléviseur utilisé. L’Utilisateur peut modifier ou supprimer ces informations avant l’envoi, et rien n’est envoyé à moins que l’Utilisateur n’envoie l’e-mail.
 
 Le Propriétaire utilise les e-mails d’assistance uniquement pour y répondre.
 
 ### Données provenant d’Apple
 
-Si l’Utilisateur a choisi, dans les réglages de son iPhone, de partager des données d’analyse avec les développeurs d’apps, Apple peut fournir au Propriétaire des rapports de plantage et des statistiques d’utilisation anonymes concernant cette Application. Ce partage est régi par la politique de confidentialité d’Apple, et les Utilisateurs peuvent le désactiver à tout moment dans les réglages de leur iPhone.
+Si l’Utilisateur a choisi, dans les réglages de son iPhone ou de son iPad, de partager des données d’analyse avec les développeurs d’apps, Apple peut fournir au Propriétaire des rapports de plantage et des statistiques d’utilisation anonymes concernant cette Application. Ce partage est régi par la politique de confidentialité d’Apple, et les Utilisateurs peuvent le désactiver à tout moment dans ces réglages.
 
 ## Modalités et lieu du traitement des Données
 
@@ -191,7 +191,7 @@ La présente politique de confidentialité est disponible en anglais et dans d�
 * **Utilisateur :** la personne qui utilise cette Application et à laquelle se rapportent les Données personnelles.
 * **Sous-traitant :** toute personne physique ou morale qui traite des Données personnelles pour le compte du Propriétaire, comme décrit dans la présente politique de confidentialité.
 * **Propriétaire (ou Responsable du traitement) :** la personne physique ou morale désignée au début de la présente politique de confidentialité, qui détermine les finalités et les moyens du traitement des Données personnelles.
-* **Cette Application (ou Cingle Remote) :** l’app pour iPhone et Apple Watch au moyen de laquelle le Service est fourni.
+* **Cette Application (ou Cingle Remote) :** l’app pour iPhone, iPad et Apple Watch au moyen de laquelle le Service est fourni.
 * **Service :** le service fourni par cette Application tel que décrit dans les Conditions générales et dans cette Application : la commande de téléviseurs via le réseau local de l’Utilisateur.
 * **Produit :** toute fonctionnalité ou tout service proposé à l’achat dans cette Application, tel que Premium+.
 * **Union européenne (ou UE) :** l’ensemble des États membres actuels de l’Union européenne et de l’Espace économique européen.
