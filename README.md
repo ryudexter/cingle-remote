@@ -48,11 +48,13 @@ Email **[zcengel@yahoo.com](mailto:zcengel@yahoo.com)**, or in the app tap Setti
 
 **How does the Apple Watch app work?** Pair the TV on your iPhone; the Watch uses the same pairing, with no code to type. Roku TVs take presses straight from the Watch. For every other TV, the Watch goes through your iPhone, which needs to be nearby. The Watch app is free for 2 weeks, then comes with Premium+.
 
-**How does the Mac app work?** It comes with Premium+. Premium+ bought on your iPhone works on your Mac with the same Apple Account. Use the arrow keys, Return, Space and Delete, or the Remote menu for everything else. On an LG webOS TV, your mouse or trackpad moves the TV's pointer.
+**How does the Mac app work?** From version 1.0.2 it's free, and Premium+ adds Bigger Remote, which lets the remote grow with its window. Before 1.0.2, the Mac app came with Premium+. Premium+ bought on your iPhone works on your Mac with the same Apple Account. Use the arrow keys, Return, Space and Delete, or the Remote menu for everything else. On an LG webOS TV, your mouse or trackpad moves the TV's pointer.
 
 **Does Cingle work on iPad?** Yes, from version 1.0.1: the same app, with the remote filling the screen any way up. It finds the same TVs, and Premium+ bought on your iPhone works there too.
 
-**What does Premium+ include?** Several saved TVs (without it, Cingle keeps one), the Apple Watch app after its 2 free weeks, the Mac app, Gyro Pointer, Siri and the remote widget. It's a one-time purchase or a yearly subscription with a free trial. Family Sharing works with both.
+**Can I use Cingle from Control Center?** Yes, from version 1.0.2, on iOS 18, iPadOS 18 or macOS 26 and later. On iPhone or iPad, open Control Center, tap +, then Add a Control, and choose Cingle Remote. On a Mac, open Control Center and click Edit Controls. *Remote* opens Cingle. *TV Button* presses one key you pick when you add it, such as Power or Mute, without opening the app; it comes with Premium+. You can add TV Button more than once for more keys.
+
+**What does Premium+ include?** Several saved TVs (without it, Cingle keeps one), the Apple Watch app after its 2 free weeks, Bigger Remote on Mac (before version 1.0.2, the Mac app itself), Gyro Pointer, Siri, the remote widget and the TV Button control. It's a one-time purchase or a yearly subscription with a free trial. Family Sharing works with both.
 
 **I bought Premium+ but it isn't showing.** In Cingle's Settings, tap Restore Purchases below Premium+, signed in to the Apple Account you bought it with.
 
