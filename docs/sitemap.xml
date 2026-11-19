@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://ryudexter.github.io/cingle-remote/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ryudexter.github.io/cingle-remote/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ryudexter.github.io/cingle-remote/tr/"/>
+  </url>
+  <url>
+    <loc>https://ryudexter.github.io/cingle-remote/tr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ryudexter.github.io/cingle-remote/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ryudexter.github.io/cingle-remote/tr/"/>
+  </url>
+  <url>
+    <loc>https://ryudexter.github.io/cingle-remote/lg-tv-remote/</loc>
+  </url>
+  <url>
+    <loc>https://ryudexter.github.io/cingle-remote/samsung-tv-remote/</loc>
+  </url>
+  <url>
+    <loc>https://ryudexter.github.io/cingle-remote/roku-remote/</loc>
+  </url>
+  <url>
+    <loc>https://ryudexter.github.io/cingle-remote/google-tv-remote/</loc>
+  </url>
+  <url>
+    <loc>https://ryudexter.github.io/cingle-remote/fire-tv-remote/</loc>
+  </url>
+  <url>
+    <loc>https://ryudexter.github.io/cingle-remote/sony-tv-remote/</loc>
+  </url>
+  <url>
+    <loc>https://ryudexter.github.io/cingle-remote/philips-tv-remote/</loc>
+  </url>
+  <url>
+    <loc>https://ryudexter.github.io/cingle-remote/panasonic-tv-remote/</loc>
+  </url>
+  <url>
+    <loc>https://ryudexter.github.io/cingle-remote/sharp-tv-remote/</loc>
+  </url>
+  <url>
+    <loc>https://ryudexter.github.io/cingle-remote/tcl-tv-remote/</loc>
+  </url>
+  <url>
+    <loc>https://ryudexter.github.io/cingle-remote/vestel-tv-remote/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ryudexter.github.io/cingle-remote/vestel-tv-remote/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ryudexter.github.io/cingle-remote/tr/vestel-kumanda/"/>
+  </url>
+  <url>
+    <loc>https://ryudexter.github.io/cingle-remote/tr/vestel-kumanda/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ryudexter.github.io/cingle-remote/tr/vestel-kumanda/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ryudexter.github.io/cingle-remote/vestel-tv-remote/"/>
+  </url>
+</urlset>
