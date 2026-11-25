@@ -70,6 +70,8 @@ Cingle Remote shows no ads, uses no analytics or tracking, and keeps what it nee
 
 [English](terms/en.md) · [العربية](terms/ar.md) · [Deutsch](terms/de.md) · [Español](terms/es.md) · [Français](terms/fr.md) · [Italiano](terms/it.md) · [日本語](terms/ja.md) · [한국어](terms/ko.md) · [Nederlands](terms/nl.md) · [Polski](terms/pl.md) · [Português (Brasil)](terms/pt-BR.md) · [Русский](terms/ru.md) · [Svenska](terms/sv.md) · [Türkçe](terms/tr.md) · [简体中文](terms/zh-Hans.md)
 
+**For Android:** [Privacy Policy](privacy/android/en.md) · [Terms and Conditions](terms/android/en.md) (English)
+
 English is the original of both; where a translation differs, English prevails.
 
 ---
