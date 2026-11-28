@@ -1,6 +1,6 @@
 # Política de Privacidade do Cingle Remote
 
-Última atualização: 3 de novembro de 2026
+Última atualização: 28 de novembro de 2026
 
 Este Aplicativo trata muito poucos Dados Pessoais e mantém quase todos eles nos próprios dispositivos do Usuário. Ele não exibe publicidade, não usa serviços de análise nem de rastreamento e não envia Dados a servidores administrados pelo Proprietário.
 
@@ -37,7 +37,7 @@ Entre os tipos de Dados Pessoais que este Aplicativo trata, estão:
 * **Ajustes:** as escolhas do Usuário neste Aplicativo, como o retorno tátil, o idioma e os botões de aplicativos exibidos no controle remoto.
 * **Informações de suporte:** o conteúdo de qualquer e-mail que o Usuário envie ao Proprietário, o endereço de e-mail do Usuário e os detalhes técnicos acrescentados ao e-mail, conforme descrito abaixo.
 
-As teclas pressionadas e o texto digitado com o teclado deste Aplicativo são enviados apenas à TV do Usuário e não são armazenados.
+As teclas pressionadas e o texto digitado com o teclado deste Aplicativo são enviados apenas à TV do Usuário. Os textos enviados mais recentemente de um dispositivo também ficam guardados nesse dispositivo, para que possam ser enviados novamente, até que o Usuário os apague; eles não são enviados a nenhum outro lugar.
 
 Os Dados Pessoais são fornecidos pelo Usuário, por exemplo, ao escrever para o Proprietário, ou são criados quando este Aplicativo é usado, por exemplo, quando ele encontra uma TV ou é pareado com ela.
 

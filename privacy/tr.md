@@ -1,6 +1,6 @@
 # Cingle Remote Gizlilik Politikası
 
-Son güncelleme: 3 Kasım 2026
+Son güncelleme: 28 Kasım 2026
 
 Bu Uygulama çok az Kişisel Veri işler ve bunların neredeyse tamamını Kullanıcı'nın kendi cihazlarında tutar. Reklam göstermez, hiçbir analiz veya izleme hizmeti kullanmaz ve İşletmeci tarafından işletilen sunuculara hiçbir Veri göndermez.
 
@@ -37,7 +37,7 @@ Bu Uygulama'nın işlediği Kişisel Veri türleri arasında şunlar yer alır:
 * **Ayarlar:** Kullanıcı'nın bu Uygulama'daki dokunsal geri bildirim, dil ve kumandada gösterilen uygulama düğmeleri gibi tercihleri.
 * **Destek bilgileri:** Kullanıcı'nın İşletmeci'ye gönderdiği her türlü e-postanın içeriği, Kullanıcı'nın e-posta adresi ve aşağıda açıklandığı şekilde e-postaya eklenen teknik ayrıntılar.
 
-Basılan tuşlar ve bu Uygulama'nın klavyesiyle yazılan metinler yalnızca Kullanıcı'nın televizyonuna gönderilir ve saklanmaz.
+Basılan tuşlar ve bu Uygulama'nın klavyesiyle yazılan metinler yalnızca Kullanıcı'nın televizyonuna gönderilir. Bir cihazdan en son gönderilen metinler, yeniden gönderilebilmeleri için Kullanıcı silene kadar o cihazda da saklanır; başka hiçbir yere gönderilmez.
 
 Kişisel Veriler, Kullanıcı tarafından sağlanır, örneğin İşletmeci'ye yazılırken; ya da bu Uygulama kullanılırken oluşturulur, örneğin bu Uygulama bir televizyonu bulduğunda veya bir televizyonla eşleştirildiğinde.
 

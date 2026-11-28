@@ -1,6 +1,6 @@
 # Privacybeleid van Cingle Remote
 
-Laatst bijgewerkt: 3 november 2026
+Laatst bijgewerkt: 28 november 2026
 
 Deze Applicatie verwerkt zeer weinig Persoonsgegevens en bewaart vrijwel al deze gegevens op de eigen apparaten van de Gebruiker. Zij toont geen advertenties, maakt geen gebruik van analyse- of trackingdiensten en verstuurt geen Gegevens naar servers die door de Eigenaar worden beheerd.
 
@@ -37,7 +37,7 @@ Tot de soorten Persoonsgegevens die deze Applicatie verwerkt, behoren:
 * **Instellingen:** de keuzes van de Gebruiker in deze Applicatie, zoals haptische feedback, taal en de app-knoppen die op de afstandsbediening worden weergegeven.
 * **Supportgegevens:** de inhoud van elke e-mail die de Gebruiker naar de Eigenaar stuurt, het e-mailadres van de Gebruiker, en de technische gegevens die daaraan worden toegevoegd zoals hieronder beschreven.
 
-Toetsaanslagen en tekst die met het toetsenbord van deze Applicatie wordt getypt, worden uitsluitend naar de tv van de Gebruiker verzonden en worden niet opgeslagen.
+Toetsaanslagen en tekst die met het toetsenbord van deze Applicatie wordt getypt, worden uitsluitend naar de tv van de Gebruiker verzonden. De laatst vanaf een apparaat verzonden teksten worden bovendien op dat apparaat bewaard, zodat ze opnieuw kunnen worden verzonden, totdat de Gebruiker ze verwijdert; ze worden nergens anders naartoe verzonden.
 
 Persoonsgegevens worden door de Gebruiker verstrekt, bijvoorbeeld bij het schrijven aan de Eigenaar, of ontstaan bij het gebruik van deze Applicatie, bijvoorbeeld wanneer zij een tv vindt of daarmee koppelt.
 

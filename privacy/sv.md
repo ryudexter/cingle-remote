@@ -1,6 +1,6 @@
 # Integritetspolicy för Cingle Remote
 
-Senast uppdaterad: 3 november 2026
+Senast uppdaterad: 28 november 2026
 
 Denna Applikation hanterar mycket få Personuppgifter och lagrar nästan samtliga av dem på Användarens egna enheter. Den visar ingen reklam, använder inga analys- eller spårningstjänster och skickar inga Uppgifter till servrar som drivs av Ägaren.
 
@@ -37,7 +37,7 @@ Bland de typer av Personuppgifter som denna Applikation behandlar finns:
 * **Inställningar:** Användarens val i denna Applikation, såsom haptik, språk och de appknappar som visas på fjärrkontrollen.
 * **Supportinformation:** innehållet i varje e-postmeddelande som Användaren skickar till Ägaren, Användarens e-postadress och de tekniska detaljer som läggs till i meddelandet enligt beskrivningen nedan.
 
-Knapptryckningar och text som skrivs med denna Applikations tangentbord skickas endast till Användarens tv-apparat och lagras inte.
+Knapptryckningar och text som skrivs med denna Applikations tangentbord skickas endast till Användarens tv-apparat. De senaste texterna som skickats från en enhet sparas dessutom på den enheten, så att de kan skickas igen, tills Användaren raderar dem; de skickas inte någon annanstans.
 
 Personuppgifter lämnas av Användaren, till exempel när Användaren skriver till Ägaren, eller skapas när denna Applikation används, till exempel när den hittar eller parkopplar med en tv-apparat.
 

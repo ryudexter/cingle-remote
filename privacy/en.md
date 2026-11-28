@@ -1,6 +1,6 @@
 # Privacy Policy of Cingle Remote
 
-Last updated: 3 November 2026
+Last updated: 28 November 2026
 
 This Application handles very little Personal Data, and keeps almost all of it on the User’s own devices. It shows no advertising, uses no analytics or tracking services, and sends no Data to servers run by the Owner.
 
@@ -37,7 +37,7 @@ Among the types of Personal Data that this Application processes, there are:
 * **Settings:** the User’s choices in this Application, such as haptic feedback, language and the app buttons shown on the remote.
 * **Support information:** the content of any email the User sends to the Owner, the User’s email address, and the technical details added to it as described below.
 
-Key presses and text typed with this Application’s keyboard are sent only to the User’s TV, and are not stored.
+Key presses and text typed with this Application’s keyboard are sent only to the User’s TV. The most recent texts sent from a device are also kept on that device, so they can be sent again, until the User deletes them; they are not sent anywhere else.
 
 Personal Data is provided by the User, for example when writing to the Owner, or is created when this Application is used, for example when it finds or pairs with a TV.
 

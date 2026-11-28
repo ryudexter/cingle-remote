@@ -1,6 +1,6 @@
 # Datenschutzerklärung von Cingle Remote
 
-Zuletzt aktualisiert: 3. November 2026
+Zuletzt aktualisiert: 28. November 2026
 
 Diese Anwendung verarbeitet nur sehr wenige personenbezogene Daten und speichert fast alle davon auf den eigenen Geräten des Nutzers. Sie zeigt keine Werbung an, verwendet keine Analyse- oder Tracking-Dienste und sendet keine Daten an Server, die vom Anbieter betrieben werden.
 
@@ -37,7 +37,7 @@ Zu den Arten personenbezogener Daten, die diese Anwendung verarbeitet, gehören:
 * **Einstellungen:** die vom Nutzer in dieser Anwendung getroffene Auswahl, etwa zu haptischem Feedback, zur Sprache und zu den auf der Fernbedienung angezeigten App-Tasten.
 * **Support-Informationen:** der Inhalt jeder E-Mail, die der Nutzer an den Anbieter sendet, die E-Mail-Adresse des Nutzers sowie die technischen Angaben, die der E-Mail wie nachstehend beschrieben hinzugefügt werden.
 
-Tastendrücke und mit der Tastatur dieser Anwendung eingegebener Text werden ausschließlich an den Fernseher des Nutzers gesendet und nicht gespeichert.
+Tastendrücke und mit der Tastatur dieser Anwendung eingegebener Text werden ausschließlich an den Fernseher des Nutzers gesendet. Die zuletzt von einem Gerät gesendeten Texte werden zudem auf diesem Gerät gespeichert, damit sie erneut gesendet werden können, bis der Nutzer sie löscht; sie werden nirgendwohin sonst gesendet.
 
 Personenbezogene Daten werden vom Nutzer bereitgestellt, etwa wenn er dem Anbieter schreibt, oder entstehen bei der Nutzung dieser Anwendung, etwa wenn sie einen Fernseher findet oder sich mit ihm koppelt.
 
